@@ -1,6 +1,6 @@
 1. Introduction
 2. General Overview (no numbers, percentage just overall trend)
-3. First Paragraph
+3. First Paragraph (comparison)
 4. Second Paragraph (no conclusion, opinion)
 <img width="1842" height="876" alt="image" src="https://github.com/user-attachments/assets/f5905954-f794-4186-80d4-0ef5c4cee8df" />
 
