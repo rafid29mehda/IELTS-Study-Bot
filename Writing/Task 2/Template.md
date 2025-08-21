@@ -1,6 +1,6 @@
 # IELTS Writing Task 2: Detailed Scenario Templates
 
-This guide provides detailed templates for different scenarios (essay types) in IELTS Academic Writing Task 2, where you must write a 250+ word essay responding to a prompt. Each template includes a structured outline with sample phrases, explanations, and tips for achieving a band 7+ score, based on official IELTS criteria for task response, coherence, lexical resource, and grammatical range. Templates cover the five main essay types: Opinion (Agree/Disagree), Discussion (Discuss Both Views), Advantage-Disadvantage, Problem-Solution, and Two-Part Questions. Use these in your notebook to practice, customizing with vocabulary from previous notes (e.g., "I firmly believe" for opinions).
+This guide provides detailed templates for different scenarios (essay types) in IELTS Academic Writing Task 2, where you must write a 250+ word essay responding to a prompt. Each template includes a structured outline with sample phrases, explanations, and tips for achieving a band 7+ score, based on official IELTS criteria for task response, coherence, lexical resource, and grammatical range. Templates cover the five main essay types: Opinion (Agree/Disagree), Discussion (Discuss Both Views), Advantage-Disadvantage, Problem-Solution, and Two-Part Questions.
 
 For each template:
 - **Structure**: Introduction, Body Paragraphs (2-3), Conclusion.
