@@ -2,6 +2,7 @@
 2. In recent years, cost of university education has become a subject of intense debate.
 3. The debate over whether university education should be free for all students has become a contentious issue.
 4. The cost of university education is increasingly becoming a major concern worldwide.
+5. On one hand, advocates of early formal education emphasize the significance of...
 
 
 #### Question
