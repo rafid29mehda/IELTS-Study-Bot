@@ -50,13 +50,13 @@ Questions explore your views on pets and wildlife.
   I think animals should not be kept in zoos unless it is for very specific reasons. Like to protect endangered species, provide education to the public, and support conservation efforts. I believe it’s better for animals to live freely in their natural habitats whenever possible, but responsible, well-managed zoos that prioritize animal welfare and conservation can have some benefits.
 
 - **Did you have a pet when you were a child?**  
-  Yes, I had a hamster as a child, which I cared for daily. It was a fun experience that helped me learn about empathy and routine.
+  Unfortunately, I have never had a pet animal but I would love to have a dog as they are loyal and friendly.
 
 - **Would you like to have a pet in the future?**  
   Definitely, I'd love to adopt a cat since they're independent and low-maintenance. It would be a nice addition to my home.
 
 - **Why do people have pets?**  
-  People have pets for companionship, to reduce stress, and to teach children responsibility. In busy urban lives, they provide emotional support.
+  People have pets for companionship, to reduce feelings of loneliness nad stress. In busy urban lives, they provide emotional support.
 
 #### Art
 This topic includes painting, galleries, and creativity.
