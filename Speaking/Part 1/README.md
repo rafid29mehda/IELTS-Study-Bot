@@ -17,7 +17,7 @@ Common questions focus on your living situation and preferences.
   I live with my parents and my younger sister. Sharing the flat with them makes daily life more lively and supportive. For instance, my parents often guide me when I feel stressed with my studies, and my sister adds a cheerful atmosphere to the house.
 
 - **What is your favourite room?**  
-  My favourite room is the living room, as it's where I relax after a long day and spend time with family watching TV. It's decorated with cozy furniture and family photos, making it feel warm and inviting.
+  My favourite room is definitely my bedroom. It’s the place where I can relax, recharge, and focus on my studies without too many distractions. At the same time, it’s also my personal space where I can listen to music, read, or just unwind. I think I like it most because it reflects my personality and gives me a balance between work and relaxation.
 
 - **What would you change about your home?**  
   I'd like to add more natural light by installing larger windows, since the current ones make some areas feel a bit dark. Overall, though, I'm satisfied with the space.
