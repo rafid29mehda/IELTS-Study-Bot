@@ -61,23 +61,26 @@ Questions explore your views on pets and wildlife.
 #### Art
 This topic includes painting, galleries, and creativity.
 
-- **Are you good at art?**  
-  I'm not particularly talented, but I enjoy sketching as a hobby to relax. I took some classes in school, which helped me appreciate it more.
 
-- **Did you learn art at school when you were a child?**  
-  Yes, we had art lessons every week, where we learned basic drawing and painting techniques. It was one of my favorite subjects because it allowed creative freedom.
+**Are you good at art?**  
+I think I am reasonably good at art, especially when it comes to drawing simple things and sketching ideas. I never considered myself a professional artist, but I enjoy expressing my creativity through painting and digital art as a hobby.
 
-- **What kind of art do you like?**  
-  I prefer modern abstract art because it's open to interpretation and often reflects contemporary issues. Traditional paintings are nice, but abstracts feel more dynamic.
+**Did you learn art at school when you were a child?**  
+Yes, I did learn some basic art lessons at school as a child. We had one art classe every week, where we practiced drawing, painting, and simple crafts, which helped me develop an appreciation for art and encouraged creativity.
 
-- **Is art popular in your country?**  
-  Art is quite popular, especially during cultural festivals where local artists showcase their work. Many people visit galleries, though it's more common in cities.
+**What kind of art do you like?**  
+I like various kinds of art, but I’m particularly drawn to contemporary and modern art. I appreciate how modern art can express strong emotions and abstract ideas in unique and creative ways. I also enjoy photography and digital art.
 
-- **Have you ever been to an art gallery?**  
-  Yes, I visited the national gallery last year and was impressed by the variety of exhibits. It inspired me to try painting myself.
+**Is art popular in your country?**  
+Yes, art is quite popular in my country. There are many artists, both traditional and modern, who showcase their work in galleries and exhibitions. Art festivals and cultural events are common, and people of my country, appreciate paintings, sculptures, and handicrafts.
 
-- **Do you think children can benefit from going to art galleries?**  
-  Absolutely, it sparks imagination and teaches them about history and culture. It's a great way to develop critical thinking skills early on.
+**Have you ever been to an art gallery?**  
+Yes, I have visited several art galleries. I find art galleries very inspiring because they provide an opportunity to see diverse artworks and learn about different cultures and artistic styles.
+
+**Do you think children can benefit from going to art galleries?**  
+Absolutely. Visiting art galleries can broaden children’s horizons and enhance their creativity. It will also help them to appreciate different forms of expression and develop critical thinking. Experiencing art will also inspire them to bring out their own creative potential.
+
+
 
 #### Bicycles/Cycling
 Questions about usage and benefits.
