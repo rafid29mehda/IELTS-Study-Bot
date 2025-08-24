@@ -49,6 +49,8 @@ Questions explore your views on pets and wildlife.
 - **Do you think animals should be kept in zoos?**  
   I think zoos can be educational if they're well-managed and focus on conservation, but animals should have spacious enclosures to mimic their natural habitats. Otherwise, it's better to protect them in the wild.
 
+I think animals should not be kept in zoos unless it is for very specific reasons. Like to protect endangered species, provide education to the public, and support conservation efforts. I believe it’s better for animals to live freely in their natural habitats whenever possible, but responsible, well-managed zoos that prioritize animal welfare and conservation can have some benefits.
+
 - **Did you have a pet when you were a child?**  
   Yes, I had a hamster as a child, which I cared for daily. It was a fun experience that helped me learn about empathy and routine.
 
