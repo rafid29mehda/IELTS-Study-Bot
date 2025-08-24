@@ -26,7 +26,7 @@ Common questions focus on your living situation and preferences.
   Probably not long-term, as I hope to move to a house in the suburbs for more peace and quiet. For now, it's ideal for my current lifestyle.
 
 - **What facilities are there near your home?**  
-  There are plenty of facilities like supermarkets, parks, and a gym within walking distance, which makes daily life easier. It's also close to public transport, so getting around is hassle-free.
+  There are plenty of facilities like a supermarket, a small park, and a pharmacy is within walking distance, which makes daily life easier. It's also close to public transport, there’s a bus stop right outside the building, so getting around the city is hassle-free.
 
 - **What is your neighbourhood like?**  
   My neighbourhood is vibrant and multicultural, with friendly people and lots of local shops. However, it can get noisy during peak hours due to traffic.
