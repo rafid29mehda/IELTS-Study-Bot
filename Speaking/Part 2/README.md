@@ -151,3 +151,79 @@ One cherished tradition in my country is Diwali, the festival of lights, symboli
 
 (Word count: 151; Speaking time: ~1.3 minutes)
 
+
+#### 11. Describe a Time When You Received Good News
+This topic recurs in TEFLZone and similar lists, emphasizing positive experiences and emotions.
+
+**Cue Card Prompt:**  
+You should say:  
+- What the good news was  
+- When and how you received it  
+- Who gave it to you  
+- And explain how you felt about it  
+
+**Sample Answer:**  
+A memorable time I received good news was when I learned about my promotion at work, which came as a rewarding acknowledgment of my efforts. It happened last year in the spring, right after a challenging project, and I got the news via a surprise email from my manager during a routine team meeting, followed by a personal call to discuss details. The person who delivered it was my direct supervisor, someone I've respected for their fair leadership. I felt an overwhelming rush of joy and relief, as it validated months of hard work and opened doors to new responsibilities, boosting my confidence immensely. In hindsight, it was a turning point that motivated me to aim higher, reminding me that perseverance pays off in unexpected ways. Overall, such moments make life's hurdles worthwhile.
+
+(Word count: 149; Speaking time: ~1.3 minutes)
+
+#### 12. Describe a Piece of Advice Someone Gave You
+Frequently mentioned in Gradding and TEFLZone, often linked to life lessons or decisions.
+
+**Cue Card Prompt:**  
+You should say:  
+- What the advice was  
+- Who gave it to you  
+- When it was given  
+- And explain why it was useful  
+
+**Sample Answer:**  
+One valuable piece of advice I received was to always prioritize work-life balance to avoid burnout, a lesson that's shaped my daily habits. It came from my mentor at university, an experienced professor who noticed my overcommitment during exam season about four years ago, pulling me aside after class for a candid chat. This happened in my final semester when I was juggling studies and part-time jobs, and her words hit home instantly. It was useful because it encouraged me to set boundaries, like scheduling downtime, which improved my productivity and mental health in the long run. Without it, I might have continued pushing myself too hard, leading to exhaustion. Ultimately, this guidance has helped me thrive professionally while enjoying personal time, proving that wise words from others can be life-changing.
+
+(Word count: 147; Speaking time: ~1.3 minutes)
+
+#### 13. Describe a Noisy Place You Have Been To
+A staple in IELTSFever and Gradding, focusing on sensory experiences in urban or public settings.
+
+**Cue Card Prompt:**  
+You should say:  
+- Where the place is  
+- When you went there  
+- Why it was noisy  
+- And explain how you felt about the noise  
+
+**Sample Answer:**  
+A notably noisy place I've been to is the central market in my hometown, a bustling hub of vendors and shoppers that's always alive with activity. I visited it last winter during the holiday season to buy gifts, arriving in the afternoon when crowds peak. The noise stemmed from haggling sellers shouting prices, blaring music from stalls, honking vehicles nearby, and chatter from hundreds of people, creating a chaotic symphony. While it was overwhelming at first, making it hard to concentrate, I eventually felt energized by the vibrant atmosphere, as it captured the essence of local culture and community spirit. However, after an hour, the constant din left me with a headache, reinforcing my preference for quieter spots. In the end, it was a reminder that noise can add excitement but moderation is key for comfort.
+
+(Word count: 153; Speaking time: ~1.4 minutes)
+
+#### 14. Describe a Time You Had a Disagreement with Someone
+Common in IELTSFever and TEFLZone, exploring conflict resolution and relationships.
+
+**Cue Card Prompt:**  
+You should say:  
+- Who the person was  
+- What the disagreement was about  
+- How it was resolved  
+- And explain what you learned from it  
+
+**Sample Answer:**  
+A time I had a disagreement was with my roommate during our college days, over something as simple as household chores that escalated into a bigger issue. She was a close friend from high school, and the conflict arose about dividing cleaning tasks fairly, as I felt I was doing more, leading to a heated argument one evening after classes. We resolved it by sitting down calmly the next day, listing responsibilities on paper, and agreeing to a rotating schedule, which cleared the air quickly. From this, I learned the importance of open communication to prevent misunderstandings from festering, turning potential rifts into stronger bonds. It also taught me patience and compromise, skills I've applied in team projects at work. Overall, disagreements, when handled well, can foster growth and mutual respect.
+
+(Word count: 150; Speaking time: ~1.3 minutes)
+
+#### 15. Describe a Long Car Journey You Went On
+Recurring in Gradding and echoed in TEFLZone's journey variations, highlighting travel and reflections.
+
+**Cue Card Prompt:**  
+You should say:  
+- Where you went  
+- Who you went with  
+- What happened during the journey  
+- And explain why it was memorable  
+
+**Sample Answer:**  
+A long car journey I went on was a road trip to the mountains in my country, covering over 500 kilometers through winding roads and scenic valleys. I traveled with my family—parents and sibling—last summer for a week-long vacation to escape the city heat. During the drive, we stopped at roadside cafes for local snacks, played car games to pass time, and even dealt with a flat tire that turned into a funny bonding moment as we fixed it together. It was memorable because the changing landscapes, from urban highways to lush forests, sparked deep conversations and created lasting family memories, far from daily routines. The sense of adventure and freedom made it rejuvenating, teaching me to appreciate spontaneous detours in life. In retrospect, such journeys strengthen relationships and offer perspectives you can't get from flights.
+
+(Word count: 156; Speaking time: ~1.4 minutes)
+
