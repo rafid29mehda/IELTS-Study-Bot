@@ -20,7 +20,7 @@ Common questions focus on your living situation and preferences.
   My favourite room is definitely my bedroom. It’s the place where I can relax, recharge, and focus on my studies without too many distractions. At the same time, it’s also my personal space where I can listen to music, read, or just unwind. I think I like it most because it reflects my personality and gives me a balance between work and relaxation.
 
 - **What would you change about your home?**  
-  If I could change something about my home, I would probably add more natural light by installing larger windows. It makes the atmosphere much more energetic and refreshing. Overall, though, I'm satisfied with the space.
+  If I have to change something about my home, I would probably add more natural light by installing larger windows. It makes the atmosphere much more energetic and refreshing. Overall, though, I'm satisfied with the space.
 
 - **Do you plan to live there in the future?**  
   Probably not long-term, as I hope to move to a house in the suburbs for more peace and quiet. For now, it's ideal for my current lifestyle.
