@@ -56,7 +56,7 @@ Questions explore your views on pets and wildlife.
   Definitely, I'd love to adopt a cat since they're independent and low-maintenance. It would be a nice addition to my home.
 
 - **Why do people have pets?**  
-  People have pets for companionship, to reduce feelings of loneliness nad stress. In busy urban lives, they provide emotional support. They offer unconditional love, which can make people feel happier and less stressed.
+  People have pets for companionship, to reduce feelings of loneliness and stress. In busy urban lives, they provide emotional support. They offer unconditional love, which can make people feel happier and less stressed.
 
 #### Art
 This topic includes painting, galleries, and creativity.
