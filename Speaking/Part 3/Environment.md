@@ -23,3 +23,53 @@ Some ignore environmental issues due to psychological distance, perceiving them 
 
 #### 8. Do you think people in your country are concerned about the environment?
 In many countries, including mine, public concern is high, with global surveys showing a median of 67% viewing climate change as a major threat in 2025. Eurobarometer data indicates 85% of Europeans see it as serious, reflecting broader trends in impacted regions. However, while awareness grows, action varies due to barriers like cost, though polls reveal strong support for policies in places like the US (77%). In my experience, urban youth drive this concern through activism. Overall, it's increasing but needs translation into behavior.
+
+--- 
+
+### **1. What are the biggest environmental problems facing the world today?**
+
+The biggest environmental problems today include climate change, pollution, deforestation, and the loss of biodiversity. Climate change is the most pressing issue, as it leads to extreme weather conditions, rising sea levels, and the disruption of ecosystems. Pollution, particularly plastic waste, is contaminating oceans and harming marine life. Deforestation is another major problem, as it destroys habitats and contributes to the loss of species, while also affecting the planet's ability to absorb carbon dioxide.
+
+---
+
+### **2. How do you think climate change affects people's lives?**
+
+Climate change significantly affects people's lives in various ways. For instance, extreme weather events like floods, droughts, and heatwaves are becoming more frequent, leading to loss of homes, agricultural failure, and health problems. Rising sea levels threaten coastal communities, and changing rainfall patterns impact farming, leading to food insecurity. Additionally, climate change puts pressure on resources like water and energy, which can lead to social and economic instability, particularly in vulnerable regions.
+
+---
+
+### **3. What should governments do to protect the environment?**
+
+Governments play a crucial role in protecting the environment by implementing policies that reduce emissions, promote renewable energy, and regulate industries that harm the environment. They should invest in green technologies and support the transition to clean energy sources like solar and wind power. Governments can also incentivize businesses to adopt sustainable practices, increase public awareness about environmental issues, and strengthen laws related to pollution control. Additionally, international collaboration is essential to address global environmental challenges.
+
+---
+
+### **4. What role do individuals play in protecting the environment?**
+
+Individuals can make a significant impact by adopting sustainable lifestyles. Simple actions like reducing waste, recycling, conserving water and energy, and using public transportation can help reduce one’s carbon footprint. People can also support environmentally-friendly products and companies, plant trees, and spread awareness about environmental issues. While individual actions alone may not solve global problems, collectively, they can drive change and pressure governments and corporations to act more sustainably.
+
+---
+
+### **5. Do you think the government should encourage people to use public transportation?**
+
+Yes, I think the government should encourage people to use public transportation. Public transport is more environmentally friendly than private cars, as it reduces traffic congestion, lowers emissions, and conserves energy. Governments can promote public transportation by improving infrastructure, making it more affordable, reliable, and accessible. By encouraging people to switch from private cars to buses, trains, or bicycles, governments can help reduce air pollution and combat climate change.
+
+---
+
+### **6. How can people reduce their carbon footprint?**
+
+People can reduce their carbon footprint in several ways. For example, using energy-efficient appliances, driving less, and using public transport or bicycles can significantly lower carbon emissions. Reducing meat consumption, especially beef, which has a high environmental cost, can also help. People can also choose to buy locally-produced goods to minimize transportation-related emissions, reduce waste by recycling and reusing, and invest in renewable energy sources for their homes. Every small change adds up and can make a significant impact.
+
+---
+
+### **7. Why do some people ignore environmental issues?**
+
+There are several reasons why some people ignore environmental issues. One reason is a lack of awareness or understanding about the severity of the problem. Some people may also feel that their individual actions won’t make a significant difference, leading to apathy. Additionally, in many parts of the world, people are more focused on their immediate economic needs and survival, which can make environmental concerns seem less urgent. In some cases, misinformation or the influence of industries that harm the environment may also contribute to people's disregard for environmental issues.
+
+---
+
+### **8. Do you think people in your country are concerned about the environment?**
+
+Yes, I think many people in my country are becoming increasingly concerned about the environment, especially as we experience the effects of climate change more directly, such as extreme weather events and pollution. Public awareness campaigns, environmental movements, and government policies are helping people recognize the importance of sustainability. However, there are still challenges, as some people prioritize economic growth over environmental protection. Still, I believe the level of concern is rising, and more people are taking action to protect the environment.
+
+
