@@ -445,4 +445,176 @@ Job details and satisfaction.
 - **Do you plan to continue with your job in the future?**  
   Yes, with potential for advancement.
 
-These topics represent the most common ones for 2025, covering 90%+ of reported questions. Practice speaking aloud, using connectors like "because" or "for example" for higher scores. For more, check sources like IELTS Liz or IELTS Advantage.
+
+#### Name
+- **Who gave you your name?** My parents chose my name together after discussing family traditions. It's a name that's been passed down in our family for generations.
+- **Does your name have any special meaning?** Yes, it means "brave warrior" in my native language, which my family hoped would inspire strength in me.
+- **Do you like your name?** Absolutely, it's unique and easy to remember, though sometimes people mispronounce it abroad.
+- **Would you like to change your name?** No, I wouldn't, as it's a big part of my identity and connects me to my roots.
+- **Is your name common or unusual in your country?** It's fairly common, especially in older generations, but less so among younger people now.
+
+For "Home," refer to the "Accommodation/Home" section in my previous answer, which includes questions like "Do you live in a house or a flat?" and related samples.
+
+
+#### Dance
+Questions often explore personal experiences and cultural aspects.
+
+- **Do you like dancing?** Yes, I enjoy dancing at social events because it helps me relax and express myself. I particularly like freestyle dancing to upbeat music.
+- **Have you ever learned to dance?** I took some basic salsa classes a few years ago, but I'm not professional. It was fun and improved my coordination.
+- **When was the last time you danced?** The last time was at a friend's wedding last month, where we all joined in traditional folk dances—it was energetic and memorable.
+- **What kinds of dancing are popular in your country?** In my country, Bollywood-style dancing is hugely popular, especially at festivals, along with classical forms like Bharatanatyam.
+- **Do you think children should learn to dance?** Definitely, as it promotes physical fitness and creativity, plus it's a great way to build confidence.
+
+#### Dictionary
+Focuses on usage and preferences.
+
+- **How often do you use a dictionary?** I use an online dictionary almost daily, especially when reading articles or learning new words for work.
+- **What kind of dictionaries do you use?** I prefer digital ones like Oxford or Google Translate for quick lookups, but I own a physical bilingual dictionary for deeper study.
+- **Did you use dictionaries as a child?** Yes, in school we used simple picture dictionaries to build vocabulary, which made learning fun.
+- **Do you think dictionaries are useful for learning a language?** Absolutely, they provide accurate meanings and examples, helping avoid misunderstandings in communication.
+- **What is the best dictionary you've used?** The Cambridge Advanced Learner's Dictionary is my favorite for its clear explanations and audio pronunciations.
+
+#### Dreams
+About sleep dreams or ambitions.
+
+- **Do you often remember your dreams?** Sometimes, especially vivid ones, but most fade quickly after waking up.
+- **Do you think dreams have special meanings?** I'm not sure, but some people believe they reflect subconscious thoughts—I find them more random.
+- **Have you ever had a bad dream?** Yes, I once dreamed of being lost in a maze, which left me feeling anxious when I woke up.
+- **Do you like hearing about other people's dreams?** Not really, as they can be confusing, but if it's a funny one, it's entertaining.
+- **What was the most interesting dream you've had?** I dreamed of flying over my city, which felt freeing and inspired me to travel more.
+
+#### Drinks
+Preferences and habits.
+
+- **What is your favourite drink?** Coffee is my go-to, especially a strong espresso in the morning to kickstart my day.
+- **Is it common for people to drink tea and coffee in your country?** Yes, tea is a staple, often shared during breaks, while coffee is gaining popularity in urban areas.
+- **Did you prefer different drinks as a child?** As a kid, I loved sugary sodas, but now I opt for healthier options like herbal teas.
+- **Do you think it is important to drink lots of water?** Definitely, it keeps you hydrated and healthy, especially in hot climates like mine.
+- **What is a traditional drink in your country for celebrating?** During festivals, we drink lassi, a yogurt-based beverage that's refreshing and symbolic.
+
+#### Evenings
+Daily habits after work/school.
+
+- **What do you often do in the evenings?** I usually unwind by reading or watching a series, sometimes cooking a light meal.
+- **Do you do the same thing every evening?** No, it varies—weekdays are quieter, while weekends might involve meeting friends.
+- **Do you prefer to spend your evenings with family or friends?** With family for comfort, but friends for fun outings.
+- **Do you ever work or study in the evenings?** Occasionally, if there's a deadline, but I try to keep evenings for relaxation.
+- **What is a popular activity for young people in your country in the evenings?** Hanging out at cafes or street food stalls is common among youth.
+
+#### Going Out
+Social activities.
+
+- **Do you often go out in the evenings?** Not every day, but a couple of times a week for dinner or events.
+- **What do you like to do when you go out?** I enjoy exploring new restaurants or catching a movie—it's a break from routine.
+- **Do you prefer going out on your own or with friends?** With friends, as it makes experiences more enjoyable and shared.
+- **How often do you go out in a week?** About 2-3 times, balancing it with rest.
+- **Where do most young people like to go out in your country?** Malls or parks for casual meetups, or clubs for nightlife.
+
+#### Happiness
+Personal feelings and influences.
+
+- **Are you a happy person?** Overall, yes—I focus on positives like family and achievements.
+- **What usually makes you happy or unhappy?** Spending time with loved ones makes me happy; traffic jams make me unhappy.
+- **Does the weather ever affect how you feel?** Yes, sunny days energize me, while rainy ones make me reflective.
+- **What makes you smile?** Small things like a good joke or a kind gesture from a stranger.
+- **Do you think people in your country are generally happy?** Mostly, due to strong community ties, though urban stress affects some.
+
+#### Internet
+Usage and impact.
+
+- **How often do you use the internet?** Daily, for work, social media, and news—it's integral to my routine.
+- **What do you use the internet for?** Researching, connecting with friends, and online shopping.
+- **Did you use the internet much when you were younger?** Not as much; it was slower and less accessible back then.
+- **Do you think the internet is important?** Essential for information and global connections, but it can be addictive.
+- **What are the advantages of the internet?** Instant access to knowledge and easy communication worldwide.
+
+#### Marriage
+Views on weddings and relationships.
+
+- **At what age do people usually get married in your country?** Around 25-30, though it's later in cities due to careers.
+- **Do you think people should get married young?** Not necessarily; it's better when emotionally and financially ready.
+- **What kind of weddings are popular in your country?** Lavish ones with traditions, food, and dances.
+- **Have you attended many weddings?** Yes, several family ones, which are always festive.
+- **Is marriage important in your culture?** Very, as it symbolizes family unity and stability.
+
+#### Mobile Phones
+Daily use and features.
+
+- **Do you have a mobile phone?** Yes, a smartphone that's always with me.
+- **How often do you use your mobile phone?** Constantly, for calls, apps, and browsing.
+- **What do you use your mobile phone for?** Communication, navigation, and entertainment like music.
+- **Do you think mobile phones are important?** Crucial for staying connected, but they can distract from real life.
+- **Should children have mobile phones?** Only older kids, with limits to avoid overuse.
+
+#### Music
+Preferences and experiences.
+
+- **Do you like music?** Yes, it's a big part of my relaxation routine.
+- **What kind of music do you like?** Pop and indie, for their catchy tunes and lyrics.
+- **Do you play any musical instruments?** I play guitar casually, learned in school.
+- **Did you learn music at school?** Yes, basic classes that introduced rhythms and songs.
+- **Is music important in your country?** Very, with festivals and films centered around it.
+
+#### Newspapers & Magazines
+Reading habits.
+
+- **Do you often read newspapers?** Not print ones, but online news daily.
+- **Which newspapers are popular in your country?** National dailies like The Times for current affairs.
+- **Do you prefer newspapers or magazines?** Magazines for in-depth features on hobbies.
+- **Did you read newspapers as a child?** Occasionally, mainly comics sections.
+- **Do you think newspapers will be replaced by the internet?** Partly, but print has a tactile appeal.
+
+#### Public Transport
+Usage and opinions.
+
+- **How often do you use public transport?** Daily for commuting to work—it's efficient.
+- **What kinds of public transport are available in your city?** Buses, trains, and metros.
+- **Do you think public transport is important?** Yes, it reduces traffic and pollution.
+- **What improvements could be made to public transport in your country?** More frequent services and better cleanliness.
+- **Do you prefer public transport or driving?** Public for convenience in busy areas.
+
+#### Relatives
+Family connections.
+
+- **Do you have many relatives?** Yes, a large extended family we meet at gatherings.
+- **How often do you see your relatives?** Monthly, for dinners or events.
+- **Who is your closest relative?** My cousin, like a sibling to me.
+- **Do you prefer spending time with relatives or friends?** Both, but relatives for deeper bonds.
+- **What do you do with your relatives?** Share meals and stories from the past.
+
+#### Shoes
+Preferences and shopping.
+
+- **Do you like buying shoes?** Yes, especially comfortable sneakers for daily wear.
+- **How often do you buy shoes?** A few times a year, when needed.
+- **What kind of shoes do you prefer?** Casual and durable ones over fancy heels.
+- **Do you have a favourite pair of shoes?** My running shoes—they're versatile and comfy.
+- **Is buying shoes expensive in your country?** It varies, but branded ones can be pricey.
+
+#### Teachers
+Experiences and views.
+
+- **Do you remember your teachers from school?** Yes, especially my math teacher who made it fun.
+- **Did you have a favourite teacher?** My English teacher, who encouraged reading.
+- **What makes a good teacher?** Patience, knowledge, and inspiring students.
+- **Do you think teachers should be strict?** Somewhat, to maintain discipline but not overly.
+- **Would you like to be a teacher?** Maybe, if it involves creative subjects.
+
+#### Television
+Watching habits.
+
+- **How often do you watch television?** A few times a week, mainly news or series.
+- **What kinds of programs do you like?** Documentaries and comedies for variety.
+- **Did you watch much TV as a child?** Yes, cartoons after school.
+- **Do you think television is educational?** It can be, with channels on history or science.
+- **What is a popular TV show in your country?** Reality shows like talent competitions.
+
+#### Vegetables & Fruits
+Eating habits.
+
+- **Do you like eating vegetables?** Yes, they're essential for a balanced diet.
+- **What is your favourite vegetable?** Broccoli, for its versatility in cooking.
+- **Did you eat many vegetables as a child?** Not always, but my parents encouraged it.
+- **Are vegetables expensive in your country?** Seasonal ones are affordable, imports less so.
+- **Do you think people should eat more vegetables?** Definitely, for health benefits like vitamins.
+
