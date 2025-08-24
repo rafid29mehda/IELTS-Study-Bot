@@ -29,7 +29,7 @@ Common questions focus on your living situation and preferences.
   There are plenty of facilities like a supermarket, a small park, and a pharmacy is within walking distance, which makes daily life easier. It's also close to public transport, there’s a bus stop right outside the building, so getting around the city is hassle-free.
 
 - **What is your neighbourhood like?**  
-  My neighbourhood is vibrant and multicultural, with friendly people and lots of local shops. However, it can get noisy during peak hours due to traffic.
+  My neighbourhood is vibrant and multicultural, with friendly people and lots of local shops. However, it can get noisy during peak hours due to traffic. But overall, it’s a pleasant place to live.
 
 - **Do most people live in houses in your country?**  
   In my country, many people in rural areas live in houses, but in cities, flats are more common due to space constraints. It depends on the region and economic factors.
