@@ -44,7 +44,7 @@ Questions explore your views on pets and wildlife.
   My favourite animal is the dog as they are loyal and friendly. I really admire the way they develop a strong bond with their owners and always seem to bring happiness to the people around them. Dogs are also very ergetic, making them great companions for outdoor activities.
 
 - **What types of animals are kept as pets in your country?**  
-  In my country, dogs and cats are the most popular pets, but people also keep birds and fish. Exotic pets like reptiles are less common due to regulations.
+  In my country, the most common pets are dogs and cats. People love keeping dogs because they are loyal and make great companions, and cats are popular for their independent but affectionate nature. Besides these, small animals like birds, and rabbits are also kept as pets by many families. Fish tanks are quite common too, as they add a calming element to homes.
 
 - **Do you think animals should be kept in zoos?**  
   I think zoos can be educational if they're well-managed and focus on conservation, but animals should have spacious enclosures to mimic their natural habitats. Otherwise, it's better to protect them in the wild.
