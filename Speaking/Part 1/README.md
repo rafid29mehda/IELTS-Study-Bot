@@ -47,9 +47,7 @@ Questions explore your views on pets and wildlife.
   In my country, the most common pets are dogs and cats. People love keeping dogs because they are loyal and make great companions, and cats are popular for their independent but affectionate nature. Besides these, small animals like birds, and rabbits are also kept as pets by many families. Fish tanks are quite common too, as they add a calming element to homes.
 
 - **Do you think animals should be kept in zoos?**  
-  I think zoos can be educational if they're well-managed and focus on conservation, but animals should have spacious enclosures to mimic their natural habitats. Otherwise, it's better to protect them in the wild.
-
-I think animals should not be kept in zoos unless it is for very specific reasons. Like to protect endangered species, provide education to the public, and support conservation efforts. I believe it’s better for animals to live freely in their natural habitats whenever possible, but responsible, well-managed zoos that prioritize animal welfare and conservation can have some benefits.
+  I think animals should not be kept in zoos unless it is for very specific reasons. Like to protect endangered species, provide education to the public, and support conservation efforts. I believe it’s better for animals to live freely in their natural habitats whenever possible, but responsible, well-managed zoos that prioritize animal welfare and conservation can have some benefits.
 
 - **Did you have a pet when you were a child?**  
   Yes, I had a hamster as a child, which I cared for daily. It was a fun experience that helped me learn about empathy and routine.
