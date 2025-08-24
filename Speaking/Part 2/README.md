@@ -75,4 +75,79 @@ My favorite hobby is photography, which allows me to capture moments and express
 
 (Word count: 152; Speaking time: ~1.3 minutes)
 
-Practice these by timing yourself and expanding with personal details for authenticity. For higher bands, incorporate idioms (e.g., "step out of one's comfort zone") and complex structures. If preparing a research interest statement for IELTS-related studies, emphasize how such topics reveal cultural insights or language acquisition patterns.
+
+#### 6. Describe a Natural Place You Visited (e.g., Park, Garden, or Scenic Area)
+This topic is common in 2025 lists, emphasizing environmental or relaxing experiences, as seen in Gradding (park/garden) and PronHelp (beautiful natural spot).
+
+**Cue Card Prompt:**  
+You should say:  
+- Where the place is  
+- When you visited it  
+- What you saw or did there  
+- And explain why you enjoyed the visit  
+
+**Sample Answer:**  
+One natural place that left a lasting impression on me is Banff National Park in Canada, a stunning mountainous area known for its turquoise lakes and wildlife. I visited it two years ago during a summer holiday with my family, flying into Calgary and then driving through the Rockies to reach the park. There, we hiked along trails like the one to Lake Louise, where we saw crystal-clear waters reflecting snow-capped peaks, spotted deer and birds, and even picnicked by the shore while breathing in the fresh pine-scented air. What made the visit enjoyable was the sense of tranquility it provided, far from city noise, allowing me to reconnect with nature and unwind from daily stresses. The breathtaking views also inspired me to take up photography as a hobby, capturing moments that still motivate me to protect the environment. Overall, it was a rejuvenating escape that highlighted the beauty of untouched wilderness.
+
+(Word count: 164; Speaking time: ~1.5 minutes)
+
+#### 7. Describe an Advertisement You Remember
+Frequently appearing in Preptical and LeapScholar for 2025, often linked to media or consumer experiences.
+
+**Cue Card Prompt:**  
+You should say:  
+- What the advertisement was for  
+- Where you saw it  
+- What it showed  
+- And explain why you remember it  
+
+**Sample Answer:**  
+An advertisement that sticks in my mind is one for a popular eco-friendly water bottle brand, promoting sustainability and reusable products. I first saw it on a billboard while commuting to work in the city center about a year ago, and later encountered it on social media feeds. It showed vibrant images of people hiking in forests, sipping from colorful bottles made from recycled materials, with slogans emphasizing reducing plastic waste and protecting oceans, accompanied by uplifting music. I remember it vividly because of its powerful message on environmental responsibility, which aligned with my own values and prompted me to switch from single-use plastics. The creative visuals, like before-and-after shots of polluted vs. clean beaches, made it impactful and memorable in a sea of commercial ads. In the end, it not only influenced my buying habits but also raised awareness about global issues, proving how advertising can drive positive change.
+
+(Word count: 155; Speaking time: ~1.4 minutes)
+
+#### 8. Describe a Time You Helped Someone
+A recurring topic in IDP India and PronHelp, focusing on interpersonal experiences and empathy.
+
+**Cue Card Prompt:**  
+You should say:  
+- Who you helped  
+- How you helped them  
+- Why you helped  
+- And explain how you felt about it  
+
+**Sample Answer:**  
+A time I helped someone was when I assisted an elderly neighbor who was struggling with her grocery shopping during a heavy rainstorm last winter. She lived alone next door, and I noticed her fumbling with heavy bags outside her house, so I rushed over with an umbrella and carried them inside for her, even helping unpack and chat to ensure she was okay. I helped because she reminded me of my grandmother, and in our busy urban life, small acts of kindness can make a big difference, especially for those without family nearby. Afterwards, I felt a warm sense of fulfillment and gratitude, as she thanked me profusely and shared stories from her youth, strengthening our community bond. This experience reinforced the idea that helping others not only solves immediate problems but also builds lasting connections, encouraging me to be more proactive in daily life.
+
+(Word count: 159; Speaking time: ~1.4 minutes)
+
+#### 9. Describe a Skill You Learned Recently
+Common in Gradding and Preptical, often tied to personal development or hobbies.
+
+**Cue Card Prompt:**  
+You should say:  
+- What the skill is  
+- How you learned it  
+- Why you learned it  
+- And explain if it was difficult  
+
+**Sample Answer:**  
+A skill I learned recently is basic coding in Python, which involves writing simple programs for data analysis and automation. I picked it up through an online course on Coursera over the past six months, starting with tutorials on variables and loops, then practicing with projects like building a budget tracker app. I learned it to enhance my career prospects in marketing, where data skills are increasingly valuable for analyzing trends and campaigns. It was somewhat difficult at first, especially debugging errors, but the structured lessons and community forums made it manageable, turning frustration into satisfaction as I saw results. Now, I use it to automate reports at work, which saves time and boosts efficiency. Ultimately, mastering this skill has built my confidence in tech, showing that with persistence, even complex abilities become second nature.
+
+(Word count: 148; Speaking time: ~1.3 minutes)
+
+#### 10. Describe a Tradition in Your Country
+Featured in LeapScholar and IDP India, highlighting cultural aspects and family ties.
+
+**Cue Card Prompt:**  
+You should say:  
+- What the tradition is  
+- When it happens  
+- How people celebrate it  
+- And explain why it is important  
+
+**Sample Answer:**  
+One cherished tradition in my country is Diwali, the festival of lights, symbolizing the victory of good over evil. It occurs every autumn, usually in October or November, based on the lunar calendar, lasting for five days with preparations starting weeks in advance. People celebrate by decorating homes with colorful rangoli patterns and diyas (oil lamps), exchanging sweets and gifts, bursting fireworks, and gathering for family feasts featuring dishes like laddoos and curries. It's important because it fosters unity among diverse communities, promotes values like generosity and renewal, and provides a break from routine to reflect on life's positives. In my family, we also perform prayers for prosperity, which strengthens our bonds and cultural identity. Amid modernization, such traditions keep heritage alive, reminding us of our roots while adapting to contemporary life.
+
+(Word count: 151; Speaking time: ~1.3 minutes)
+
