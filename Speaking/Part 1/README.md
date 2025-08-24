@@ -41,7 +41,7 @@ Questions explore your views on pets and wildlife.
   Yes, I adore animals because they bring joy and comfort into life. For example, I enjoy watching birds near my home and sometimes even feed stray cats in the neighborhood. I think animals bring a sense of warmth to people’s lives. Although I don’t currently have a pet, I would love to keep one in the future, probably a cat or a dog, because they make great companions.
 
 - **What is your favourite animal?**  
-  My favourite is the dog, as they're loyal and energetic, making them great companions for outdoor activities. I've had one as a pet for years, and it's like part of the family.
+  My favourite animal is the dog as they are loyal and friendly. I really admire the way they develop a strong bond with their owners and always seem to bring happiness to the people around them. Dogs are also very ergetic, making them great companions for outdoor activities.
 
 - **What types of animals are kept as pets in your country?**  
   In my country, dogs and cats are the most popular pets, but people also keep birds and fish. Exotic pets like reptiles are less common due to regulations.
