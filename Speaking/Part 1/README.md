@@ -38,7 +38,7 @@ Common questions focus on your living situation and preferences.
 Questions explore your views on pets and wildlife.
 
 - **Do you like animals?**  
-  Yes, I adore animals because they bring joy and companionship into life. Growing up, I always had pets, which taught me responsibility.
+  Yes, I adore animals because they bring joy and comfort into life. For example, I enjoy watching birds near my home and sometimes even feed stray cats in the neighborhood. I think animals bring a sense of warmth to people’s lives. Although I don’t currently have a pet, I would love to keep one in the future, probably a cat or a dog, because they make great companions.
 
 - **What is your favourite animal?**  
   My favourite is the dog, as they're loyal and energetic, making them great companions for outdoor activities. I've had one as a pet for years, and it's like part of the family.
