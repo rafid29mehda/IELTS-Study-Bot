@@ -11,8 +11,7 @@ For each topic, questions can cover:
 Common questions focus on your living situation and preferences.
 
 - **Do you live in a house or a flat?**  
-  I live in a spacious flat in the city center because it's convenient for commuting to work. It has three rooms, and I appreciate the modern amenities like a balcony with a view.
-
+  I live in a spacious flat. It’s on the fourth floor of a medium‑sized apartment building. I find it quit convenient because it’s close to my university and also to some grocery stores.
 - **Who do you live with?**  
   I live with my parents and younger sibling, which creates a supportive family environment. We share responsibilities, and it helps us stay close despite busy schedules.
 
