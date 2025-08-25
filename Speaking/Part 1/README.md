@@ -62,22 +62,22 @@ Questions explore your views on pets and wildlife.
 This topic includes painting, galleries, and creativity.
 
 
-**Are you good at art?**  
+- **Are you good at art?**  
 I think I am reasonably good at art, especially when it comes to drawing simple things and sketching ideas. I never considered myself a professional artist, but I enjoy expressing my creativity through painting and digital art as a hobby.
 
-**Did you learn art at school when you were a child?**  
+- **Did you learn art at school when you were a child?**  
 Yes, I did learn some basic art lessons at school as a child. We had one art classe every week, where we practiced drawing, painting, and simple crafts, which helped me develop an appreciation for art and encouraged creativity.
 
-**What kind of art do you like?**  
+- **What kind of art do you like?**  
 I like various kinds of art, but I’m particularly drawn to contemporary and modern art. I appreciate how modern art can express strong emotions and abstract ideas in unique and creative ways. I also enjoy photography and digital art.
 
-**Is art popular in your country?**  
+- **Is art popular in your country?**  
 Yes, art is quite popular in my country. There are many artists, both traditional and modern, who showcase their work in galleries and exhibitions. Art festivals and cultural events are common, and people of my country, appreciate paintings, sculptures, and handicrafts.
 
-**Have you ever been to an art gallery?**  
+- **Have you ever been to an art gallery?**  
 Yes, I have visited several art galleries. I find art galleries very inspiring because they provide an opportunity to see diverse artworks and learn about different cultures and artistic styles.
 
-**Do you think children can benefit from going to art galleries?**  
+- **Do you think children can benefit from going to art galleries?**  
 Absolutely. Visiting art galleries can broaden children’s horizons and enhance their creativity. It will also help them to appreciate different forms of expression and develop critical thinking. Experiencing art will also inspire them to bring out their own creative potential.
 
 
