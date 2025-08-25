@@ -114,7 +114,7 @@ Focus on celebrations and importance.
 
 
 - **Do you usually celebrate your birthdays?**  
-Yes, I usually celebrate my birthday every year. I prefer small gatherings with family or close friends and sometimes have a meal or a cake to mark the occasion.
+Yes, I usually celebrate my birthday every year. I prefer small gatherings with family or close friends in a dinner with a cake to mark the occasion.
 
 - **How did you celebrate your last birthday?**  
 For my last birthday, I invited a few friends over to my house. We ate homemade food, played some board games, and had a chocolate cake. It was simple but a lot of fun because I spent it with people I care about.
