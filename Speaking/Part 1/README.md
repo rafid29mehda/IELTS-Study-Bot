@@ -112,20 +112,23 @@ Yes, I would love to take a long cycling trip someday in the countryside. It wou
 #### Birthdays
 Focus on celebrations and importance.
 
+
 - **Do you usually celebrate your birthdays?**  
-  Yes, I celebrate with a small gathering of family and friends, usually over dinner. It's a chance to reflect on the year and enjoy good company.
+Yes, I usually celebrate my birthday every year. I prefer small gatherings with family or close friends and sometimes have a meal or a cake to mark the occasion.
 
 - **How did you celebrate your last birthday?**  
-  For my last birthday, I had a picnic in the park with close friends, complete with cake and games. It was simple but memorable.
+For my last birthday, I invited a few friends over to my house. We ate homemade food, played some board games, and had a chocolate cake. It was simple but a lot of fun because I spent it with people I care about.
 
 - **Which birthdays are the most important ones in your country?**  
-  In my country, the 18th and 21st birthdays are milestones, often marked with big parties to celebrate adulthood. Elderly birthdays like 60th are also honored with family reunions.
+The most important birthdays in my country are usually a child’s first birthday and milestone ages like eighteen or twenty-one, when someone legally becomes an adult. These are often celebrated with bigger parties and special traditions.
 
 - **Do you think children should celebrate their birthdays with a party?**  
-  Yes, parties help children feel special and create happy memories. However, they don't have to be extravagant—just fun and inclusive.
+Yes, I think children should celebrate their birthdays with a party if possible. Parties make them feel special and create happy memories with their family and friends. It’s also a great way for children to socialize.
 
 - **Do you think the price of gifts is important?**  
-  Not really; it's the thought that counts more than the cost. A meaningful, inexpensive gift can be just as appreciated.
+No, I don’t think the price of gifts is important. I believe what matters most is the thought and effort behind the gift. Simple gifts can be just as meaningful as expensive ones if they show genuine care.
+
+
 
 #### Books/Reading
 About habits and preferences.
