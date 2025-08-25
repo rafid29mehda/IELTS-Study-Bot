@@ -134,28 +134,31 @@ No, I don’t think the price of gifts is important. I believe what matters most
 About habits and preferences.
 
 - **Do you like reading books?**  
-  Yes, reading is one of my favorite ways to unwind and learn new things. I try to finish at least one book a month.
+Yes, I really enjoy reading books. It’s one of my favorite ways to relax (unwind) and explore new ideas. I find reading both entertaining and educational.
 
 - **How often do you read?**  
-  I read daily, usually in the evenings for about an hour. It's a habit that helps me escape from daily stress.
+I try to read every day, even if it’s just a few pages before bed. When I’m less busy, I spend more time reading novels or research articles. It's a habit that helps me escape from daily stress.
 
 - **Do you have many books at home?**  
-  Yes, I have a small library with fiction and self-help books. I prefer physical copies over e-books for the feel of turning pages.
+Yes, I have a small bookshelf in my room filled mostly with non-fiction books about technology and self development.
 
 - **Do you prefer to buy books or borrow them?**  
-  I usually buy them if they're favorites, but I borrow from libraries to try new genres without committing.
+I prefer to borrow books from the library whenever possible because it’s cost-effective and convenient. However, if I really love a book, I’ll buy it so I can keep it.
 
 - **What kinds of books do you like to read?**  
-  I enjoy mystery novels because they keep me engaged with twists and turns. Non-fiction like biographies also inspires me.
+I really enjoy reading personal development books. I find them motivating and insightful, as they provide practical advice on how to improve various aspects of life, whether it's time management, mindset, or productivity.
 
 - **What is the best book you’ve ever read?**  
-  "To Kill a Mockingbird" is my top pick for its powerful themes on justice and empathy. It changed how I view society.
+
+The best book I’ve ever read is Rich Dad Poor Dad by Robert Kiyosaki. It is a self development book. This book completely changed the way I think about money and finance. It talks about the financial philosophies of two figures in the author’s life—his biological father, whom he calls his "Poor Dad," and the father of his best friend, his "Rich Dad." The book emphasizes the importance of financial literacy, investing in assets, and the mindset shift from working for money to having money work for you.
 
 - **Is reading books a popular activity in your country?**  
-  It's moderately popular, especially among young people with access to digital books. However, social media competes for attention.
+Yes, reading is quite popular, especially among students and older people.  Book fairs also draw large crowds.
 
 - **Do you think electronic books are better than real books?**  
-  E-books are convenient for travel, but real books offer a tactile experience that's hard to replace. It depends on the situation.
+I think both have their advantages. E-books are portable and perfect for traveling, but I still prefer a real book, the feel of holding a book, the smell of the pages, turning each page creates a more enjoyble reading experience for me.
+
+
 
 #### Childhood
 Reflecting on early years.
