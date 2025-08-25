@@ -85,26 +85,29 @@ Absolutely. Visiting art galleries can broaden children’s horizons and enhance
 #### Bicycles/Cycling
 Questions about usage and benefits.
 
+
 - **Do you have a bike?**  
-  Yes, I own a mountain bike that I use for weekend rides. It's a great way to stay fit without going to the gym.
+Yes, I have a bicycle, but I don’t use it very often these days. I usually use it for short rides around the neighborhood or for exercise. It's a great way to stay fit without going to the gym.
 
 - **How often do you use it?**  
-  I ride it a few times a week, especially for short commutes or exercise. On busy days, I prefer public transport.
+I probably ride my bike once or twice a week, mostly during weekends especially for short commutes or exercise. It’s a good way to stay fit and enjoy the outdoors. On busy days, I prefer public transport. 
 
 - **How old were you when you learned to ride a bike?**  
-  I learned when I was about six years old, with my father's help in the park. It was exciting and a bit scary at first.
+I learned when I was about six years old, with my father's help in the park. It was exciting and a bit scary at first. But once I got the hang of it, I really enjoyed riding around with my friends.
 
 - **Do many people in your country use bicycles?**  
-  In urban areas, bicycles are popular for eco-friendly commuting, but in rural places, cars are more common. Government campaigns encourage cycling to reduce pollution.
+In some cities and towns, many people use bicycles, especially for short trips or commuting to work and school. However, in bigger cities, cars and motorbikes are more popular due to convenience and traffic conditions.
 
 - **Do you think using bicycles should be encouraged?**  
-  Yes, it's healthy, reduces traffic, and is better for the environment. More bike lanes would make it safer and more appealing.
+Yes, definitely. Using bicycles is environmentally friendly, helps reduce traffic congestion, and promotes physical fitness. I think governments should create safer bike lanes and awareness campaigns to encourage more people to cycle.
 
 - **Is cycling dangerous in your country?**  
-  It can be in busy cities due to traffic, but dedicated paths make it safer. I always wear a helmet to minimize risks.
+Cycling can be somewhat dangerous due to busy traffic and the lack of dedicated bike lanes in many areas. Accidents do happen, so safety awareness and better infrastructure are important to protect cyclists. I always wear a helmet to minimize risks.
 
 - **Would you ever take a long cycling trip?**  
-  I'd love to, perhaps along a scenic route in the countryside. It would be a refreshing adventure.
+Yes, I would love to take a long cycling trip someday in the countryside. It would be a refreshing adventure to explore new places while staying active. Though it requires good preparation, but it’s definitely something I want to try in the future.
+
+
 
 #### Birthdays
 Focus on celebrations and importance.
