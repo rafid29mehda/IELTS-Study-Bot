@@ -148,8 +148,7 @@ I prefer to borrow books from the library whenever possible because it’s cost-
 - **What kinds of books do you like to read?**  
 I really enjoy reading personal development books. I find them motivating and insightful, as they provide practical advice on how to improve various aspects of life, whether it's time management, mindset, or productivity.
 
-- **What is the best book you’ve ever read?**  
-
+- **What is the best book you’ve ever read?**
 The best book I’ve ever read is Rich Dad Poor Dad by Robert Kiyosaki. It is a self development book. This book completely changed the way I think about money and finance. It talks about the financial philosophies of two figures in the author’s life—his biological father, whom he calls his "Poor Dad," and the father of his best friend, his "Rich Dad." The book emphasizes the importance of financial literacy, investing in assets, and the mindset shift from working for money to having money work for you.
 
 - **Is reading books a popular activity in your country?**  
@@ -163,23 +162,26 @@ I think both have their advantages. E-books are portable and perfect for traveli
 #### Childhood
 Reflecting on early years.
 
+
 - **Did you enjoy your childhood?**  
-  Yes, my childhood was filled with outdoor play and family trips, which made it carefree and fun. I have fond memories of school holidays.
+Yes, I truly enjoyed my childhood. It was a happy time filled with laughter, games, and a strong sense of family support. I was free from worries and had the chance to explore, play outside, and learn new things every day. Looking back, I always smile when I remember those days.
 
 - **What is your first memory of your childhood?**  
-  My first memory is playing in the garden with my siblings on a sunny day. We built forts and laughed a lot.
+My first memory of childhood is walking to school with my mother. I remember feeling both excited and nervous, and holding her hand gave me a sense of comfort and security.
 
 - **Did you have a lot of friends when you were a child?**  
-  Yes, I had a close group of neighborhood friends we played sports with every afternoon. Those friendships taught me teamwork.
+Yes, I had quite a few friends when I was young. We used to spend hours playing in the neighborhood, riding bikes, and exploring new places together. Those friendships taught me the value of mutual trust and made my childhood memorable.
 
 - **What did you enjoy doing as a child?**  
-  I loved reading adventure stories and riding my bike around the town. It sparked my imagination and kept me active.
+As a child, I loved spending time outdoors, climbing trees, and playing hide-and-seek with my friends. I also enjoyed reading books and drawing pictures during quiet afternoons. These activities helped me develop creativity and independence.
 
 - **Do you think it is better for children to grow up in the city or in the countryside?**  
-  The countryside offers fresh air and space for play, but cities provide better education and opportunities. A balance would be ideal.
+I think both have their advantages, but I believe the countryside is better for young children because it’s safer and offers more chances to play outside freely in nature. The city, on the other hand, provides good educational opportunities and access to modern facilities. Overall, the best environment depends on the child’s family situation.
 
 - **What is your favourite memory from your childhood?**  
-  My favourite is a family vacation to the beach, where I learned to swim. It was exciting and bonded us closer.
+My favourite memory from childhood is celebrating birthdays with my family and friends. The excitement of cake, balloons, and party games always made those days special. Those moments brought everyone together and created lasting happiness.
+
+
 
 #### Clothes
 About fashion and choices.
