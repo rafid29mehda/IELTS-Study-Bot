@@ -186,23 +186,26 @@ My favourite memory from childhood is celebrating birthdays with my family and f
 #### Clothes
 About fashion and choices.
 
+
 - **Are clothes important to you?**  
-  Yes, clothes help express my personality and make me feel confident. I choose them based on comfort and style.
+Yes, clothes are quite important to me because they help express my personality and make me feel confident. Besides, choosing the right clothes can also make me comfortable throughout the day.
 
 - **What kind of clothes do you usually wear?**  
-  I usually wear casual jeans and t-shirts for everyday, but smart casual for work. Comfort is key for me.
+I tend to wear comfortable and casual clothes, such as jeans, t‑shirts, and sneakers, especially for university and daily activities. For special occasions or work-related events, I prefer formal attire like shirts and pants.
 
 - **Do you ever wear the traditional clothes of your country?**  
-  Yes, during festivals like Diwali, I wear a kurta to honor cultural traditions. It's a way to connect with my heritage.
+Yes, I sometimes wear traditional clothes like Punjabi-Payjama, especially during festivals like Eid, family gatherings, or weddings. It always feels special and helps to connect with my cultural traditions.
 
 - **Where do you usually buy your clothes?**  
-  I shop online for convenience, but visit malls for trying on items. Sales seasons are my favorite time.
+I usually buy my clothes from local shops and online stores. I like shopping online because there is a wider variety and it’s more convenient, but I still enjoy visiting local markets now and then for unique items. Sales seasons are my favorite time.
 
 - **Have you ever worn a uniform?**  
-  Yes, I wore a school uniform for years, which made mornings easier but felt restrictive at times.
+Yes, I have worn a uniform when I was in school. Wearing a uniform made it easier to get ready in the mornings and helped everyone feel equal, regardless of their background.
 
 - **Do most people in your country follow fashion?**  
-  Many young people do, influenced by social media, but older generations prioritize practicality over trends.
+Most people in my country are quite aware of fashion trends, especially young people. While some prefer to dress casually, others like to experiment and wear stylish outfits that are popular at the moment.
+
+
 
 #### Computers/Technology
 Usage and importance.
