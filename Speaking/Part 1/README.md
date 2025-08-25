@@ -211,40 +211,42 @@ Most people in my country are quite aware of fashion trends, especially young pe
 Usage and importance.
 
 - **Do you often use a computer?**  
-  Yes, I use one daily for work and entertainment. It's essential in my job as a graphic designer.
+Yes, I use a computer almost every day for studying. It’s an essential tool for my academic work. I also use it to stay updated with news and explore new topics.
 
 - **How do you usually get online?**  
-  I get online via Wi-Fi at home or mobile data on the go. A smartphone is my primary device for quick access.
+I usually get online through Wi-Fi at home or via mobile data on my smartphone. The internet connection is generally stable which helps me work and study efficiently. Sometimes, I use public Wi-Fi at the university as well.
 
 - **Do you prefer desktops or laptops?**  
-  I prefer laptops for their portability, allowing me to work from anywhere. Desktops are better for heavy tasks, though.
+I prefer laptops because they are portable and convenient to use anywhere. I can easily carry mine between home, university, and my internship. Desktops might have better computing resources, but portability is more important for me.
 
 - **What do you use your computer for?**  
-  I use it for emailing, browsing, and editing photos. It's also great for streaming movies in free time.
+I mainly use my computer for research purpose. For instance, to write academic papers, to do programming, or to attend online classes. Additionally, I use it for entertainment like watching movies, playing games and listening to music in my free time.
 
 - **Do you think it is important to learn how to use a computer?**  
-  Absolutely, in today's digital world, it's a basic skill for career and daily tasks. Schools should teach it early.
+Yes, I think computer skills are vital nowadays. Almost all jobs require basic level of computer understanding. Learning to use a computer opens up many opportunities for work and education.
+
+
 
 #### Daily Routine
 Habits and schedules.
 
 - **When do you usually get up in the morning?**  
-  I get up at 6 AM to exercise before work. It helps me start the day energized.
+  I usually wake up around 7 a.m. on weekdays. I like starting my day early so that I get enough time to study. It helps me start the day energized. And on weekends, I tend to wake up a bit later to rest.
 
 - **Do you usually have the same routine every day?**  
-  Mostly yes during weekdays with work and meals, but weekends are more flexible for hobbies.
+  Yes, most of the time my routine is quite fixed because of my classes, research, and internship. In weekdays, it starts with academic studies in the morning, some internship project works in the afternoon, and reading research papers in the evening. However, during weekends, I add exercise or social activities depending on my schedule.
 
 - **What is your daily routine like?**  
-  My routine includes morning yoga, work from 9 to 5, evening reading, and dinner with family. It's structured but includes breaks.
+  My day typically starts with breakfast, then attending university classes. In the afternoon, I continue with my internship tasks and later in the Evening I read research papers.
 
 - **What would you like to change about your routine?**  
-  I'd add more time for hobbies like painting, as work takes up most of my day. Perhaps waking earlier could help.
+  I'd add more time for exercise in my daily routine. Sometimes I get too focused on my work and forget about physical health. I would also like to go to bed earlier instead of staying up late.
 
 - **How is your routine different on weekends?**  
-  Weekends are relaxed with late breakfasts and outings, unlike the rushed weekdays. It's a time to recharge.
+  On weekends, I usually wake up later and spend more time with family or friends. Sometimes, I go for cycling,  which helps me unwind.
 
 - **Are you a morning or night person?**  
-  I'm a morning person; I feel most productive early in the day. Nights are for winding down.
+  I’m more of a morning person because I feel more focused and productive in the first half of the day. However, I do sometimes enjoy reading books late at night.
 
 #### Family
 Relationships and importance.
