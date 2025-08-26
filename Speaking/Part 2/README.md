@@ -10,8 +10,11 @@ You should say:
 - What qualities they have  
 - And explain why you admire them  
 
-**Sample Answer:**  
+**Sample Answer:1**  
 The person I admire most is my grandmother, who has been a constant source of inspiration in my life. I know her well because she raised me during my childhood while my parents were working abroad, and we've shared countless stories over family dinners. She possesses remarkable qualities like resilience and kindness; despite facing hardships during her youth in a rural village, she always helped neighbors and pursued education informally through books. What truly makes her admirable is her unwavering optimism—she turned challenges into opportunities, like starting a small community library that benefited the whole village. I look up to her because in today's fast-paced world, her values remind me to stay grounded and compassionate, motivating me to volunteer in similar initiatives. Overall, her life teaches me that true strength comes from empathy and perseverance, which has shaped my own aspirations.
+
+**Sample Answer:2** 
+The person I admire most is my father, who has been a constant source of inspiration in my life. He is someone I look up to, and his influence has played a huge role in shaping who I am today. I know him very well because, he is my father, and he has always been actively involved in my life, offering guidance, wisdom, and unconditional love. He is a doctor by profession. Growing up, I saw him work long hours in the hospital, often sacrificing his personal time to help others. In today’s world, where self-interest often takes precedence, my father’s life teaches me that the true value of success lies in helping others. The main reason I admire my father is because he doesn’t just talk about values like hard work, discipline, honesty, and kindness, but he lives by them. He has always been a source of strength for me, teaching me the importance of discipline, hard work, and above all, empathy. Overall, my father’s life has shaped my values, and I hope to live up to the example he has set.
 
 (Word count: 168; Speaking time: ~1.5 minutes)
 
