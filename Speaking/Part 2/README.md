@@ -82,9 +82,9 @@ One historical place I visited in Bangladesh that left a lasting impression on m
 
 Lalbagh Fort was built in the 17th century during the Mughal period. It’s a stunning piece of architecture with gardens and a few ancient monuments, including a mosque, a tomb, and a hall where public meetings used to held. The fort was originally constructed by Prince Muhammad Azam, the son of the Mughal emperor Aurangzeb.
 
-When I visited the fort, I took a tour and learned a lot about the history of the place. I walked around the gardens, visited the tomb of a princess, and looked at the detailed designs on the walls. The fort also has a small museum with ancient items like coins, pottery, and paintings that were used during the Mughal time, which helped me understand the history better.
+When I visited the fort, I took a guided tour and learned a lot about the history of the place. I walked around the gardens, visited the tomb of a princess, and looked at the detailed designs on the walls. The fort also has a small museum with ancient items like coins, pottery, and paintings that were used during the Mughal time, which helped me understand the history better.
 
-What makes Lalbagh Fort more special to me is how peaceful it is, even though it’s in the middle of bustling Dhaka. Walking around the fort, I could imagine what life was like hundreds of years ago. It was amazing to be at a place with so much history.
+What makes Lalbagh Fort more special to me is how calm and peaceful it is, even though it’s in the middle of bustling Dhaka. Walking around the fort, I could imagine what life was like hundreds of years ago. It was amazing to be at a place with so much history.
 
 In conclusion, Lalbagh Fort is not just an elegant site, but also a symbol of Bangladesh’s rich history, and I’d recommend anyone who visits Dhaka to explore it at least once.
 
