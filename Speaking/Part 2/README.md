@@ -46,8 +46,19 @@ You should say:
 - What you did there  
 - And explain why you remember it  
 
-**Sample Answer:**  
+**Sample Answer:1**  
 A memorable place I've visited is the Taj Mahal in Agra, India, an iconic historical monument symbolizing eternal love. I went there last summer during a family trip, arriving early in the morning to avoid the crowds and witness the sunrise casting a golden hue on its white marble. We spent hours exploring the intricate gardens, admiring the detailed carvings, and learning about its history from a guide who shared stories of Emperor Shah Jahan's devotion to his wife. What makes it unforgettable is the sheer architectural beauty and the romantic legend behind it, which evoked a sense of awe and reflection on human emotions. Unlike noisy urban spots, its serene atmosphere allowed me to connect deeply with history, and the photos I took still bring back vivid memories. It's a place that highlights how architecture can immortalize personal stories, inspiring me to appreciate cultural heritage more.
+
+**Sample Answer:2**
+One historical place I visited in Bangladesh that left a lasting impression on me is Lalbagh Fort. It is located in the heart of Dhaka. I went there with my family about a year ago when we were exploring the city and wanted to experience some of the famous landmarks.
+
+Lalbagh Fort was built in the 17th century during the Mughal period. It’s a stunning piece of architecture with gardens and a few ancient monuments, including a mosque, a tomb, and a hall where public meetings used to held. The fort was originally constructed by Prince Muhammad Azam, the son of the Mughal emperor Aurangzeb.
+
+When I visited the fort, I took a tour and learned a lot about the history of the place. I walked around the gardens, visited the tomb of a princess, and looked at the detailed designs on the walls. The fort also has a small museum with ancient items like coins, pottery, and paintings that were used during the Mughal time, which helped me understand the history better.
+
+What makes Lalbagh Fort more special to me is how peaceful it is, even though it’s in the middle of bustling Dhaka. Walking around the fort, I could imagine what life was like hundreds of years ago. It was amazing to be at a place with so much history.
+
+In conclusion, Lalbagh Fort is not just an elegant site, but also a symbol of Bangladesh’s rich history, and I’d recommend anyone who visits Dhaka to explore it at least once.
 
 (Word count: 158; Speaking time: ~1.4 minutes)
 
