@@ -72,8 +72,19 @@ You should say:
 - How you overcame it  
 - And explain how you felt afterwards  
 
-**Sample Answer:**  
+**Sample Answer:1**  
 One significant challenge I faced was preparing for my first public presentation during my final year at university, about three years ago, when I had to pitch a business idea to a panel of experts. I was extremely nervous because public speaking wasn't my strength, and the stakes were high for my grade. To overcome it, I practiced repeatedly in front of a mirror and friends, researched thoroughly to build confidence, and used visualization techniques to calm my anxiety. In the end, the presentation went smoothly, and I even received positive feedback on my delivery. Afterwards, I felt an immense sense of accomplishment and relief, as it boosted my self-esteem and taught me that preparation turns fear into strength. This experience has since helped me in job interviews, reinforcing the idea that stepping out of one's comfort zone leads to personal growth.
+
+**Sample Answer:2** 
+One significant challenge I faced was during my internship at an IT company one year ago in 2024. When my supervisor instructed me to crack one of the offical Microsoft certificates, which is the AZ-104 Microsoft Azure Administrator Certification within just two months. This was a tough task for me because, at that time, I had little experience with Microsoft Azure, and the exam was known to be quite challenging.
+
+My supervisor set this goal for me, believing that getting certified would add value to my skills and contribute to the team’s success. While I was eager to meet the expectation, I was also nervous about completing the certification within such a short time frame, especially since I had other tasks to manage during my internship.
+
+To overcome this challenge, I decided to fully commit to studying for the exam. I started by setting specific hours each day to focus on Azure concepts, breaking down the syllabus into manageable chunks. I also made use of online resources, such as video tutorials, and practice tests to ensure I understood the concept well. 
+
+After two months of intense studying and preparation, I took the exam. I remember feeling nervous before submitting the test, but when I saw my score, I was relieved and proud to see that I had scored 850 out of 1000. 
+
+The feeling of relief and pride afterward was incredible. It taught me the importance of time management, dedication, and how pushing yourself out of your comfort zone can lead to success. Looking back, I’m grateful for that challenge because it not only improved my technical knowledge but also helped me develop a stronger work ethic.
 
 (Word count: 150; Speaking time: ~1.3 minutes)
 
@@ -87,8 +98,16 @@ You should say:
 - How often you do it  
 - And explain why you enjoy it  
 
-**Sample Answer:**  
+**Sample Answer:1**  
 My favorite hobby is photography, which allows me to capture moments and express creativity through visuals. I started it about four years ago when I received a basic camera as a birthday gift and took an online course to learn composition and editing basics. Now, I pursue it weekly, often during weekends when I explore parks or city streets to shoot landscapes or street scenes. What I enjoy most is the mindfulness it brings—focusing on details like light and angles helps me escape daily stress and appreciate the world's beauty. Plus, sharing photos on social media connects me with like-minded people, turning it into a social outlet. Overall, it's rewarding because it combines technical skills with artistic freedom, and seeing improvement over time gives me a sense of achievement that hobbies like reading don't always provide.
+
+**Sample Answer:2**
+My favorite hobby is reading, to be more specific to read self-development and career-oriented books, especially in areas like leadership, time management, personal finance, and technology. Reading book has been an important part of my personal and professional growth.
+
+I started reading books as a hobby during my childhood, thanks to my father, he is currently serving in army. He not only taught me the importance of discipline and time management from a very young age but also introduced me to personal growth books. I began with books like The 7 Habits of Highly Effective People by Stephen Covey and Rich Dad Poor Dad by Robert Kiyosaki, which helped me understand the basics of personal finance and time management. After joining college, I expanded my reading list with career oriented books like books on data science, machine learning, and cloud computing as I became more interested in technology.
+
+Reading books serve as a way for me to unwind and relax after a busy day or week. It gives me a mental break and helps me forget about stress.
+
 
 (Word count: 152; Speaking time: ~1.3 minutes)
 
@@ -103,8 +122,17 @@ You should say:
 - What you saw or did there  
 - And explain why you enjoyed the visit  
 
-**Sample Answer:**  
+**Sample Answer:1**  
 One natural place that left a lasting impression on me is Banff National Park in Canada, a stunning mountainous area known for its turquoise lakes and wildlife. I visited it two years ago during a summer holiday with my family, flying into Calgary and then driving through the Rockies to reach the park. There, we hiked along trails like the one to Lake Louise, where we saw crystal-clear waters reflecting snow-capped peaks, spotted deer and birds, and even picnicked by the shore while breathing in the fresh pine-scented air. What made the visit enjoyable was the sense of tranquility it provided, far from city noise, allowing me to reconnect with nature and unwind from daily stresses. The breathtaking views also inspired me to take up photography as a hobby, capturing moments that still motivate me to protect the environment. Overall, it was a rejuvenating escape that highlighted the beauty of untouched wilderness.
+
+**Sample Answer:2** 
+One of the most stunning natural places I’ve had the privilege to visit is Nilgiri, It is a place with lots of mountains and geenery. Nilgiri is the highest peak in Bangladesh, which is located in the Bandarban district. I went there last summer with some of my friends, and it was a surreal experience that I’ll never forget.
+
+Firstly, my friends and I took a bus from Dhaka to Bandarban, which took about 8 hours, and then from Bandarban city, we hired a local jeep, known as a "Chander Gari," to reach Nilgiri. The journey itself was something remarkable, the calmness and the soothing sounds of nature was so refreshing.
+
+When we arrived at Nilgiri, the view was breathtaking. We were surrounded by endless hills covered in greenery, fresh mountain air, and the mesmerizing play of clouds overhead. 
+
+The peaceful atmosphere, along with the amazing views, made this trip truly unforgettable. We enjoyed thoroughly. I would highly recommend Nilgiri to anyone who wants to escape from the bustling city life and experience the natural beauty of Bangladesh.
 
 (Word count: 164; Speaking time: ~1.5 minutes)
 
@@ -133,8 +161,17 @@ You should say:
 - Why you helped  
 - And explain how you felt about it  
 
-**Sample Answer:**  
+**Sample Answer:1**  
 A time I helped someone was when I assisted an elderly neighbor who was struggling with her grocery shopping during a heavy rainstorm last winter. She lived alone next door, and I noticed her fumbling with heavy bags outside her house, so I rushed over with an umbrella and carried them inside for her, even helping unpack and chat to ensure she was okay. I helped because she reminded me of my grandmother, and in our busy urban life, small acts of kindness can make a big difference, especially for those without family nearby. Afterwards, I felt a warm sense of fulfillment and gratitude, as she thanked me profusely and shared stories from her youth, strengthening our community bond. This experience reinforced the idea that helping others not only solves immediate problems but also builds lasting connections, encouraging me to be more proactive in daily life.
+
+**Sample Answer:2**  
+One time I helped one of my close friends, Arif, who had lost his academic books just before the exams. This happened during our last semester final. He lost his academic books due to a house shift. When he told me about the situation, he was in a panic and stressed because he had no backup books and the exam was just around the corner.
+
+I felt sorry for him as it was not his fault. Since I had already completed my preparation, I immediately offered him my textbooks. I also gave him my study notes to make things easier for him.
+
+I’ve always believed in supporting friends and family whenever they’re in need. Since I had the capability, it felt like the right thing to do. Plus, I knew he’d do the same for me if I were in a similar situation.
+
+Helping my friend gave me a deep sense of satisfaction and happiness. Seeing Arif regain his confidence and perform well in the exams made me even more proud. It was rewarding to know that my small gesture made a difference in someone's academic journey. It also strengthened our friendship. It reminded me how small acts of kindness can have a big impact.
 
 (Word count: 159; Speaking time: ~1.4 minutes)
 
@@ -163,8 +200,19 @@ You should say:
 - How people celebrate it  
 - And explain why it is important  
 
-**Sample Answer:**  
+**Sample Answer:1**  
 One cherished tradition in my country is Diwali, the festival of lights, symbolizing the victory of good over evil. It occurs every autumn, usually in October or November, based on the lunar calendar, lasting for five days with preparations starting weeks in advance. People celebrate by decorating homes with colorful rangoli patterns and diyas (oil lamps), exchanging sweets and gifts, bursting fireworks, and gathering for family feasts featuring dishes like laddoos and curries. It's important because it fosters unity among diverse communities, promotes values like generosity and renewal, and provides a break from routine to reflect on life's positives. In my family, we also perform prayers for prosperity, which strengthens our bonds and cultural identity. Amid modernization, such traditions keep heritage alive, reminding us of our roots while adapting to contemporary life.
+
+**Sample Answer:2** 
+The tradition I’d like to talk about is Pohela Baishakh, the Bengali New Year, which is one of the most vibrant festivals in Bangladesh. It is celebrated every year on April 14th. People celebrate this tradition in several ways.
+
+On this day, people wear traditional attire with a color theme of red and white which symbolizes joy and unity. Men typically wear Punjabi and pajamas, while women dress in beautiful sarees.
+
+Another key aspect is the food. Traditional dishes like panta bhat (fermented rice), bhorta (mashed vegetables or fish), and ilish (hilsa fish curry) are prepared and enjoyed with family and friends. These dishes are deeply rooted in Bengali culture. 
+
+The day is also marked by vibrant fairs, known as Baishakhi Mela. People gather there in large numbers to enjoy various cultural activities, including traditional music, dance performances, and street food.
+
+Pohela Baishakh is important because it presents our cultural identity and brings people together. It’s a time when Bengalis reconnect with their heritage, regardless of their religion or social status. The tradition fosters a sense of unity and pride. It also reminds us of our roots and values. 
 
 (Word count: 151; Speaking time: ~1.3 minutes)
 
