@@ -101,7 +101,15 @@ You should say:
 - And explain how you felt afterwards  
 
 **Sample Answer:1**  
-One significant challenge I faced was preparing for my first public presentation during my final year at university, about three years ago, when I had to pitch a business idea to a panel of experts. I was extremely nervous because public speaking wasn't my strength, and the stakes were high for my grade. To overcome it, I practiced repeatedly in front of a mirror and friends, researched thoroughly to build confidence, and used visualization techniques to calm my anxiety. In the end, the presentation went smoothly, and I even received positive feedback on my delivery. Afterwards, I felt an immense sense of accomplishment and relief, as it boosted my self-esteem and taught me that preparation turns fear into strength. This experience has since helped me in job interviews, reinforcing the idea that stepping out of one's comfort zone leads to personal growth.
+One significant challenge I faced was during my internship at an IT company in 2024. My supervisor tasked me to crack one of the offical Microsoft cloud certificates, the AZ-104 Microsoft Azure Administrator Certification within just two months. At that time, I had little experience with Azure, and the exam was known to be quite challenging.
+
+I knew, my supervisor set this goal to enhance my skills and contribute to the team, but I was nervous and was thinking how to complete it within such a short time.
+
+To overcome this challenge, I started to study regularly. I broke down the syllabus into manageable chunks and set specific study hours for each concepts. I also took help of online resources, such as video tutorials, and practice tests to understand the concepts well. 
+
+After two months of intense preparation, I took the exam. I remember feeling nervous before submitting the test, but when I saw my score of 850 out of 1000, I felt a huge sense of relief and pride.
+
+This experience taught me the importance of dedication, time management and how pushing yourself out of your comfort zone can lead to success. Looking back, I’m grateful for the challenge as it not only improved my technical skills but also helped me develop a stronger work ethic.
 
 **Sample Answer:2** 
 One significant challenge I faced was during my internship at an IT company one year ago in 2024. When my supervisor instructed me to crack one of the offical Microsoft certificates, which is the AZ-104 Microsoft Azure Administrator Certification within just two months. This was a tough task for me because, at that time, I had little experience with Microsoft Azure, and the exam was known to be quite challenging.
