@@ -1,5 +1,33 @@
 ### 15 Most Common IELTS Speaking Part 2 Cue Cards with Sample Answers
 
+7. Food and Cuisine
+
+Describe your favorite food
+
+Describe a traditional dish from your country
+
+Describe a meal you enjoyed with friends/family
+
+Describe a time you tried a new food
+
+Describe a special meal or celebration meal
+
+Describe a place you like to eat at
+
+Related topics: Culinary culture, food experiences, traditional meals, favorite restaurants.
+
+8. Technology and Innovation
+
+Describe a piece of technology you use regularly
+
+Describe an invention that changed the world
+
+Describe how technology has impacted your life
+
+Describe a time when you used a new gadget or software
+
+Describe a technological advancement you find interesting
+
 #### 1. Describe a Person You Admire (e.g., Influential Person, Actor, or Famous Person)
 This is one of the most common, appearing in Gradding (actor/admired, famous person), TEFL Zone (person who influenced, sportsperson), and How to Do IELTS (person taught you, humorous person).
 
