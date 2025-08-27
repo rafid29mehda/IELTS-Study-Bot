@@ -142,7 +142,7 @@ My favorite hobby is reading, to be more specific to read self-development and c
 
 I started reading books as a hobby during my childhood, thanks to my father, he is currently serving in army. He not only taught me the importance of discipline and time management from a very young age but also introduced me to personal growth books. I began with books like The 7 Habits of Highly Effective People by Stephen Covey and Rich Dad Poor Dad by Robert Kiyosaki, which helped me understand the basics of personal finance and time management. After joining college, I expanded my reading list with career oriented books like books on data science, machine learning, and cloud computing as I became more interested in technology.
 
-Reading books serve as a way for me to unwind and relax after a busy day or week. It gives me a mental break and helps me forget about stress.
+I try to read books daily before going to sleep. Reading books serve as a way for me to unwind and relax after a busy day or week. It gives me a mental break and helps me forget about stress.
 
 
 (Word count: 152; Speaking time: ~1.3 minutes)
