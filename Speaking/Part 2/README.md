@@ -28,8 +28,11 @@ You should say:
 - What it is about  
 - And explain why you liked it  
 
-**Sample Answer:**  
+**Sample Answer:1**  
 One book that stands out for me is "The Alchemist" by Paulo Coelho, a timeless novel about following one's dreams. I first read it during my university years, around five years ago, when I was feeling uncertain about my career path and picked it up on a friend's recommendation. The story follows a young shepherd named Santiago who embarks on a journey across deserts to find a hidden treasure, encountering mystical elements and learning profound life lessons along the way. What I liked most was its philosophical depth, blending adventure with themes of destiny and personal legend, which resonated with my own struggles at the time. The simple yet poetic language made it accessible, and it encouraged me to pursue my passions fearlessly. Even now, I reread passages for motivation, as it reminds me that the universe conspires to help those who chase their true calling. It's not just entertaining but transformative.
+
+**Sample Answer:2**  
+The best book I’ve ever read is Rich Dad Poor Dad by Robert Kiyosaki. It is a self development book. This book completely changed the way I think about money and finance. I first read it during my second year of university, after hearing so much about it from friends. The book talks about the financial philosophies of two figures in the author’s life—his biological father, whom he calls his "Poor Dad," and the father of his best friend, his "Rich Dad." The book emphasizes the importance of financial literacy, investing in assets, and shifting the mindset from working for money to having money work for you. It taught me that financial independence doesn’t necessarily come from working harder, but from working smarter. Overall, the book is not just about making money—it’s about developing a mindset for long-term success and self-empowerment. I will definitely recommend "Rich Dad Poor Dad" to those who want to improve their financial understanding and take control of their economic future.
 
 (Word count: 162; Speaking time: ~1.5 minutes)
 
