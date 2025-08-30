@@ -37,7 +37,7 @@ And explain why it is important to you.
 **Sample Answer:1**
 The piece of technology I use regularly is my smartphone. I first started using smartphone around 10 years ago, when I got it as a birthday gift from my parents. Back then, I mostly used it to stay in touch with friends and family, but over the years it has become an essential part of my daily life.
 
-I use my mobile device for a wide range of activities. The messaging applications and social media platforms like Facebook, Messenger, WhatsApp, and Gmail keep me connected to my personal and professional networks. Aside from communication, I is my primary source for entertainment. I enjoy watching videos on platforms like YouTube or Netflix, which allows me to relax and unwind after a busy day.
+I use my mobile device for a wide range of activities. For instance, the messaging applications and social media platforms like Facebook, Messenger, WhatsApp, and Gmail keep me connected to my personal and professional networks. Aside from communication, it is also my primary source for entertainment. I enjoy watching videos on platforms like YouTube or Netflix, listen to my favourite songs in the music streaming apps like spotify. These activities allow me to relax and unwind after a busy day. My favourite feature of this technology is the camera. It allows me to capture and document memories at any moment.
 
 Another major reason why I rely on my smartphone is for productivity. I use it to organize my daily schedule and keep track of my tasks. The calendar feature helps me plan my days and the to-do application ensures I don’t miss any important events.
 
