@@ -1,32 +1,48 @@
 ### 15 Most Common IELTS Speaking Part 2 Cue Cards with Sample Answers
 
-7. Food and Cuisine
+#### 1. Describe a traditional dish from your country. You should say:
 
-Describe your favorite food
+**Cue Card Prompt:**  
 
-Describe a traditional dish from your country
+What the dish is called
 
-Describe a meal you enjoyed with friends/family
+Why it is your favourite
 
-Describe a time you tried a new food
+How it is prepared
 
-Describe a special meal or celebration meal
-
-Describe a place you like to eat at
+And explain why this dish is important in your country
 
 Related topics: Culinary culture, food experiences, traditional meals, favorite restaurants.
 
-8. Technology and Innovation
+**Sample Answer:1**
+My favourite food is Biriyani. It is a very popular traditional food in Bangladesh. Biriyani is a flavorful rice-based dish, made with basmati rice, marinated meat and a rich mix of spices. The meat can be of chicken, beef or mutton.
 
-Describe a piece of technology you use regularly
+To prepare Biryani, first, the meat is marinated with yogurt, spices, and lemon juice to tenderize it. After marinating, the meat is cooked along with basmati rice in a large pot. Layers of cooked rice and meat are placed on top of each other. For extra richness some fried onions, saffron water, and ghee are added. It is then cooked on low heat until everything is perfectly blended together. The result is a dish that is not only flavorful but also looks beautiful with its golden rice and tender meat.
 
-Describe an invention that changed the world
+Biriyani represents Bangladesh's rich cultural history, Mughal emperors brought this dish in Bengal. Biryani is my favorite dish because it represents family, and celebration. It's not an everyday meal because of the time it takes to make, but that's what makes it special. It is usually prepared during special occasions like weddings, festivals such as Eid, or family gatherings on weekends. Growing up, Biryani was always the highlight of every special occasion, and even now, it’s a dish that I always look upto enjoy.
 
-Describe how technology has impacted your life
 
-Describe a time when you used a new gadget or software
+#### 2. Describe a piece of technology you use regularly. You should say:
 
-Describe a technological advancement you find interesting
+**Cue Card Prompt:**  
+
+What is the technology called?
+
+When and why did you start using it?
+
+How do you use it in your daily life?
+
+And explain why it is important to you.
+
+**Sample Answer:1**
+The piece of technology I use regularly is my smartphone. I first started using smartphone around 10 years ago, when I got it as a birthday gift from my parents. Back then, I mostly used it to stay in touch with friends and family, but over the years it has become an essential part of my daily life.
+
+I use my mobile device for a wide range of activities. The messaging applications and social media platforms like Facebook, Messenger, WhatsApp, and Gmail keep me connected to my personal and professional networks. Aside from communication, I is my primary source for entertainment. I enjoy watching videos on platforms like YouTube or Netflix, which allows me to relax and unwind after a busy day.
+
+Another major reason why I rely on my smartphone is for productivity. I use it to organize my daily schedule and keep track of my tasks. The calendar feature helps me plan my days and the to-do application ensures I don’t miss any important events.
+
+Overall, I think my smartphone is extremely important to me as it keeps me organized, entertained, and connected. It's like my personal assistant that makes life smoother and more productive.
+
 
 #### 1. Describe a Person You Admire (e.g., Influential Person, Actor, or Famous Person)
 This is one of the most common, appearing in Gradding (actor/admired, famous person), TEFL Zone (person who influenced, sportsperson), and How to Do IELTS (person taught you, humorous person).
