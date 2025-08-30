@@ -15,6 +15,7 @@ And explain why this dish is important in your country
 Related topics: Culinary culture, food experiences, traditional meals, favorite restaurants.
 
 **Sample Answer:1**
+
 My favourite food is Biriyani. It is a very popular traditional dish of Bangladesh. Biriyani is basically a flavorful rice-based dish, made with basmati rice, marinated meat and a rich mix of spices. The meat can be of chicken, beef or mutton.
 
 To prepare Biryani, first, the meat is marinated with yogurt, spices, and lemon juice to tenderize it. After marinating, the meat is cooked along with basmati rice in a large pot. Inside the pot, layers of cooked rice and meat are placed on top of each other. For extra richness some fried onions, saffron water, and ghee are added. It is then cooked on low heat until everything is perfectly blended together. Finally, the result is a dish that is not only flavorful but also looks beautiful with its golden rice and tender meat.
@@ -35,6 +36,7 @@ How do you use it in your daily life?
 And explain why it is important to you.
 
 **Sample Answer:1**
+
 The piece of technology I use regularly is my smartphone. I first started using smartphone around 10 years ago, when I got it as a birthday gift from my parents. Back then, I mostly used it to stay in touch with friends and family, but over the years it has become an essential part of my daily life.
 
 I use my mobile device for a wide range of activities. For instance, the messaging applications and social media platforms like Facebook, Messenger, WhatsApp, and Gmail keep me connected to my personal and professional networks. Aside from communication, it is also my primary source for entertainment. I enjoy watching videos on platforms like YouTube or Netflix, listen to my favourite songs in the music streaming apps like spotify. These activities allow me to relax and unwind after a busy day. Not to mention, camera is my favourite feature of this technology. It allows me to capture and document memories at any moment.
