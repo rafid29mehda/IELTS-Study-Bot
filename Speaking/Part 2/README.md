@@ -121,7 +121,7 @@ You should say:
 **Sample Answer:1**  
 One significant challenge I faced was during my internship at an IT company in 2024. My supervisor tasked me to crack one of the offical Microsoft cloud certificates, the AZ-104 Microsoft Azure Administrator Certification within just two months. At that time, I had little experience with Azure, and the exam was known to be quite challenging.
 
-I knew, my supervisor set this goal to enhance my skills and contribute to the team, but I was nervous and was thinking how to complete it within such a short time.
+I knew, my supervisor set this goal to enhance my skills so that I can contribute to the team efficiently, but I was nervous and was thinking how to complete it within such a short time.
 
 To overcome this challenge, I started to study regularly. I broke down the syllabus into manageable chunks and set specific study hours for each concepts. I also took help of online resources, such as video tutorials, and practice tests to understand the concepts well. 
 
