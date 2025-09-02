@@ -182,7 +182,7 @@ One natural place that left a lasting impression on me is Banff National Park in
 **Sample Answer:2** 
 One of the most stunning natural places I’ve had the privilege to visit is Nilgiri, It is a place with lots of mountains and geenery. Nilgiri is the highest peak in Bangladesh, which is located in the Bandarban district. I went there last summer with some of my friends, and it was a surreal experience that I’ll never forget.
 
-Firstly, my friends and I took a bus from Dhaka to Bandarban, which took about 8 hours, and then from Bandarban city, we hired a local jeep, known as a "Chander Gari," to reach Nilgiri. The journey itself was something remarkable, the calmness and the soothing sounds of nature was so refreshing.
+Firstly, my friends and I started our journey from Dhaka, which is the capital of Bangladesh. We booked bus tickets from Dhaka to Bandarban, which took about 8 hours to reach Bandarban, and then from Bandarban city, we hired a local jeep, known as a "Chander Gari," to reach Nilgiri. The journey itself was something remarkable, the calmness and the soothing sounds of nature was so refreshing.
 
 When we arrived at Nilgiri, the view was breathtaking. We were surrounded by endless hills covered in greenery, fresh mountain air, and the mesmerizing play of clouds overhead. 
 
