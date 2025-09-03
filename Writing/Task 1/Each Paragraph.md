@@ -5,17 +5,17 @@
 **Description:** Start with stable highs/lows, add key changes, and end with broader effects for depth.  
 **Ideal Scenario:** Line graphs showing trends over time.  
 **Example Breakdown (Line graph on global temperatures):**  
-- **1st Sentence:** Overall, global average temperatures exhibited a steady upward trend across the century.  
-- **2nd Sentence:** The most rapid increases occurred in the latter half, particularly in urban areas.  
-- **3rd Sentence:** In contrast, rural regions showed more moderate fluctuations, indicating uneven climate impacts.
+- **1st Sentence:** Overall, global average temperatures **exhibited a steady upward trend** across the century.  
+- **2nd Sentence:** The most **rapid increases occurred in** the latter half, particularly in urban areas.  
+- **3rd Sentence:** In contrast, rural regions **showed more moderate fluctuations,** indicating uneven climate impacts.
 
 #### Idea 2: One complex sentence split for contrasts, with a summary
 **Description:** Use connectors for linked contrasts, break into parts, and conclude with overall balance.  
 **Ideal Scenario:** Bar charts comparing categories.  
 **Example Breakdown (Bar chart on energy consumption by source):**  
-- **1st Sentence:** Overall, while renewable sources like solar and wind saw substantial growth in usage.  
-- **2nd Sentence:** Fossil fuels such as coal and oil remained dominant, though their share declined slightly over the period.  
-- **3rd Sentence:** This shift highlighted a move toward sustainability amid persistent reliance on traditional energy.
+- **1st Sentence:** Overall, while renewable sources like solar and wind **saw substantial growth** in usage.  
+- **2nd Sentence:** Fossil fuels such as coal and oil **remained dominant**, though their share declined slightly over the period.  
+- **3rd Sentence:** This **shift highlighted a move toward** sustainability amid persistent reliance on traditional energy.
 
 #### Idea 3: Three sentences for broad summary, extremes, and groups
 **Description:** Begin broad, narrow to highs/lows, and group similarities for logical flow.  
