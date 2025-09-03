@@ -1,6 +1,10 @@
-# IELTS Writing Task 2: Vocabulary and Strategies
-
-This guide provides vocabulary and strategies for IELTS Writing Task 2, covering introductions, arguments, examples, and conclusions. Each section includes when to use the vocabulary, an example, and synonyms to ensure variety and precision for a band 7+ score.
+## Common Sentences
+1. **Whether** women should be allowed to serve in the military **has become a subject of debate in recent years.**
+2. **There is a growing concern / debate / issue about** whether women should be allowed to serve in the military, which has sparked a lot of discussions.
+3. **While there are arguments in favor of banning** single-use plastics, **there are also** several counterpoints to consider. **In this essay, I will examine** both sides of the argument before offering my own opinion.
+4. **One of the main arguments in favor of using** public transportation is that it helps reduce traffic congestion.
+5. On the one hand, the advocates of public transportation **emphasize** how it helps reduce traffic congestion. / **highlight** its role in reducing traffic congestion.
+6. 
 
 ## 1. Introducing the Topic (Setting the Context)
 **When to use**: To paraphrase the essay prompt in the introduction, clearly stating the topic without copying the question.  
