@@ -6,6 +6,19 @@
 5. The most **rapid / steep increases occurred in the latter half,** particularly in urban areas.
 6. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
 7. between 2010 **and** 2025 / from 2010 **to** 2025
+8. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
+9. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
+
+
+
+## Common Paragraphs 
+**In 2000,** company A produced 12 tonnes of waste, **while companies B and C** produced around 8 tonnes and 4 tonnes of waste material respectively. **Over the following 5 years,** the waste output of companies B and C rose by around 2 tonnes, but the figure for company A fell by approximately 1 tonne.
+
+**From 2005 to 2015,** company A cut waste production by roughly 3 tonnes, and company B reduced its waste by around 7 tonnes. **In contrast,** company C saw an increase in waste production of approximately 4 tonnes over the same 10-year period. **By 2015,** company C’s waste output had risen to 10 tonnes, **while the** respective amounts of waste from companies A and B had dropped to 8 tonnes and only 3 tonnes.
+
+---
+
+
 
 ## 1. Steady Increase (Gradual Upward Trend)
 **When to use**: For predictable, linear rises without sharp jumps, often in line graphs over extended periods.  
