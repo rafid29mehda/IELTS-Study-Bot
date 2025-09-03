@@ -1,6 +1,7 @@
-# Describe Trends with Data: IELTS Writing Task 1 Vocabulary
-
-This guide provides a comprehensive list of trend descriptions for IELTS Academic Writing Task 1, covering all major trend types. Each trend includes a context for use, an example with data, and varied synonyms to enhance vocabulary and avoid repetition, targeting band 7+.
+## Common Trends
+1. **A significant proportion of** the budget was allocated to education in 2020.
+2. **The highest point was recorded / peak was observed** in 2019, with sales reaching $5 million.
+3. Between 2015 and 2018, the population remained relatively **stable / constant / steady** at 1 million.
 
 ## 1. Steady Increase (Gradual Upward Trend)
 **When to use**: For predictable, linear rises without sharp jumps, often in line graphs over extended periods.  
