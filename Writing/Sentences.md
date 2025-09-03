@@ -5,3 +5,4 @@
 5. **As globalization accelerates,** many indigenous languages are at risk of extinction.
 6. This **could be achieved by incorporating** local languages into school curricula up to at least the high school level.
 7. Additionally, **government initiatives and community-based programs can play a pivotal role in** encouraging the use of these languages in daily life and media.
+8. 
