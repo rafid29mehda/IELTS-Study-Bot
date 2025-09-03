@@ -5,6 +5,7 @@
 4. Overall, global temperatures **exhibited a steady upward trend** over the years.
 5. The most **rapid / steep increases occurred in the latter half,** particularly in urban areas.
 6. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
+7. between 2010 **and** 2025 / from 2010 **to** 2025
 
 ## 1. Steady Increase (Gradual Upward Trend)
 **When to use**: For predictable, linear rises without sharp jumps, often in line graphs over extended periods.  
