@@ -2,6 +2,9 @@
 1. **A significant proportion of** the budget was allocated to education in 2020.
 2. **The highest point was recorded / peak was observed** in 2019, with sales reaching $5 million.
 3. Between 2015 and 2018, the population remained relatively **stable / constant / steady** at 1 million.
+4. Overall, global temperatures **exhibited a steady upward trend** over the years.
+5. The most **rapid / steep increases occurred in the latter half,** particularly in urban areas.
+6. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
 
 ## 1. Steady Increase (Gradual Upward Trend)
 **When to use**: For predictable, linear rises without sharp jumps, often in line graphs over extended periods.  
