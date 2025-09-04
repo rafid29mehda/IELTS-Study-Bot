@@ -4,7 +4,7 @@
 3. **While there are arguments in favor of banning** single-use plastics, **there are also** several counterpoints to consider. **In this essay, I will examine** both sides of the argument before offering my own opinion.
 4. **One of the main arguments in favor of using** public transportation is that (its proponents believe it is an) it helps reduce traffic congestion.
 5. On the other hand, the advocates of public transportation **emphasize** how it helps reduce traffic congestion. / **highlight** its role in reducing traffic congestion.
-6. 
+6. **In addition,** excessive TV viewing **can result in** obesity **as** kids are inactive **and** tend to eat junk food **while** watching TV.
 
 ## 1. Introducing the Topic (Setting the Context)
 **When to use**: To paraphrase the essay prompt in the introduction, clearly stating the topic without copying the question.  
