@@ -6,8 +6,9 @@
 5. The most **rapid / steep increases occurred in the latter half,** particularly in urban areas.
 6. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
 7. between 2010 **and** 2025 / from 2010 **to** 2025
-8. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
-9. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
+8. increased by 8% / increased from 2% to 10%
+9. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
+10. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
 
 
 
