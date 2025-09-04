@@ -1,6 +1,6 @@
 ## Common Sentences
 1. **Whether** women should be allowed to serve in the military **has become a subject of debate in recent years.**
-2. **There is a growing concern / debate / issue about** whether women should be allowed to serve in the military, which has sparked a lot of discussions.
+2. **There is a growing concern / debate / issue about** whether women should be allowed to serve in the military, which has sparked many discussions.
 3. **While there are arguments in favor of banning** single-use plastics, **there are also** several counterpoints to consider. **In this essay, I will examine** both sides of the argument before offering my own opinion.
 4. **One of the main arguments in favor of using** public transportation is that it helps reduce traffic congestion.
 5. On the one hand, the advocates of public transportation **emphasize** how it helps reduce traffic congestion. / **highlight** its role in reducing traffic congestion.
