@@ -11,10 +11,10 @@ For each topic, questions can cover:
 Common questions focus on your living situation and preferences.
 
 - **Do you live in a house or a flat?**  
-  I live in a spacious flat. It’s on the fourth floor of a medium‑sized apartment building. I find it quit convenient because it’s close to my university and also to some grocery stores.
+  I live in a spacious flat. It’s on the 13th floor of a medium‑sized apartment building. I find it quit convenient because it’s close to my university and there are also grocery stores nearby.
 
 - **Who do you live with?**  
-  I live with my parents and my younger sister. Sharing the flat with them makes daily life more lively and supportive. For instance, my parents often guide me when I feel stressed with my studies, and my sister adds a cheerful atmosphere to the house.
+  I live with my parents and my younger sister. Sharing the flat with them makes daily life more lively and supportive. For instance, my parents often guide me whenever I feel stressed with my studies or work, and my sister adds a cheerful atmosphere to the house.
 
 - **What is your favourite room?**  
   My favourite room is definitely my bedroom. It’s the place where I can relax, recharge, and focus on my studies without too many distractions. At the same time, it’s also my personal space where I can listen to music, read, or just unwind. I think I like it most because it reflects my personality and gives me a balance between work and relaxation.
