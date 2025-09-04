@@ -1,7 +1,7 @@
 ## Common Sentences
 1. **Whether** women should be allowed to serve in the military **has become a subject of debate in recent years.**
 2. **In today's rapidly evolving world**, the question of whether / **The advent of digital technology** raises the question of whether
-3. **There is a growing concern / debate / issue about** whether women should be allowed to serve in the military, which has sparked many discussions in recent years.
+3. **There is a growing concern / debate / issue about** whether capital punishment should be abolished or retained for the most serious crimes, which has sparked many discussions in recent years.
 4. **While there are arguments in favor of banning** single-use plastics, **there are also** several counterpoints to consider. **In this essay, I will examine** both sides of the argument before offering my own opinion.
 5. **One of the main arguments in favor of using** public transportation is that (its proponents believe it is an) it helps reduce traffic congestion.
 6. **Furthermore,** globalization **not only fosters** cultural exchange **but also promotes** economic interdependence among nations.
