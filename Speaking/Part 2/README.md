@@ -392,3 +392,19 @@ You should say:
 One time of the day that I really like is the early morning, especially around 6 to 7 a.m. This time feels very peaceful and refreshing to me. Usually, during this time, I like to start my day with a calm routine. I often practice some light stretching or yoga to loosen up my body after waking up. After that, I make myself a cup of tea or coffee and spend some time reading or planning my day ahead. Sometimes I go for a short walk outside, enjoying the fresh air and the quiet surroundings before the world gets busy. I am usually alone during this time, but sometimes my family members join me for breakfast or a morning chat.
 
 The reason why I like this time of the day so much is because it gives me a sense of calm and helps me prepare mentally and physically for the day ahead. Unlike other times, early morning feels less noisy and stressful, and there's a certain beauty in watching the sunrise and hearing the birds sing. It also feels like a fresh start, a chance to set positive intentions and organize my thoughts. Overall, the early morning is my favorite time because it sets a positive tone for the rest of the day.
+
+#### 18. Describe your favourite animal.
+
+
+**Sample Answer**
+One of my favorite animals is definitely the dog. I am fond of dogs because they are loyal, intelligent and friendly companions. Among all breeds, I particularly like theGgolden Retriever, as they are very gentle and affectionate.
+
+I admire dogs for many reasons. Firstly, they are known to be very protective of their owners, which makes them excellent family pets. They can sense emotions and provide comfort when someone feels sad or stressed. Another quality I really like is their playfulness. They enjoy activities like running, playing fetch, or simply going for long walks, which makes them active and fun to be around.
+
+I also find dogs admirable because they are incredibly useful animals. For example, many dogs help people with disabilities, such as guide dogs for the blind. Some are trained to rescue people during emergencies or work with the police. This shows their intelligence and ability to bond with people on a deep level.
+
+Although I don’t have a dog currently, I plan to get one in the near future as they bring a lot of joy, happiness and positive energy into a home.
+
+In short, dogs are my favorite animals because they are loyal, caring, and valuable in many aspects of life. I think they are truly man’s best friend.
+
+
