@@ -346,3 +346,24 @@ A long car journey I went on was a road trip to the mountains in my country, cov
 
 (Word count: 156; Speaking time: ~1.4 minutes)
 
+
+#### 16. Describe a piece of art you like.
+You should say:
+what the work of art is
+when you first saw it
+what you know about it
+and explain why you like it.
+
+**Sample Answer**
+One piece of art that I am really fond of is the famous painting called the "Mona Lisa" by Leonardo da Vinci. It's a famous oil painting depicting a woman with a mysterious smile. This painting is widely regarded as one of the greatest masterpieces in the history of art. I first came across this painting when I was studying art history back in high school, where we learned about famous artists and their most important works. Although I have never seen the original painting in person, I have seen numerous pictures of it and even watched documentaries about its history and significance. The original is kept in the Louvre Museum in Paris and attracts millions of visitors every year. What I find so captivating about this painting is the artist’s meticulous attention to detail, the soft shading technique called sfumato, and the way the smile seems to change depending on the viewer’s perspective. There is also a lot of mystery surrounding who the woman really was, which adds to the painting's allure. All these factors combined make it a piece of art that I deeply admire and enjoy thinking about.
+
+
+#### 17. Describe a piece of advice you recently received.
+You should say:
+when this happened
+who gave you the advice
+what the advice was
+and explain how you felt about the advice.
+
+**Sample Answer**
+Recently, I received a very valuable piece of advice from my father about choosing a career path. This happened a few months ago when I was feeling confused about what I wanted to do after finishing my studies. My father sat me down one evening and shared a story from his own life. He told me how after college he had taken a well-paying job in real estate but was unhappy because it didn’t feel meaningful or fulfilling to him. He explained that he later changed careers to start a small restaurant with a friend, which was much harder but made him feel joyful and satisfied. From this story, my father advised me not to choose a job just for the money but to find something that makes me happy and fulfilled. I felt really grateful for this advice because it showed me the importance of passion over money when it comes to work. It also gave me hope and encouragement to follow my own dreams rather than pressure from others.
