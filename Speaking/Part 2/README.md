@@ -1,5 +1,16 @@
 ### 15 Most Common IELTS Speaking Part 2 Cue Cards with Sample Answers
 
+#### 0. Describe your daily routine
+
+**Sample Answer**
+I usually start my day early in the morning around 6:30 a.m. by waking up and doing some light excercise. After that, I take a quick shower and have a healthy breakfast, usually consisting of fruits, eggs, and tea. Once I’m ready, I leave for my internship at the IT company where I work as a DevOps engineer. My work during the day mainly involves setting up deployment pipelines and collaborating with developers, but I also attend meetings to discuss project progress and plan tasks.
+
+In between work, during lunch, I usually eat with my colleagues in the office cafeteria. After work, I return home and spend some time with my family members. Then, we have our dinner. 
+
+In the evening, I dedicate a little time to working on my research paper that I plan to publish as part of my goal to pursue a Master’s degree abroad. Besides that, I often relax by reading books, watching a series, or chatting with friends online. before going to bed.
+
+Overall, my daily routine is quite busy but balanced, including work, study, exercise, and time with loved ones, which keeps me productive and motivated throughout the day.
+
 #### 1. Describe a traditional dish from your country. You should say:
 
 **Cue Card Prompt:**  
@@ -367,3 +378,16 @@ and explain how you felt about the advice.
 
 **Sample Answer**
 Recently, I received a very valuable piece of advice from my father about choosing a career path. This happened a few months ago when I was feeling confused about what I wanted to do after finishing my studies. My father sat me down one evening and shared a story from his own life. He told me how after college he had taken a well-paying job in real estate but was unhappy because it didn’t feel meaningful or fulfilling to him. He explained that he later changed careers to start a small restaurant with a friend, which was much harder but made him feel joyful and satisfied. From this story, my father advised me not to choose a job just for the money but to find something that makes me happy and fulfilled. I felt really grateful for this advice because it showed me the importance of passion over money when it comes to work. It also gave me hope and encouragement to follow my own dreams rather than pressure from others.
+
+
+#### 18. Describe a time of the day you like.
+You should say:
+- what time of day it is
+- what you do at that time
+- who you are usually with
+- and explain why you like it.
+
+**Sample Answer**
+One time of the day that I really like is the early morning, especially around 6 to 7 a.m. This time feels very peaceful and refreshing to me. Usually, during this time, I like to start my day with a calm routine. I often practice some light stretching or yoga to loosen up my body after waking up. After that, I make myself a cup of tea or coffee and spend some time reading or planning my day ahead. Sometimes I go for a short walk outside, enjoying the fresh air and the quiet surroundings before the world gets busy. I am usually alone during this time, but sometimes my family members join me for breakfast or a morning chat.
+
+The reason why I like this time of the day so much is because it gives me a sense of calm and helps me prepare mentally and physically for the day ahead. Unlike other times, early morning feels less noisy and stressful, and there's a certain beauty in watching the sunrise and hearing the birds sing. It also feels like a fresh start, a chance to set positive intentions and organize my thoughts. Overall, the early morning is my favorite time because it sets a positive tone for the rest of the day.
