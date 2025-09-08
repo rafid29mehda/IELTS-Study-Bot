@@ -8,7 +8,7 @@ I usually start my day early in the morning around 6:30 a.m. by waking up and do
 
 In between work, during lunch, I usually eat with my colleagues in the office cafeteria. After work, I return home and spend some time with my family members. Then, we have our dinner. 
 
-In the evening, I dedicate a little time to working on my research paper that I plan to publish as part of my goal to pursue a Master’s degree abroad. Besides that, I often relax by reading books, watching a series, or chatting with friends online. before going to bed.
+In the evening, I dedicate a little time on my research which involves analyzing academic articles, processing data, and writing codes. Besides that, I often relax by reading books, watching a series, or chatting with friends online before going to sleep.
 
 Overall, my daily routine is quite busy but balanced, including work, study, exercise, and time with loved ones, which keeps me productive and motivated throughout the day.
 
