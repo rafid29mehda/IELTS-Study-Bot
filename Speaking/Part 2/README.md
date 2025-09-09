@@ -4,7 +4,9 @@
 
 **Sample Answer**
 
-I usually start my day early in the morning around 6:30 a.m. by waking up and doing some light excercise. After that, I take a quick shower and have a healthy breakfast, usually consisting of fruits, eggs, and tea. Once I’m ready, I leave for my internship at the IT company where I work as a DevOps engineer. My work during the day mainly involves setting up deployment pipelines and collaborating with developers, but I also attend meetings to discuss project progress and plan tasks.
+I usually start my day early in the morning around 6:30 a.m. by waking up and doing some light excercise. After that, I take a quick shower and have a healthy breakfast, usually consisting of fruits, eggs, and tea. (Currently, I have started doing an internship during my weekends to earn my pocket money, as on weekdays I need to attend my university. So, once I’m ready,)
+
+Once I’m ready, I leave for my internship at the IT company where I work as a DevOps engineer. My work during the day mainly involves setting up deployment pipelines and collaborating with developers, but I also attend meetings to discuss project progress and plan tasks.
 
 In between work, during lunch, I usually eat with my colleagues in the office cafeteria. After work, I return home and spend some time with my family members. Then, we have our dinner. 
 
