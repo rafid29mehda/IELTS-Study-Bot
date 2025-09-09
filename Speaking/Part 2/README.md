@@ -397,9 +397,9 @@ The reason why I like this time of the day so much is because it gives me a sens
 
 #### 19. Describe your favourite animal.
 **Sample Answer**
-One of my favorite animals is definitely the dog. I am fond of dogs because they are loyal, intelligent and friendly companions. Among all breeds, I particularly like theGgolden Retriever, as they are very gentle and affectionate.
+One of my favorite animals is definitely the dog. I am fond of dogs because they are loyal, intelligent and friendly companions. Among all breeds, I particularly like the Ggolden Retriever, as they are very gentle and affectionate.
 
-I admire dogs for many reasons. Firstly, they are known to be very protective of their owners, which makes them excellent family pets. They can sense emotions and provide comfort when someone feels sad or stressed. Another quality I really like is their playfulness. They enjoy activities like running, playing fetch, or simply going for long walks, which makes them active and fun to be around.
+I admire dogs for many reasons. Firstly, they are known to be very protective of their owners, which makes them excellent family pets. They can sense emotions and provide comfort when someone feels sad or stressed. Another quality I really like is their playfulness. They enjoy activities like running, playing fetch, or simply going for long walks.
 
 I also find dogs admirable because they are incredibly useful animals. For example, many dogs help people with disabilities, such as guide dogs for the blind. Some are trained to rescue people during emergencies or work with the police. This shows their intelligence and ability to bond with people on a deep level.
 
@@ -410,9 +410,9 @@ In short, dogs are my favorite animals because they are loyal, caring, and valua
 
 #### 20. Describe your neighborhood.
 **Sample Answer**
-I live in Gulshan, which is one of the most well-known neighborhoods in Dhaka city. It’s located in the northern part of the capital. Gulshan is a modern, well-planned, and vibrant neighbourhood.
+I live in Gulshan, which is one of the most well-known neighborhoods in Dhaka city. It’s located in the northern part of the capital. Gulshan is a vibrant neighbourhood.
 
-The area is clean, well-planned, and secure, with wide roads, great transport facilities, beautiful lakes, and a plenty of residential buildings, embassies and corporate offices. The place is convenient for me as everything is nearby. You can find grocery shops, shopping malls, hospitals and schools in walking distance. While it can get crowded during working hours due to the commercial offices, it becomes calmer and more relaxed in the evenings. The area is also very secure, with security guards and CCTV cameras everywhere, which makes residents feel safe.
+The area is  modern and well-planned with wide roads, great transport facilities, exquisite lakes-gardens and a plenty of residential buildings, embassies and corporate offices. The place is convenient for me as everything is nearby. You can find grocery shops, shopping malls, hospitals and schools in walking distance. While it can get crowded during working hours due to the commercial offices, it becomes calmer and more relaxed in the evenings. The area is also very secure, with security guards and CCTV cameras everywhere, which makes residents feel safe.
 
 What I really appreciate is the sense of community here, people are friendly and welcoming. Many families have lived here for years, so neighbors often know each other well and take the time to greet one another, especially during festivals or whenever anyone needs help.
 
