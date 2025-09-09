@@ -393,9 +393,7 @@ One time of the day that I really like is the early morning, especially around 6
 
 The reason why I like this time of the day so much is because it gives me a sense of calm and helps me prepare mentally and physically for the day ahead. Unlike other times, early morning feels less noisy and stressful, and there's a certain beauty in watching the sunrise and hearing the birds sing. It also feels like a fresh start, a chance to set positive intentions and organize my thoughts. Overall, the early morning is my favorite time because it sets a positive tone for the rest of the day.
 
-#### 18. Describe your favourite animal.
-
-
+#### 19. Describe your favourite animal.
 **Sample Answer**
 One of my favorite animals is definitely the dog. I am fond of dogs because they are loyal, intelligent and friendly companions. Among all breeds, I particularly like theGgolden Retriever, as they are very gentle and affectionate.
 
@@ -406,5 +404,21 @@ I also find dogs admirable because they are incredibly useful animals. For examp
 Although I don’t have a dog currently, I plan to get one in the near future as they bring a lot of joy, happiness and positive energy into a home.
 
 In short, dogs are my favorite animals because they are loyal, caring, and valuable in many aspects of life. I think they are truly man’s best friend.
+
+
+#### 20. Describe your neighborhood.
+**Sample Answer**
+I live in Gulshan, which is one of the most well-known neighborhoods in Dhaka city. It’s located in the northern part of the capital. Gulshan is a modern, well-planned, and vibrant neighbourhood.
+
+The area is clean, well-planned, and secure, with wide roads, great transport facilities, beautiful lakes, and a plenty of residential buildings, embassies and corporate offices. The place is convenient for me as everything is nearby. You can find grocery shops, shopping malls, hospitals and schools in walking distance. While it can get crowded during working hours due to the commercial offices, it becomes calmer and more relaxed in the evenings. The area is also very secure, with security guards and CCTV cameras everywhere, which makes residents feel safe.
+
+What I really appreciate is the sense of community here, people are friendly and welcoming. Many families have lived here for years, so neighbors often know each other well and take the time to greet one another, especially during festivals or whenever anyone needs help.
+
+Overall, I enjoy living in my neighborhood because it offers a comfortable lifestyle. It is surrounded by greenery where people can walk and exercise. The environment feels serene and tranquil. I feel lucky to live in such a vibrant and welcoming neighbourhood.
+
+
+
+
+
 
 
