@@ -43,6 +43,8 @@ Technology has revolutionized communicationby connecting people globally through
 #### Paragraph 5 – Technology in Education
 Technology has greatly enhanced the learning experience in recent years. It provides students with access to a wide range of online resources and the ability to learn at their own pace. E-learning platforms and educational applications provide flexibility and accessibility, allowing students to learn from anywhere. However, it’s important that educational technology complements traditional methods, as in-person interactions and hands-on learning are still essential for proper development.
 
+#### Paragraph 5 – AI and Future Jobs
+Artificial intelligence is reshaping the job market by automating human-led tasks. While it has created new opportunities like cybersecurity and digital marketing, it has also replaced jobs that were previously carried out manually. Currently, we need to instruct the technology to complete a particular task but I think in future technology will have the decision making capability to analyze the surrounding environment and automatically provide instruction to itself to do a task. However, the rise of technology in the workplace also requires workers to constantly adapt and upskill to remain in the competitive job market. As technology continues to evolve, continuous learning and adaptability will be key to thriving in the future workforce.
 
 
 
