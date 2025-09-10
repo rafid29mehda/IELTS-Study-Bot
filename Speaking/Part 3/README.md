@@ -40,8 +40,8 @@ While technology has brought many benefits, it has also led to several challenge
 #### Paragraph 4 – Technology and Communication
 Technology has revolutionized communicationby connecting people globally through instant messaging and real-time video calls. Social media platforms and messaging applications allow for instant connection, making long-distance communication much more feasible. However, relying too much on digital communication can lead to misunderstandings and emotional detachment in personal relationships.
 
-#### Paragraph 7 – Technology in Education
-
+#### Paragraph 5 – Technology in Education
+Technology has greatly enhanced the learning experience in recent years. It provides students with access to a wide range of online resources and the ability to learn at their own pace. E-learning platforms and educational applications provide flexibility and accessibility, allowing students to learn from anywhere. However, it’s important that educational technology complements traditional methods, as in-person interactions and hands-on learning are still essential for proper development.
 
 
 
