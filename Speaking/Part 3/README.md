@@ -45,6 +45,23 @@ Technology has greatly enhanced the learning experience in recent years. It prov
 
 #### Paragraph 5 – AI and Future Jobs
 Artificial intelligence is reshaping the job market by automating human-led tasks. While it has created new opportunities like cybersecurity and digital marketing, it has also replaced jobs that were previously carried out manually. Currently, we need to instruct the technology to complete a particular task but I think in future technology will have the decision making capability to analyze the surrounding environment and automatically provide instruction to itself to do a task. However, the rise of technology in the workplace also requires workers to constantly adapt and upskill to remain in the competitive job market. As technology continues to evolve, continuous learning and adaptability will be key to thriving in the future workforce.
+---
+### Environment / Sustainability / Pollution
+
+#### Paragraph 1 – Importance of Environmental Protection
+Environmental protection is crucial for maintaining ecological balance and human well-being.
+It safeguards biodiversity, prevents natural disasters, and ensures clean air and water for future generations. It also plays a vital role in fighting climate change and preserving natural resources.
+
+#### Paragraph 2 – Causes of Pollution
+Human activities like urbanization is the primary driver of environmental pollution.
+Rapid city growth leads to deforestation, industrial emissions and increased use of plastics. Overuse of fossil fuels degrade the air quality. Use of chemicals in agriculture pollutes the water.
+
+#### Paragraph 3 – Effects of Pollution
+Pollution has profound effects on health, ecosystems, and climate across the globe. Water pollution cause various fatal diseases and premature deaths. Air pollution is reponsible for global warming. Marine life suffers from plastic waste. Pollution disrupts the biodiversity and increases natural disasters.
+
+#### Paragraph 4 – Advantages of Environmental Sustainability
+Environmental sustainability brings numerous benefits that contribute to a healthier planet and ecological balance. By adopting sustainable practices such as the use of renewable energy, waste management, eco-friendly sustainable development, reforestation, and by taking recycling initiatives, we can reduce reliance on fossil fuels, lower carbon emissions, prevent biodiversity loss, and control pollution.
+
 
 
 
