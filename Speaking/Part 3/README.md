@@ -62,8 +62,13 @@ Pollution has profound effects on health, ecosystems, and climate across the glo
 #### Paragraph 4 – Advantages of Environmental Sustainability
 Environmental sustainability brings numerous benefits that contribute to a healthier planet and ecological balance. By adopting sustainable practices such as the use of renewable energy, waste management, eco-friendly sustainable development, reforestation, and by taking recycling initiatives, we can reduce reliance on fossil fuels, lower carbon emissions, prevent biodiversity loss, and control pollution.
 
+#### Paragraph 5 – Role of Individuals in Sustainability
+Individuals play a critical role in achieving sustainability through their daily choices and behaviors.
+By adopting eco-friendly habits such as reducing waste, preserving water, using public transport, supporting businesses that prioritize sustainable products, individuals can contribute significantly to environmental protection. It is essential for each person to recognize their role and take responsibility for a greener society.
 
-
+#### Paragraph 6 – Government and Corporate Responsibilities
+Both governments and corporations have a major role to play in ensuring a sustainable future.
+Governments must implement policies and regulations that promote environmental protection, such as carbon taxes and renewable energy incentives. On the other hand, corporations have the responsibility to adopt sustainable practices in their operations, such as reducing emissions and prioritizing eco-friendly production.
 
 
 
