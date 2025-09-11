@@ -19,7 +19,7 @@
 18. **From my perspective, although there are valid concerns regarding** the environmental costs of urbanization, **the benefits far outweigh the drawbacks in terms of** economic growth and improved living standards.
 19. **In conclusion, while there are valid arguments on both sides,** it is clear that the advantages of adopting renewable energy sources **outweigh** the potential drawbacks.
 20. The **governments should take proactive steps to address** climate change **in order to** safeguard future generations.
-21. **It is essential for designated / accountable authorities / policymakers to enforce strict regulations** on deforestation to preserve ....
+21. **It is essential for designated / responsible / accountable authorities / policymakers to enforce strict regulations** on deforestation to preserve ....
 22. **By implementing these measures,** society can **pave the way for** a more equitable and prosperous future.
 
 
