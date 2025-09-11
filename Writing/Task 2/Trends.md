@@ -7,19 +7,20 @@
 6. There is an ongoing discussion about whether learning additional languages brings more benefits than drawbacks, which has sparked many debates in recent years. While the merits can be significant, there are also notable demerits to consider. In this essay, I will outline the main advantages and disadvantages before offering my opinion.
 7. **There is a growing inquiry about what** shapes human happiness and whether it can be measured with accuracy, which has drawn widespread interest in recent years. **While various determinants have been proposed, doubts remain about** quantifying such a subjective state. In this essay, I will answer the specific questions and then offer my perspective.
 8. There is a growing debate about whether **social media’s influence on** communication and society **is broadly beneficial or harmful**, which has sparked much discussion in recent years.
-9. **One of the main arguments in favor of using** public transportation is that (its proponents believe it is an) it helps reduce traffic congestion.
-10. **Furthermore,** globalization **not only fosters** cultural exchange **but also promotes** economic interdependence among nations.
-11. On the other hand, the advocates of public transportation **emphasize** how it helps reduce traffic congestion. / **highlight** its role in reducing traffic congestion.
-12. **In contrast,** traditional methods of education **prioritize** face-to-face interaction, **which fosters** deeper understanding and collaboration among students.
-13. **One significant factor contributing to the rise in unemployment rates is** the rapid advancement of technology, **which has led to** job automation in many industries.
-14. **Another key factor to consider** is the role of education in addressing social inequalities, **as it** empowers individuals with the knowledge and skills needed to succeed.
-15. **Evidence from recent studies indicates that** excessive screen time contributes to mental health issues, **particularly** among adolescents.
-16. **In addition,** excessive TV viewing **can result in** obesity **as** kids are inactive **and** tend to eat junk food **while** watching TV.
-17. **From my perspective, although there are valid concerns regarding** the environmental costs of urbanization, **the benefits far outweigh the drawbacks in terms of** economic growth and improved living standards.
-18. **In conclusion, while there are valid arguments on both sides,** it is clear that the advantages of adopting renewable energy sources **outweigh** the potential drawbacks.
-19. The **governments should take proactive steps to address** climate change **in order to** safeguard future generations.
-20. **It is essential for authorities / policymakers to enforce strict regulations** on deforestation to preserve ....
-21. **By implementing these measures,** society can **pave the way for** a more equitable and prosperous future.
+9. 
+10. **One of the main arguments in favor of using** public transportation is that (its proponents believe it is an) it helps reduce traffic congestion.
+11. **Furthermore,** globalization **not only fosters** cultural exchange **but also promotes** economic interdependence among nations.
+12. On the other hand, the advocates of public transportation **emphasize** how it helps reduce traffic congestion. / **highlight** its role in reducing traffic congestion.
+13. **In contrast,** traditional methods of education **prioritize** face-to-face interaction, **which fosters** deeper understanding and collaboration among students.
+14. **One significant factor contributing to the rise in unemployment rates is** the rapid advancement of technology, **which has led to** job automation in many industries.
+15. **Another key factor to consider** is the role of education in addressing social inequalities, **as it** empowers individuals with the knowledge and skills needed to succeed.
+16. **Evidence from recent studies indicates that** excessive screen time contributes to mental health issues, **particularly** among adolescents.
+17. **In addition,** excessive TV viewing **can result in** obesity **as** kids are inactive **and** tend to eat junk food **while** watching TV.
+18. **From my perspective, although there are valid concerns regarding** the environmental costs of urbanization, **the benefits far outweigh the drawbacks in terms of** economic growth and improved living standards.
+19. **In conclusion, while there are valid arguments on both sides,** it is clear that the advantages of adopting renewable energy sources **outweigh** the potential drawbacks.
+20. The **governments should take proactive steps to address** climate change **in order to** safeguard future generations.
+21. **It is essential for authorities / policymakers to enforce strict regulations** on deforestation to preserve ....
+22. **By implementing these measures,** society can **pave the way for** a more equitable and prosperous future.
 
 
 ## Sentence Starting
