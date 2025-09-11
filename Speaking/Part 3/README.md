@@ -12,15 +12,15 @@ Virtual education provides flexibility, allowing students to study at their own 
 Teachers should be given proper training because they are the backbone of a nation. Teachers play a crucial role in shaping students’ futures beyond just delivering lessons.  
 A great teacher motivates students to explore their potential and pursue their dreams. They create a supportive learning environment that inspires students to push their limits and believe in themselves. Their encouragement fosters a love for learning that lasts a lifetime. 
 
-#### Paragraph 5 – Education and Society
+#### Paragraph 4 – Education and Society
 Education is essential for creating a responsible and thriving society.  
 When people are educated, they can make informed decisions and contribute to societal development. For instance, they can tackle issues like inequality and environmental problems. This leads to a stronger, more progressive society.
 
-#### Paragraph 6 – Importance of Practical Skills 
+#### Paragraph 5 – Importance of Practical Skills 
 Practical skills are just as vital as academic knowledge in education.  
 Skills like problem-solving, leadership, teamwork and communication prepare students for real-world challenges. While theoretical learning is important, practical abilities ensure students can tackle and adapt to workplace challenges with confidence for career success. They enable individuals to apply academic knowledge effectively in diverse situations.
 
-#### Paragraph 7 – Access to Education
+#### Paragraph 6 – Access to Education
 Equal access to education is key to a fair society.  
 When everyone has the equal chance to learn, it reduces social disparities significantly. It helps break the cycle of poverty and enables people from all financial backgrounds to achieve their goals. Education empowers individuals to improve their lives and communities. This creates a more inclusive and prosperous world.
 
@@ -44,8 +44,10 @@ Technology has revolutionized communicationby connecting people globally through
 Technology has greatly enhanced the learning experience in recent years. It provides students with access to a wide range of online resources and the ability to learn at their own pace. E-learning platforms and educational applications provide flexibility and accessibility, allowing students to learn from anywhere. However, it’s important that educational technology complements traditional methods, as in-person interactions and hands-on learning are still essential for proper development.
 
 #### Paragraph 5 – AI and Future Jobs
-Artificial intelligence is reshaping the job market by automating human-led tasks. While it has created new opportunities like cybersecurity and digital marketing, it has also replaced jobs that were previously carried out manually. Currently, we need to instruct the technology to complete a particular task but I think in future technology will have the decision making capability to analyze the surrounding environment and automatically provide instruction to itself to do a task. However, the rise of technology in the workplace also requires workers to constantly adapt and upskill to remain in the competitive job market. As technology continues to evolve, continuous learning and adaptability will be key to thriving in the future workforce.
+Artificial intelligence is reshaping the job market by automating human-led tasks. While it has created new opportunities like cybersecurity and digital marketing, it has also replaced jobs that were previously carried out manually. Currently, we need to instruct the technology to complete a particular task but I think in future technology will have the decision making capability to analyze the surrounding environment and automatically provide instruction to itself to do a task. However, the rise of technology in the workplace also requires workers to constantly adapt and upskill to remain in the competitive job market. As technology continues to evolve, continuous learning and adaptability will be key to thriving in the future workforce
+
 ---
+
 ### Environment / Sustainability / Pollution
 
 #### Paragraph 1 – Importance of Environmental Protection
