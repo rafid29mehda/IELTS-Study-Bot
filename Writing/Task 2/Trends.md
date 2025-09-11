@@ -4,7 +4,7 @@
 3. **There is a growing concern / debate / issue about** whether capital punishment should be abolished or retained for the most serious crimes, which has sparked many discussions in recent years.
 4. **While there are valid reasons in favor of banning** single-use plastics, **there are also** several counterpoints to consider. **In this essay, I will examine** both sides of the argument before offering my own opinion.
 5. There is a growing **concern about the rising levels of crime and whether strict** punishment is an effective solution, which has sparked many discussions in recent years. While there are **Justifiable / logical / credible / legitimate / reasonable grounds** behind the increase in crime rates, there are also several solutions to consider. In this essay, **I will examine the causes and propose potential measures before offering my own opinion.**
-6. 
+6. There is an ongoing discussion about whether learning additional languages brings more benefits than drawbacks, which has sparked many debates in recent years. While the merits can be significant, there are also notable demerits to consider. In this essay, I will outline the main advantages and disadvantages before offering my opinion.
 7. **One of the main arguments in favor of using** public transportation is that (its proponents believe it is an) it helps reduce traffic congestion.
 8. **Furthermore,** globalization **not only fosters** cultural exchange **but also promotes** economic interdependence among nations.
 9. On the other hand, the advocates of public transportation **emphasize** how it helps reduce traffic congestion. / **highlight** its role in reducing traffic congestion.
