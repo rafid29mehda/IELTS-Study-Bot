@@ -6,11 +6,11 @@ Today’s schools often assess students through memorization skills using exams,
 
 #### Paragraph 2 – Online vs. Traditional Learning
 Online learning offers unique advantages, but it has its limitations compared to traditional methods.  
-Virtual education provides flexibility, allowing students to study at their own pace and convenience. However, it often lacks the face-to-face interaction that traditional classrooms offer. This can make it harder to build strong connections with teachers and peers. It also prevents students from developing essential social norms.
+Virtual education provides flexibility, allowing students to study at their own pace and convenience. However, it often lacks the face-to-face interaction that traditional classrooms offer. This can make it harder to build strong connections with teachers and peers. It also prevents students from developing essential social norms. (also online educational platforms provide well structured courses and certificates which help in career growth, AI driven educational chatbots assist to understand complex topics)
 
 #### Paragraph 3 – Role of Teachers  
 Teachers should be given proper training because they are the backbone of a nation. Teachers play a crucial role in shaping students’ futures beyond just delivering lessons.  
-A great teacher motivates students to explore their potential and pursue their dreams. They create a supportive environment that inspires students to push their limits and believe in themselves. Their encouragement fosters a love for learning that lasts a lifetime. 
+A great teacher motivates students to explore their potential and pursue their dreams. They create a supportive learning environment that inspires students to push their limits and believe in themselves. Their encouragement fosters a love for learning that lasts a lifetime. 
 
 #### Paragraph 5 – Education and Society
 Education is essential for creating a responsible and thriving society.  
