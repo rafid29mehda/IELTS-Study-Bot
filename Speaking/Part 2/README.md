@@ -436,6 +436,10 @@ Cooking traditional Bengali dishes is a skill I learned from my grandmother, dur
 
 #### Describe a creativity skill you admire.
 
+A creativity skill I admire is photography, which involves capturing moments in ways that depict emotions and tell stories through visuals. I first became fascinated by it when 2 years ago, I visited few exhibitions of various photographers' works. What I find most impressive about photography is the photographer's capacity to observe the world in a unique way, from landscapes to portraits, showing how they use elements like light, angles, and timing to create art from everyday scenes.
+
+I enjoy photography because it allows me to capture and document memories of any moments. Another reason I love photography is that it serves as a great way to unwind and relax after a busy week. Sometimes, after a stressful or hectic day, I just grab my camera and head outside. Walking around nature and city lights and taking photos helps me clear my mind. It’s like a form of therapy for me. Photography helps me disconnect from my daily worries and reconnect with the world in a peaceful and creative way.
+
 
 
 
