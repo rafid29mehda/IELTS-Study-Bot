@@ -427,28 +427,14 @@ Overall, I enjoy living in my neighborhood because it offers a comfortable lifes
 * **Why it is important**
 * **And explain how you feel about this rule."**
 
-### How to Structure Your Answer:
+One important rule at my university is that students must attend at least 75% of their classes to be eligible for the final exams. This rule means that if a student misses more than 25% of classes, they will not be allowed to sit for the exams, regardless of their performance in assignments or projects. The rule is strictly enforced through an attendance tracking system where teachers mark attendance every class. If a student is absent, it’s recorded, and the total attendance percentage is monitored regularly. If a student's attendance drops below the required percentage, they are given a warning and may be asked to leave the course. This rule ensures that students stay committed to their studies and don't miss out on crucial lessons. It encourages regular participation and helps improve the overall learning experience. It also promotes discipline and responsibility. Personally, I believe this rule is fair and important because it motivates students to be more responsible about their education. Although sometimes it can be a bit strict, it helps maintain a high standard of learning and ensures that no one is left behind due to lack of attendance."
 
-1. **Introduction (briefly mention the rule)**
+#### Describe a skill you learned from your elder.
 
-   * Start by briefly introducing the rule you will talk about. It could be something like: "One important rule at my university is that students must attend at least 75% of their classes to be eligible for the final exams."
+Cooking traditional Bengali dishes is a skill I learned from my grandmother, during my childhood visits to her home in Netrokona. Netrokona is a northern district of Bangladesh. Growing up, I spent many afternoons in the kitchen with my grandmother, watching her prepare a variety of dishes, from bhorta (mashed vegetables) to panta bhat (fermented rice). The learning wasn’t just about following recipes—it was about understanding the essence of Bengali flavors. She taught me how to balance spices, the importance of using fresh mustard oil, and the significance of slow cooking to allow the flavors to blend together. She always emphasized using seasonal ingredients and cooking with love. To me, cooking feels like a form of art, it serves as a way for me to unwind and relax after a busy day or week. It gives me a sense of satisfaction when I see others enjoying my prepared meal. Another reason I enjoy cooking is because it connects me with my culture and heritage. I am forever grateful to my beloved grandmother for teaching me this creative skill.
 
-2. **Describe what the rule is (detailed explanation)**
 
-   * Expand on the rule. "This rule means that if a student misses more than 25% of classes, they will not be allowed to sit for the exams, regardless of their performance in assignments or projects."
-
-3. **Explain how the rule is enforced**
-
-   * Discuss how the rule is applied. "The rule is strictly enforced through an attendance tracking system where teachers mark attendance every class. If a student is absent, it’s recorded, and the total attendance percentage is monitored regularly. If a student's attendance drops below the required percentage, they are given a warning and may be asked to leave the course."
-
-4. **Why is it important?**
-
-   * Explain why the rule exists. "This rule ensures that students stay committed to their studies and don't miss out on crucial lessons. It encourages regular participation and helps improve the overall learning experience. It also promotes discipline and responsibility."
-
-5. **Your feelings about the rule**
-
-   * Share your personal opinion. "Personally, I believe this rule is fair and important because it motivates students to be more responsible about their education. Although sometimes it can be a bit strict, it helps maintain a high standard of learning and ensures that no one is left behind due to lack of attendance."
-
+#### Describe a creativity skill you admire.
 
 
 
