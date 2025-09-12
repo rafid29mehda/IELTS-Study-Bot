@@ -445,8 +445,12 @@ I enjoy photography because it allows me to capture and document memories of any
 One teacher who made a significant impact on my education was my math teacher, Mr. Riaz during high school in Dhaka. He was not only an excellent mathematician but also someone who taught us important life values like discipline, hard work, and kindness. Mr. Riaz had a unique ability to explain even the most complex math problems, breaking them down step by step to make them easy to understand. He was always kind and patient, especially when someone struggled with a concept, and he would take the time to ensure we fully understood. I can still remember, there was a time when I was falling behind due to family issues, and he showed genuine kindness, offering to review missed concepts during lunch breaks without making me feel embarrassed. Moreover, he always motivated us to believe in ourselves and work hard to pursue our dreams. Mr Riaz has been a constant source of inspiration in my life. He is someone I look up to, and his influence has played a huge role in shaping who I am today. Overall, his life has shaped my values, and I hope to live up to the example he has set.
 
 
-#### 
+#### Describe a subject you enjoyed learning in school.
 
+A subject I really enjoyed learning in school was mathematics, which I studied throughout my primary and secondary years at a local public school in my hometown. From basic arithmetic in early grades to more advanced topics like algebra and geometry in high school, math always felt like a puzzle waiting to be solved. Our teacher made it engaging by using games, real-life problems, and group activities, which turned math solving into exciting challenges. Math also helped me develop critical thinking and logical reasoning, skills that I still use today.
+
+
+I remember how excited and thrilled I used to get when I cracked any complex problems. Unlike subjects that relied on memorization, math encouraged critical thinking and creativity in finding solutions. It has been incredibly useful in my daily life, from managing personal finance to analyzing data in my job as a data analytics. Overall, math not only boosted my confidence but also equipped me with practical skills that I use every day, making it one of the most rewarding subjects I ever studied.
 
 
 
