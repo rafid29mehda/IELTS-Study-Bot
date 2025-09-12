@@ -453,4 +453,15 @@ A subject I really enjoyed learning in school was mathematics, which I studied t
 I remember how excited and thrilled I used to get when I cracked any complex problems. Unlike subjects that relied on memorization, math encouraged critical thinking and creativity in finding solutions. It has been incredibly useful in my daily life, from managing personal finance to analyzing data in my job as a data analytics. Overall, math not only boosted my confidence but also equipped me with practical skills that I use every day, making it one of the most rewarding subjects I ever studied.
 
 
+#### Describe a healthy habit you have developed recently
+
+A healthy habit I've developed recently is maintaining a balanced daily routine that focuses on a nutritious diet, staying hydrated, getting enough sleep, and doing light exercise in the early morning. I used to eat a lot of junk food, especially fast food, which made me feel sluggish and tired. However, I realized that what I eat plays a huge role in how I feel throughout the day. Now I try to include more vegetables and fruits in my meals. Drinking more water has also been a big change for me. I used to struggle with staying hydrated, but after learning about the importance of water for overall health, I decided to drink more. Now I have started to carry a water bottle with me wherever I go. Additionally, I’ve aimed for around 7-8 hours of sleep every night, which has really helped improve my energy levels and skin health. Lastly, I’ve added some light exercise in the early mornings, like a quick walk or stretching, which helps me feel more active and focused. My productivity throughout the day has increased significantly. This new balanced routine has made me feel healthier, and more energetic. 
+
+
+#### Describe a social issue that is important to you
+
+One social issue that is very important to me is environmental pollution and climate change. I have always been concerned about how pollution, whether in the form of air, water, or soil, is affecting our planet. Urbanization, industrial emissions, deforestation, and the increased use plastics and fossil fuels are contributing to climate change, which has resulted in global warming and extreme weather events like floods, droughts, heatwaves, rising sea levels, and ultimately loss of biodiversity. This matters to me because it affects our society and everyone's future, so I try to reduce my carbon footprint by reducing waste, preserving water, using public transport, supporting businesses that prioritize sustainable products. To address environmental pollution and climate change, we need collective actions: Government must implement policies and regulations that promote environmental protection, such as carbon taxes and renewable energy incentives. On the other hand, corporations have the responsibility to adopt sustainable practices in their operations, such as reducing emissions and prioritizing eco-friendly production. Raising awareness and encouraging sustainable practices are key steps toward a healthier planet.
+
+
+
 
