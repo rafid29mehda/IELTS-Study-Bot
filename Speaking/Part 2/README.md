@@ -440,7 +440,12 @@ A creativity skill I admire is photography, which involves capturing moments in 
 
 I enjoy photography because it allows me to capture and document memories of any moments. Another reason I love photography is that it serves as a great way to unwind and relax after a busy week. Sometimes, after a stressful or hectic day, I just grab my camera and head outside. Walking around nature and city lights and taking photos helps me clear my mind. It’s like a form of therapy for me. Photography helps me disconnect from my daily worries and reconnect with the world in a peaceful and creative way.
 
+#### Describe a teacher you admire
 
+One teacher who made a significant impact on my education was my math teacher, Mr. Riaz during high school in Dhaka. He was not only an excellent mathematician but also someone who taught us important life values like discipline, hard work, and kindness. Mr. Riaz had a unique ability to explain even the most complex math problems, breaking them down step by step to make them easy to understand. He was always kind and patient, especially when someone struggled with a concept, and he would take the time to ensure we fully understood. I can still remember, there was a time when I was falling behind due to family issues, and he showed genuine kindness, offering to review missed concepts during lunch breaks without making me feel embarrassed. Moreover, he always motivated us to believe in ourselves and work hard to pursue our dreams. Mr Riaz has been a constant source of inspiration in my life. He is someone I look up to, and his influence has played a huge role in shaping who I am today. Overall, his life has shaped my values, and I hope to live up to the example he has set.
+
+
+#### 
 
 
 
