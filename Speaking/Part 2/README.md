@@ -420,6 +420,37 @@ Overall, I enjoy living in my neighborhood because it offers a comfortable lifes
 
 
 
+#### Describe an important rule at your school or college. You should say:
+
+* **What the rule is**
+* **How it is enforced**
+* **Why it is important**
+* **And explain how you feel about this rule."**
+
+### How to Structure Your Answer:
+
+1. **Introduction (briefly mention the rule)**
+
+   * Start by briefly introducing the rule you will talk about. It could be something like: "One important rule at my university is that students must attend at least 75% of their classes to be eligible for the final exams."
+
+2. **Describe what the rule is (detailed explanation)**
+
+   * Expand on the rule. "This rule means that if a student misses more than 25% of classes, they will not be allowed to sit for the exams, regardless of their performance in assignments or projects."
+
+3. **Explain how the rule is enforced**
+
+   * Discuss how the rule is applied. "The rule is strictly enforced through an attendance tracking system where teachers mark attendance every class. If a student is absent, it’s recorded, and the total attendance percentage is monitored regularly. If a student's attendance drops below the required percentage, they are given a warning and may be asked to leave the course."
+
+4. **Why is it important?**
+
+   * Explain why the rule exists. "This rule ensures that students stay committed to their studies and don't miss out on crucial lessons. It encourages regular participation and helps improve the overall learning experience. It also promotes discipline and responsibility."
+
+5. **Your feelings about the rule**
+
+   * Share your personal opinion. "Personally, I believe this rule is fair and important because it motivates students to be more responsible about their education. Although sometimes it can be a bit strict, it helps maintain a high standard of learning and ensures that no one is left behind due to lack of attendance."
+
+
+
 
 
 
