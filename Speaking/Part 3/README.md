@@ -77,14 +77,40 @@ Governments must implement policies and regulations that promote environmental p
 ### Globalization
 Globalization has significantly impacted societies by connecting people across the world through trade, technology, and communication. 
 
+##### Economic Effects
 It fosters economic growth by opening up international trade and investment opportunities. It also boosts GDP via exports and foreign investments. However, overdependence on global market and importing goods hamper domestic local producers, causing unemployment and economic instability.
-
+##### Cultural Effects
 Additionally, it promotes cultural exchange, enriching societies with diverse ideas and innovations. Exposure to foreign media and travel helps to grow tolerance and appreciation for others cultures and believes. However, it risks losing local culture and heritage, as global trends or Western culture are becoming very influential.
-
+##### Technological Effects
 Technology is the driving factor of globalization. It has enabled instant communication and e-commerce.
 Digital platforms connect societies, facilitating remote work and virtual collaborations. However, the rise of automation and AI in the workplace has taken over many human-led jobs, creating unemployment. One of the main concerns is the impact on mental health, as excessive screen time can contribute to anxiety and depression, particularly in younger people. Furthermore, the over-depedence of technology can lead to reduced physical activity and social isolation.
 
-#### Nature / Travel / Relaxation
+
+
+---
+
+### Crime
+#### Paragraph 1 – Causes of Crime
+
+There are various socioeconomic factors behind crime, like poverty, social inequality and unemployment.
+Lack of access to education and job opportunities pushes individuals toward illegal activities for survival. Additionally, family breakdowns, taking drugs and influence of peers also cause crime. Addressing these root factors is essential for long-term crime reduction and for a safer society.
+
+#### Paragraph 2 – Effects of Crime on Society
+
+Crime disrupts social harmony by fostering distrust within communities, leading to fear and isolation among residents. Victims often suffer from physical injuries and long-term psychological trauma.
+
+#### Paragraph 3 – Prevention Measures
+
+Preventing crime requires collaboration between law enforcement and social services. Community education, mental health care and mentoring programs for vulnerable children or adults can guide them away from criminal paths. Additionally, improving economy and job opportunities can reduce the likelihood of individuals turning to crime as a means of survival.
+
+The government's responsibility includes imposing strict punishment for criminals,  imrproving quick crime response, funding rehabilitation centers and victim support services.
+
+
+
+
+---
+
+### Nature / Travel / Relaxation
 1. The area is surrounded by endless mountains/trees covered in greenery, with soothing sound of nature and mesmerizing play of clouds overhead was truly refreshing.
 2. When people are close to nature, they feel reconnected with themselves, away from the constant noise, distraction and pressure of daily life.
 3. Spending time in nature allows people to disconnect from their busy lives and daily worries and reconnect them with inner peace. It’s a chance to recharge and escape from stress.
