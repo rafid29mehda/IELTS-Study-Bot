@@ -79,10 +79,10 @@ Globalization has significantly impacted societies by connecting people across t
 
 It fosters economic growth by opening up international trade and investment opportunities. It also boosts GDP via exports and foreign investments. However, overdependence on global market and importing goods hamper domestic local producers, causing unemployment and economic instability.
 
-Additionally, it promotes cultural exchange, enriching societies with diverse ideas and innovations. Exposure to foreign media and travel helps to grow tolerance and appreciation for others cultures and believes.
+Additionally, it promotes cultural exchange, enriching societies with diverse ideas and innovations. Exposure to foreign media and travel helps to grow tolerance and appreciation for others cultures and believes. However, it risks losing local culture and heritage, as global trends or Western culture are becoming very influential.
 
 Technology is the driving factor of globalization. It has enabled instant communication and e-commerce.
-Digital platforms connect societies, facilitating remote work and virtual collaborations.
+Digital platforms connect societies, facilitating remote work and virtual collaborations. However, the rise of automation and AI in the workplace has taken over many human-led jobs, creating unemployment. One of the main concerns is the impact on mental health, as excessive screen time can contribute to anxiety and depression, particularly in younger people. Furthermore, the over-depedence of technology can lead to reduced physical activity and social isolation.
 
 #### Nature / Travel / Relaxation
 1. The area is surrounded by endless mountains/trees covered in greenery, with soothing sound of nature and mesmerizing play of clouds overhead was truly refreshing.
