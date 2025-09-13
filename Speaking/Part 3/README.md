@@ -97,8 +97,8 @@ There are various socioeconomic factors behind inequality, like poverty, lack of
 ##### Effects
 Social inequality leads to increased crime rates and economical instability. Disparities can be observed in healthcare, education, and overall quality of life. People from poorer backgrounds tend to have low healthcare support, less educational facilities, and fewer economic opportunities. This inequality not only harms individuals but also weakens society as a whole.
 
-##### 
-
+##### Preventing Measures
+Initiatives like microfinance, fair wealth distribution and increasing minimum wages can significantly contribute to reduce socioeconomic disparities. Additionally, improving access to universal education, healthcare, and employment opportunities for underprivileged groups will bring positive impact in the society. Governments should implement policies that ensure equal access to these resources, while also focusing on reducing discrimination and promoting social inclusion.
 
 ---
 
