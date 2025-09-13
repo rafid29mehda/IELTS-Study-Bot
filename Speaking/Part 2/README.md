@@ -463,5 +463,17 @@ A healthy habit I've developed recently is maintaining a balanced daily routine 
 One social issue that is very important to me is environmental pollution and climate change. I have always been concerned about how pollution, whether in the form of air, water, or soil, is affecting our planet. Urbanization, industrial emissions, deforestation, and the increased use plastics and fossil fuels are contributing to climate change, which has resulted in global warming and extreme weather events like floods, droughts, heatwaves, rising sea levels, and ultimately loss of biodiversity. This matters to me because it affects our society and everyone's future, so I try to reduce my carbon footprint by reducing waste, preserving water, using public transport, supporting businesses that prioritize sustainable products. To address environmental pollution and climate change, we need collective actions: Government must implement policies and regulations that promote environmental protection, such as carbon taxes and renewable energy incentives. On the other hand, corporations have the responsibility to adopt sustainable practices in their operations, such as reducing emissions and prioritizing eco-friendly production. Raising awareness and encouraging sustainable practices are key steps toward a healthier planet.
 
 
+#### Describe a time when you witnessed a crime or a dangerous situation. (talk about pickpocketing)
+  * You should say:
+    * What happened
+    * Where you were
+    * What you did when you saw it
+    * And explain what you think should have been done in that situation
 
+Last year, I witnessed a pickpocketing incident at a busy market in the city center. It was a crowded Saturday afternoon, I was in the heart of Dhaka's famous Banani Market, surrounded by stalls selling spices, fruits, and clothes.
 
+I was walking past a food stall when I noticed a man moving suspiciously close to an elderly woman who was busy looking at some clothes. The man was pretending to browse through some items on a nearby table, but he was actually trying to reach into her handbag. 
+
+I was standing just a few meters away, so I had a clear view. When I saw it, I immediately shouted "Thief! Stop him!" to alert the victim and others around, which caused the woman to check her handbag. A few shopkeepers grabbed the thief's arm before he could escape. We held him until the market security arrived and called the police.
+
+In that situation, I think more preventive measures should have been in place, like having more visible security guards patrolling the area and installing CCTV cameras at key spots. Also, the market authorities could run awareness campaigns, such as putting up signs reminding people to keep their valuables secure in crowded places. This would make busy markets safer and reduce such petty crimes that spoil the shopping experience for everyone.
