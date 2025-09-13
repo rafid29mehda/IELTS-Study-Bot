@@ -89,6 +89,19 @@ Digital platforms connect societies, facilitating remote work and virtual collab
 
 ---
 
+### Social Inequality
+
+##### Causes
+There are various socioeconomic factors behind inequality, like poverty, lack of access to education and unemployment. Discrimination based on gender, race, or class further widens the gaps. Moreover, economic policies favoring the wealthy contribute to growing social divides.
+
+##### Effects
+Social inequality leads to increased crime rates and economical instability. Disparities can be observed in healthcare, education, and overall quality of life. People from poorer backgrounds tend to have low healthcare support, less educational facilities, and fewer economic opportunities. This inequality not only harms individuals but also weakens society as a whole.
+
+##### 
+
+
+---
+
 ### Crime
 #### Paragraph 1 – Causes of Crime
 
