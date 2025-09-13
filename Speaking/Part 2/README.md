@@ -474,6 +474,6 @@ Last year, I witnessed a pickpocketing incident at a busy market in the city cen
 
 I was walking past a food stall when I noticed a man moving suspiciously close to an elderly woman who was busy looking at some clothes. The man was pretending to browse through some items on a nearby table, but he was actually trying to reach into her handbag. 
 
-I was standing just a few meters away, so I had a clear view. When I saw it, I immediately shouted "Thief! Stop him!" to alert the victim and others around, which caused the woman to check her handbag. A few shopkeepers grabbed the thief's arm before he could escape. We held him until the market security arrived and called the police.
+I was standing just a few meters away, so I had a clear view. When I saw it, I immediately shouted "Thief! Stop him!" to alert the victim and surrounding. The woman immediately checked her handbag and saw the purse was not there. Luckily a few shopkeepers noticed it and grabbed the thief's arm before he could escape. We held him until the market security arrived and called the police.
 
 In that situation, I think more preventive measures should have been in place, like having more visible security guards patrolling the area and installing CCTV cameras at key spots. Also, the market authorities could run awareness campaigns, such as putting up signs reminding people to keep their valuables secure in crowded places. This would make busy markets safer and reduce such petty crimes that spoil the shopping experience for everyone.
