@@ -248,92 +248,92 @@ Habits and schedules.
 - **Are you a morning or night person?**  
   I’m more of a morning person because I feel more focused and productive in the first half of the day. However, I do sometimes enjoy reading books late at night.
 
-#### Family
-Relationships and importance.
+### Family
+#### Relationships and importance.
 
-- **Are you close with your family?**  
-  Yes, we're very close and talk daily, even if we live apart. Family support is crucial for me.
+**Are you close with your family?**  
+Yes, we're very close and talk daily, even if we live apart. Family support is crucial for me, as it provides a sense of security and belonging in my life. We make an effort to share meals or celebrate small occasions together whenever possible.
 
-- **Who do you talk to in your family the most?**  
-  I talk to my mother the most; she's my confidante for advice. We share everything from recipes to life problems.
+**Who do you talk to in your family the most?**  
+I talk to my mother the most; she's my confidante for advice. We share everything from recipes to life problems, which strengthens our bond and helps me navigate challenges. Her wisdom and empathy make our conversations truly meaningful and comforting.
 
-- **Do you have a large family?**  
-  No, it's small with just four members, but we have strong bonds. Extended family gathers for holidays.
+**Do you have a large family?**  
+No, it's small with just four members, but we have strong bonds. Extended family gathers for holidays, creating cherished memories that keep us connected despite the distance. This closeness allows us to support each other in both good times and bad.
 
-- **Are families becoming more distant in your country?**  
-  Yes, due to urbanization and busy jobs, but technology like video calls helps maintain connections.
+**Are families becoming more distant in your country?**  
+Yes, due to urbanization and busy jobs, but technology like video calls helps maintain connections. Many people move to cities for better opportunities, which can lead to less face-to-face interaction. However, apps and social media enable us to stay updated on each other's lives regularly.
 
-- **How many people are there in your family?**  
-  There are four: my parents, sibling, and me. We enjoy family game nights together.
+**How many people are there in your family?**  
+There are four: my parents, sibling, and me. We enjoy family game nights together, which bring laughter and fun into our routine. These activities help us bond and create lasting traditions that we all look forward to.
 
-- **What do you like to do with your family?**  
-  We love cooking meals or going for walks. It's a way to bond and create traditions.
+**What do you like to do with your family?**  
+We love cooking meals or going for walks. It's a way to bond and create traditions that strengthen our relationships over time. These simple activities allow us to relax and share stories from our daily lives.
 
-#### Food/Cooking
-Preferences and habits.
+### Food/Cooking
+#### Preferences and habits.
 
-- **Do you like cooking?**  
-  Yes, I find it therapeutic and creative. I experiment with recipes on weekends.
+**Do you like cooking?**  
+Yes, I find it therapeutic and creative. I experiment with recipes on weekends, trying new ingredients to keep things exciting. It not only helps me unwind but also gives me a sense of accomplishment when the dish turns out well.
 
-- **What kind of food do you like?**  
-  I like spicy Asian cuisine for its flavors, but I balance it with healthy salads.
+**What kind of food do you like?**  
+I like spicy Asian cuisine for its flavors, but I balance it with healthy salads. The bold spices and fresh herbs in Asian dishes make every meal an adventure for my taste buds. Adding salads ensures I maintain a nutritious diet without sacrificing enjoyment.
 
-- **How often do you cook?**  
-  I cook most evenings to eat fresh and save money. Weekends are for elaborate dishes.
+**How often do you cook?**  
+I cook most evenings to eat fresh and save money. Weekends are for elaborate dishes that I prepare with more time and care. This routine helps me control what I eat and avoid relying on takeout too often.
 
-- **Did you cook as a child?**  
-  Yes, I helped my grandmother in the kitchen, learning basic skills like chopping.
+**Did you cook as a child?**  
+Yes, I helped my grandmother in the kitchen, learning basic skills like chopping. Those early experiences sparked my interest in cooking and taught me the value of family recipes. Now, I still use some of her techniques in my own meals.
 
-- **What is your favourite kind of food?**  
-  Italian pasta is my favourite for its comfort and variety. I make it at home often.
+**What is your favourite kind of food?**  
+Italian pasta is my favourite for its comfort and variety. I make it at home often, customizing sauces to suit my mood. Whether it's a simple carbonara or a veggie-packed primavera, it always feels like a warm hug on a plate.
 
-- **What is the traditional food of your country?**  
-  In my country, curry and rice are traditional, often spiced with local herbs. It's a staple at celebrations.
+**What is the traditional food of your country?**  
+In my country, curry and rice are traditional, often spiced with local herbs. It's a staple at celebrations, bringing people together around the table. The blend of flavors reflects our cultural heritage and is passed down through generations.
 
-- **Do you have a healthy diet?**  
-  I try to, with lots of vegetables and proteins, but I indulge in sweets occasionally.
+**Do you have a healthy diet?**  
+I try to, with lots of vegetables and proteins, but I indulge in sweets occasionally. Focusing on balanced meals keeps me energized throughout the day. Allowing treats now and then makes the diet sustainable and enjoyable.
 
-#### Friends
-Social circles and activities.
+### Friends
+#### Social circles and activities.
 
-- **Do you prefer to have a lot of friends or a small group?**  
-  I prefer a small group of close friends for meaningful connections. Quality over quantity works for me.
+**Do you prefer to have a lot of friends or a small group?**  
+I prefer a small group of close friends for meaningful connections. Quality over quantity works for me, as it allows deeper conversations and trust. This approach ensures my friendships are supportive and long-lasting.
 
-- **What do you usually do with your friends?**  
-  We meet for coffee or hikes, sharing stories and laughs. It's a stress reliever.
+**What do you usually do with your friends?**  
+We meet for coffee or hikes, sharing stories and laughs. It's a stress reliever that helps us unwind from daily pressures. These outings strengthen our bonds and create fun memories we often reminisce about.
 
-- **Do you have a best friend?**  
-  Yes, my best friend from school; we support each other through everything.
+**Do you have a best friend?**  
+Yes, my best friend from school; we support each other through everything. We've shared countless experiences, from school adventures to adult challenges. This friendship provides a reliable source of encouragement and honesty.
 
-- **How do friends in your country stay in touch?**  
-  Mostly through social media and messaging apps, but in-person meetups are valued.
+**How do friends in your country stay in touch?**  
+Mostly through social media and messaging apps, but in-person meetups are valued. These digital tools make it easy to share updates and quick chats daily. However, nothing beats the joy of face-to-face interactions for deeper connections.
 
-- **Do you still have a friend from your childhood?**  
-  Yes, one from primary school; we reminisce about old times when we meet.
+**Do you still have a friend from your childhood?**  
+Yes, one from primary school; we reminisce about old times when we meet. Our shared history creates a unique bond that's hard to replicate. Even with busy lives, we make time to catch up and support each other.
 
-- **What is more important, friends or family?**  
-  Both are important, but family comes first for lifelong support. Friends add fun and different perspectives.
+**What is more important, friends or family?**  
+Both are important, but family comes first for lifelong support. Friends add fun and different perspectives that enrich my life in unique ways. Ultimately, a balance between the two provides the best emotional foundation.
 
-#### Hobbies
-Leisure activities.
+### Hobbies
+#### Leisure activities.
 
-- **What are your hobbies?**  
-  My hobbies include photography and hiking, which let me explore nature creatively.
+**What are your hobbies?**  
+My hobbies include photography and hiking, which let me explore nature creatively. Through photography, I capture stunning landscapes, while hiking keeps me active and refreshed. These activities combine adventure with artistic expression, making them perfect for relaxation.
 
-- **How often do you pursue your hobbies?**  
-  I dedicate weekends to them, as weekdays are work-focused. It's essential for balance.
+**How often do you pursue your hobbies?**  
+I dedicate weekends to them, as weekdays are work-focused. It's essential for balance, preventing burnout and boosting my mood. This routine ensures I have something exciting to look forward to after a busy week.
 
-- **Did you have the same hobbies as a child?**  
-  Yes, I loved drawing as a child, but now it's evolved to digital art.
+**Did you have the same hobbies as a child?**  
+Yes, I loved drawing as a child, but now it's evolved to digital art. Starting with simple sketches, I developed a passion for visual creativity. Today, using software allows me to experiment more freely and share my work online.
 
-- **Why do you like that hobby?**  
-  Photography captures moments and helps me see beauty in everyday things.
+**Why do you like that hobby?**  
+Photography captures moments and helps me see beauty in everyday things. It encourages mindfulness and patience as I wait for the perfect shot. Plus, reviewing photos later brings back fond memories and inspires new ideas.
 
-- **Do your friends share the same interests?**  
-  Some do, like hiking, so we do it together. Others have different hobbies, which broadens my horizons.
+**Do your friends share the same interests?**  
+Some do, like hiking, so we do it together. Others have different hobbies, which broadens my horizons and introduces me to new activities. This diversity keeps our friendships dynamic and interesting.
 
-- **Do you have any specific hobbies?**  
-  Yes, gardening; it's relaxing and rewarding to see plants grow.
+**Do you have any specific hobbies?**  
+Yes, gardening; it's relaxing and rewarding to see plants grow. Tending to the garden teaches me about patience and nurturing. Harvesting my own herbs or flowers adds a personal touch to my daily life.
 
 #### Hometown/Country
 About your origin and changes.
