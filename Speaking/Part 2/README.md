@@ -412,7 +412,7 @@ In short, dogs are my favorite animals because they are loyal, caring, and valua
 **Sample Answer**
 I live in Gulshan, which is one of the most well-known neighborhoods in Dhaka city. It’s located in the northern part of the capital. Gulshan is a vibrant neighbourhood.
 
-The area is  modern and well-planned with wide roads, great transport facilities, exquisite lakes-gardens and a plenty of residential buildings, embassies and corporate offices. The place is convenient for me as everything is nearby. You can find grocery shops, shopping malls, hospitals and schools in walking distance. While it can get crowded during working hours due to the commercial offices, it becomes calmer and more relaxed in the evenings. The area is also very secure, with security guards and CCTV cameras everywhere, which makes residents feel safe.
+The area is  modern and well-planned with wide roads, great transport facilities, exquisite lakes-gardens and a plenty of residential buildings, embassies and corporate offices. The place is convenient for me as everything is nearby. You can find grocery stores, shopping malls, hospitals and schools within walking distance. While it can get crowded during working hours due to the commercial offices, it becomes calmer and more relaxed in the evenings. The area is also very secure, with security guards and CCTV cameras everywhere, which makes residents feel safe.
 
 What I really appreciate is the sense of community here, people are friendly and welcoming. Many families have lived here for years, so neighbors often know each other well and take the time to greet one another, especially during festivals or whenever anyone needs help.
 
