@@ -419,242 +419,391 @@ Coding, algorithms, and software development are key. These elements form the fo
 **If you had the chance, would you change subject?**  
 No, it aligns with my career goals perfectly. Switching now would delay my progress in a field I enjoy. Plus, the versatility of computer science opens doors to various industries.
 
-#### Study
-Education and subjects.
 
-- **What do you study?**  
-  I'm studying computer science at university, focusing on programming.
+### Weather
+#### Preferences and impacts.
 
-- **Why did you choose that subject?**  
-  I chose it for the job prospects and my interest in technology.
+**How is the weather in your country?**  
+It's varied, with hot summers and mild winters in most regions. Coastal areas experience more humidity, while inland spots can have extreme temperatures. This diversity influences everything from agriculture to tourism throughout the year.
 
-- **Is it a popular subject in your country?**  
-  Yes, with many tech companies, it's in high demand.
+**What is your favourite weather?**  
+I love rainy days for the cozy feeling indoors with a hot cup of tea. The sound of rain pattering on the window helps me relax and focus on reading or hobbies. It also freshens the air and makes the outdoors lush and green afterward.
 
-- **Do you like your subject?**  
-  Absolutely, the challenges keep me engaged.
+**Does the weather in your nation affect daily life?**  
+Yes, heavy rains can cause traffic delays and disrupt commutes in urban areas. During hot summers, people adjust schedules to avoid peak heat hours for outdoor activities. Extreme weather events sometimes lead to school closures or changes in work routines.
 
-- **What are the main aspects of your subject?**  
-  Coding, algorithms, and software development are key.
+**Does the weather affect the way you feel?**  
+Sunny days boost my mood, making me more energetic and positive. While cloudy ones make me reflective and sometimes a bit melancholic. Overall, I try to adapt by planning activities that suit the weather to maintain balance.
 
-- **If you had the chance, would you change subject?**  
-  No, it aligns with my career goals perfectly.
+**Does your health change with the changing weather?**  
+Sometimes, cold weather brings allergies, so I take precautions like using humidifiers. Sudden temperature drops can trigger headaches or joint pains for me. Staying hydrated and dressing appropriately helps mitigate these effects.
 
-#### Weather
-Preferences and impacts.
+### Work
+#### Job details and satisfaction.
 
-- **How is the weather in your country?**  
-  It's varied, with hot summers and mild winters.
+**What is your job?**  
+I'm a teacher, helping students learn English at various levels. My role involves creating engaging lessons to build language skills and confidence. It's fulfilling to see students progress and apply what they've learned.
 
-- **What is your favourite weather?**  
-  I love rainy days for the cozy feeling indoors.
+**Where do you work?**  
+At a local school in the suburbs, surrounded by a peaceful environment. The campus has modern facilities that support interactive teaching methods. Commuting is easy, which adds to my overall job satisfaction.
 
-- **Does the weather in your nation affect daily life?**  
-  Yes, heavy rains can cause traffic delays.
+**Why did you choose that job?**  
+I chose it to make a difference in young lives through education. My own positive experiences with inspiring teachers motivated me to pursue this path. It aligns with my passion for communication and helping others grow.
 
-- **Does the weather affect the way you feel?**  
-  Sunny days boost my mood, while cloudy ones make me reflective.
+**Do you like your job?**  
+Yes, the interactions with students are rewarding and keep me motivated. Seeing their "aha" moments during lessons brings a sense of accomplishment. The variety in daily tasks prevents it from becoming monotonous.
 
-- **Does your health change with the changing weather?**  
-  Sometimes, cold weather brings allergies, so I take precautions.
+**What responsibilities do you have at work?**  
+Planning lessons, grading assignments, and mentoring students are my main duties. I also organize extracurricular activities to enhance learning outside the classroom. Collaborating with parents ensures a holistic approach to student development.
 
-#### Work
-Job details and satisfaction.
+**Do you get on well with your colleagues?**  
+Yes, we collaborate and share ideas effectively in team meetings. This supportive environment fosters professional growth and friendship. We often help each other with resources or advice on teaching strategies.
 
-- **What is your job?**  
-  I'm a teacher, helping students learn English.
+**If you had the chance, would you change your job?**  
+Maybe to something more creative like content creation, but I'm content now with the stability. A change might offer new challenges, yet I value the impact I have here. For now, I'm focusing on advancing within education.
 
-- **Where do you work?**  
-  At a local school in the suburbs.
+**Do you plan to continue with your job in the future?**  
+Yes, with potential for advancement to administrative roles. Gaining more experience will open doors to specialized teaching positions. It provides long-term security and personal fulfillment.
 
-- **Why did you choose that job?**  
-  I chose it to make a difference in young lives.
+### Name
 
-- **Do you like your job?**  
-  Yes, the interactions with students are rewarding.
+**Who gave you your name?**  
+My parents chose my name together after discussing family traditions. It's a name that's been passed down in our family for generations, honoring our ancestors. This choice reflects their hope for me to carry on our heritage with pride.
 
-- **What responsibilities do you have at work?**  
-  Planning lessons, grading, and mentoring students.
+**Does your name have any special meaning?**  
+Yes, it means "brave warrior" in my native language, which my family hoped would inspire strength in me. The meaning encourages me to face challenges with courage in daily life. It's a constant reminder of the values my parents instilled.
 
-- **Do you get on well with your colleagues?**  
-  Yes, we collaborate and share ideas effectively.
+**Do you like your name?**  
+Absolutely, it's unique and easy to remember, though sometimes people mispronounce it abroad. This distinctiveness sets me apart in social and professional settings. Over time, I've grown to appreciate how it sparks conversations.
 
-- **If you had the chance, would you change your job?**  
-  Maybe to something more creative, but I'm content now.
+**Would you like to change your name?**  
+No, I wouldn't, as it's a big part of my identity and connects me to my roots. Changing it would feel like losing a piece of my family history. Instead, I embrace it fully and correct mispronunciations politely.
 
-- **Do you plan to continue with your job in the future?**  
-  Yes, with potential for advancement.
+**Is your name common or unusual in your country?**  
+It's fairly common, especially in older generations, but less so among younger people now. This shift reflects changing naming trends influenced by global culture. Still, meeting others with the same name creates an instant bond.
+
+### Dance
+#### Questions often explore personal experiences and cultural aspects.
+
+**Do you like dancing?**  
+Yes, I enjoy dancing at social events because it helps me relax and express myself. I particularly like freestyle dancing to upbeat music, which lifts my spirits. It's a great way to connect with others and release stress.
+
+**Have you ever learned to dance?**  
+I took some basic salsa classes a few years ago, but I'm not professional. It was fun and improved my coordination and rhythm significantly. Those lessons inspired me to try other styles occasionally.
+
+**When was the last time you danced?**  
+The last time was at a friend's wedding last month, where we all joined in traditional folk dances—it was energetic and memorable. The music and group energy made it an unforgettable experience. I look forward to more such occasions.
+
+**What kinds of dancing are popular in your country?**  
+In my country, Bollywood-style dancing is hugely popular, especially at festivals, along with classical forms like Bharatanatyam. These styles blend storytelling with rhythmic movements, appealing to all ages. They often feature in movies and cultural events.
+
+**Do you think children should learn to dance?**  
+Definitely, as it promotes physical fitness and creativity, plus it's a great way to build confidence. Early exposure helps develop social skills through group activities. Overall, it enriches their cultural understanding and provides a fun outlet.
+
+### Dictionary
+#### Focuses on usage and preferences.
+
+**How often do you use a dictionary?**  
+I use an online dictionary almost daily, especially when reading articles or learning new words for work. It helps me quickly understand unfamiliar terms and improve my vocabulary. Over time, this habit has made me more confident in both speaking and writing.
+
+**What kind of dictionaries do you use?**  
+I prefer digital ones like Oxford or Google Translate for quick lookups, but I own a physical bilingual dictionary for deeper study. Digital versions are convenient with features like synonyms and example sentences. The physical one is great for offline use and feels more traditional.
+
+**Did you use dictionaries as a child?**  
+Yes, in school we used simple picture dictionaries to build vocabulary, which made learning fun. The illustrations helped me associate words with images easily. Those early experiences laid a strong foundation for my language skills today.
+
+**Do you think dictionaries are useful for learning a language?**  
+Absolutely, they provide accurate meanings and examples, helping avoid misunderstandings in communication. They also offer pronunciation guides and usage notes that enhance fluency. Without them, picking up nuances in a new language would be much harder.
+
+**What is the best dictionary you've used?**  
+The Cambridge Advanced Learner's Dictionary is my favorite for its clear explanations and audio pronunciations. It includes idioms and phrasal verbs that are essential for advanced users. The app version makes it accessible anytime on my phone.
+
+### Dreams
+#### About sleep dreams or ambitions.
+
+**Do you often remember your dreams?**  
+Sometimes, especially vivid ones, but most fade quickly after waking up. Keeping a dream journal helps me recall more details occasionally. Reflecting on them can be interesting, even if they're nonsensical.
+
+**Do you think dreams have special meanings?**  
+I'm not sure, but some people believe they reflect subconscious thoughts—I find them more random. They might process daily events in creative ways. Overall, I enjoy analyzing them for fun rather than seeking deep symbolism.
+
+**Have you ever had a bad dream?**  
+Yes, I once dreamed of being lost in a maze, which left me feeling anxious when I woke up. It made me appreciate the security of real life more. Such nightmares are rare but remind me to manage stress before bed.
+
+**Do you like hearing about other people's dreams?**  
+Not really, as they can be confusing, but if it's a funny one, it's entertaining. Sharing dreams can lead to amusing conversations with friends. However, lengthy descriptions often lose their appeal quickly.
+
+**What was the most interesting dream you've had?**  
+I dreamed of flying over my city, which felt freeing and inspired me to travel more. The sensation of soaring was incredibly realistic and exhilarating. It motivated me to plan a real adventure shortly after.
+
+### Drinks
+#### Preferences and habits.
+
+**What is your favourite drink?**  
+Coffee is my go-to, especially a strong espresso in the morning to kickstart my day. Its rich aroma and caffeine boost help me focus better. I experiment with different beans to keep it exciting.
+
+**Is it common for people to drink tea and coffee in your country?**  
+Yes, tea is a staple, often shared during breaks, while coffee is gaining popularity in urban areas. Tea gatherings foster social bonds in daily life. Coffee shops are now trendy spots for young professionals.
+
+**Did you prefer different drinks as a child?**  
+As a kid, I loved sugary sodas, but now I opt for healthier options like herbal teas. Back then, the fizz and sweetness were irresistible treats. Maturity brought awareness of better choices for long-term health.
+
+**Do you think it is important to drink lots of water?**  
+Definitely, it keeps you hydrated and healthy, especially in hot climates like mine. Water supports bodily functions and improves skin and energy levels. I aim for at least eight glasses a day to stay refreshed.
+
+**What is a traditional drink in your country for celebrating?**  
+During festivals, we drink lassi, a yogurt-based beverage that's refreshing and symbolic. It's often flavored with mango or spices for variety. Sharing lassi strengthens community ties during joyous occasions.
+
+### Evenings
+#### Daily habits after work/school.
+
+**What do you often do in the evenings?**  
+I usually unwind by reading or watching a series, sometimes cooking a light meal. These activities help me relax after a long day. It sets a peaceful tone for better sleep.
+
+**Do you do the same thing every evening?**  
+No, it varies—weekdays are quieter, while weekends might involve meeting friends. Routine provides stability, but variety keeps things interesting. Flexibility allows me to adapt to my mood or commitments.
+
+**Do you prefer to spend your evenings with family or friends?**  
+With family for comfort, but friends for fun outings like dinners or movies. Family time offers emotional support and shared meals. Friend gatherings bring laughter and new experiences.
+
+**Do you ever work or study in the evenings?**  
+Occasionally, if there's a deadline, but I try to keep evenings for relaxation. Balancing work with rest prevents burnout. When I do, I set limits to maintain boundaries.
+
+**What is a popular activity for young people in your country in the evenings?**  
+Hanging out at cafes or street food stalls is common among youth. These spots offer affordable fun and social interaction. It's a way to unwind and catch up after studies or work.
 
 
-#### Name
-- **Who gave you your name?** My parents chose my name together after discussing family traditions. It's a name that's been passed down in our family for generations.
-- **Does your name have any special meaning?** Yes, it means "brave warrior" in my native language, which my family hoped would inspire strength in me.
-- **Do you like your name?** Absolutely, it's unique and easy to remember, though sometimes people mispronounce it abroad.
-- **Would you like to change your name?** No, I wouldn't, as it's a big part of my identity and connects me to my roots.
-- **Is your name common or unusual in your country?** It's fairly common, especially in older generations, but less so among younger people now.
+### Going Out
+#### Social activities.
 
-For "Home," refer to the "Accommodation/Home" section in my previous answer, which includes questions like "Do you live in a house or a flat?" and related samples.
+**Do you often go out in the evenings?**  
+Not every day, but a couple of times a week for dinner or events that help me unwind. This frequency allows me to maintain a good work-life balance without feeling exhausted. It's refreshing to step out and experience the city's vibe occasionally.
+
+**What do you like to do when you go out?**  
+I enjoy exploring new restaurants or catching a movie—it's a break from routine that recharges me. Trying different cuisines exposes me to new flavors and cultures. Movies provide an escape and often spark interesting discussions afterward.
+
+**Do you prefer going out on your own or with friends?**  
+With friends, as it makes experiences more enjoyable and shared, creating lasting memories. Solo outings are peaceful for reflection, but group activities add laughter and energy. Ultimately, the company enhances the overall fun.
+
+**How often do you go out in a week?**  
+About 2-3 times, balancing it with rest to avoid burnout. Weekdays might include quick dinners, while weekends are for longer outings. This schedule keeps my social life active without overwhelming my routine.
+
+**Where do most young people like to go out in your country?**  
+Malls or parks for casual meetups, or clubs for nightlife that offer excitement. Malls provide shopping and entertainment under one roof, appealing to groups. Parks offer a relaxed, affordable option for conversations and activities.
+
+### Happiness
+#### Personal feelings and influences.
+
+**Are you a happy person?**  
+Overall, yes—I focus on positives like family and achievements that bring fulfillment. Cultivating gratitude helps me navigate challenges effectively. Surrounding myself with supportive people amplifies this sense of contentment.
+
+**What usually makes you happy or unhappy?**  
+Spending time with loved ones makes me happy, as it strengthens bonds and creates joy. On the other hand, traffic jams make me unhappy due to the frustration and wasted time. I try to manage unhappiness by finding small positives in tough situations.
+
+**Does the weather ever affect how you feel?**  
+Yes, sunny days energize me, boosting my productivity and mood. While rainy ones make me reflective, sometimes leading to creative thoughts. Extreme weather can disrupt plans, but I adapt by indoor activities.
+
+**What makes you smile?**  
+Small things like a good joke or a kind gesture from a stranger brighten my day instantly. These moments remind me of the goodness in people. Sharing laughs with friends amplifies the happiness even more.
+
+**Do you think people in your country are generally happy?**  
+Mostly, due to strong community ties that provide support and belonging. Though urban stress affects some, leading to occasional dissatisfaction. Cultural festivals and family gatherings often restore a sense of joy.
+
+### Internet
+#### Usage and impact.
+
+**How often do you use the internet?**  
+Daily, for work, social media, and news—it's integral to my routine and keeps me informed. I spend several hours browsing, which helps in both professional and personal tasks. Limiting screen time prevents it from becoming overwhelming.
+
+**What do you use the internet for?**  
+Researching topics, connecting with friends through chats, and online shopping for convenience. It saves time by providing quick answers to questions. Social platforms allow me to stay updated on loved ones' lives.
+
+**Did you use the internet much when you were younger?**  
+Not as much; it was slower and less accessible back then, limited to basic tasks. We relied more on libraries and books for information. Now, its evolution has made it indispensable in daily life.
+
+**Do you think the internet is important?**  
+Essential for information and global connections, but it can be addictive if not managed. It bridges distances, enabling remote work and learning. However, privacy concerns require cautious usage.
+
+**What are the advantages of the internet?**  
+Instant access to knowledge expands learning opportunities worldwide. Easy communication keeps relationships alive across distances. Additionally, it facilitates efficient services like banking and entertainment.
+
+### Marriage
+#### Views on weddings and relationships.
+
+**At what age do people usually get married in your country?**  
+Around 25-30, though it's later in cities due to careers and education priorities. This shift reflects changing societal norms toward independence. Rural areas might see earlier marriages tied to traditions.
+
+**Do you think people should get married young?**  
+Not necessarily; it's better when emotionally and financially ready to build a stable life. Marrying young can limit personal growth opportunities. Waiting allows for better compatibility and shared goals.
+
+**What kind of weddings are popular in your country?**  
+Lavish ones with traditions, food, and dances that celebrate culture vibrantly. They often involve large gatherings of family and friends. Modern twists include themed decorations for personalization.
+
+**Have you attended many weddings?**  
+Yes, several family ones, which are always festive and full of rituals. Each event strengthens community bonds through shared joy. The food and music make them memorable highlights.
+
+**Is marriage important in your culture?**  
+Very, as it symbolizes family unity and stability in society. It provides a foundation for raising children with values. Cultural ceremonies emphasize commitment and lifelong partnership.
+
+### Mobile Phones
+#### Daily use and features.
+
+**Do you have a mobile phone?**  
+Yes, a smartphone that's always with me for quick access to everything. It serves as my primary device for both personal and professional needs. Without it, I'd feel disconnected from the world around me.
+
+**How often do you use your mobile phone?**  
+Constantly, for calls, apps, and browsing throughout the day. It helps me stay organized with reminders and emails on the go. However, I make an effort to set limits to avoid excessive screen time.
+
+**What do you use your mobile phone for?**  
+Communication with friends and family, navigation during travels, and entertainment like listening to music. Apps for social media keep me updated on news and trends. It's also handy for quick research or online shopping.
+
+**Do you think mobile phones are important?**  
+Crucial for staying connected in today's fast-paced world, but they can distract from real life interactions. They enable emergency calls and instant information access. Balancing usage is key to reaping benefits without drawbacks.
+
+**Should children have mobile phones?**  
+Only older kids, with limits to avoid overuse and ensure safety. Parental controls can help monitor content and time spent. It teaches responsibility while providing a way to contact parents.
+
+### Music
+#### Preferences and experiences.
+
+**Do you like music?**  
+Yes, it's a big part of my relaxation routine after a long day. Listening to tunes helps me unwind and boosts my mood instantly. I often discover new artists through streaming services.
+
+**What kind of music do you like?**  
+Pop and indie, for their catchy tunes and meaningful lyrics that resonate with me. Pop energizes me during workouts, while indie offers a more introspective vibe. Mixing genres keeps my playlist fresh and exciting.
+
+**Do you play any musical instruments?**  
+I play guitar casually, learned in school as a hobby. Practicing chords helps me de-stress and be creative. Though not professional, it's fun to strum along to favorite songs.
+
+**Did you learn music at school?**  
+Yes, basic classes that introduced rhythms and songs to build foundational skills. We sang in choirs and played simple instruments like recorders. Those lessons sparked a lifelong appreciation for music.
+
+**Is music important in your country?**  
+Very, with festivals and films centered around it, celebrating cultural heritage. Music unites people during events and reflects societal emotions. It's also a major industry supporting artists and traditions.
+
+### Newspapers & Magazines
+#### Reading habits.
+
+**Do you often read newspapers?**  
+Not print ones, but online news daily to stay informed on current events. Digital versions are convenient and updated in real-time. This habit fits seamlessly into my morning routine.
+
+**Which newspapers are popular in your country?**  
+National dailies like The Times for current affairs and in-depth analysis. They cover politics, sports, and international news reliably. Many people trust them for unbiased reporting.
+
+**Do you prefer newspapers or magazines?**  
+Magazines for in-depth features on hobbies like travel or tech. They offer visually appealing layouts and expert opinions. Newspapers are great for quick updates, but magazines provide leisurely reading.
+
+**Did you read newspapers as a child?**  
+Occasionally, mainly comics sections that were entertaining and colorful. It introduced me to storytelling through strips. Family discussions around articles sparked early interest in world events.
+
+**Do you think newspapers will be replaced by the internet?**  
+Partly, as digital platforms offer instant access, but print has a tactile appeal for some readers. Online news is more interactive with videos and comments. Traditional papers may evolve to hybrid models.
+
+### Public Transport
+#### Usage and opinions.
+
+**How often do you use public transport?**  
+Daily for commuting to work—it's efficient and cost-effective. Avoiding driving saves time in traffic jams. It also allows me to read or relax during the journey.
+
+**What kinds of public transport are available in your city?**  
+Buses, trains, and metros that connect various parts efficiently. Metros are fast for longer distances, while buses cover local routes. Trains are ideal for inter-city travel.
+
+**Do you think public transport is important?**  
+Yes, it reduces traffic congestion and environmental pollution significantly. It makes cities more accessible for everyone, including those without cars. Investing in it promotes sustainable urban living.
+
+**What improvements could be made to public transport in your country?**  
+More frequent services and better cleanliness to enhance user experience. Adding Wi-Fi and air conditioning would make rides more comfortable. Expanding routes to underserved areas would increase usage.
+
+**Do you prefer public transport or driving?**  
+Public for convenience in busy areas where parking is a hassle. Driving offers flexibility for spontaneous trips. Overall, public transport is eco-friendlier and less stressful in peak hours.
 
 
-#### Dance
-Questions often explore personal experiences and cultural aspects.
+### Relatives
+#### Family connections.
 
-- **Do you like dancing?** Yes, I enjoy dancing at social events because it helps me relax and express myself. I particularly like freestyle dancing to upbeat music.
-- **Have you ever learned to dance?** I took some basic salsa classes a few years ago, but I'm not professional. It was fun and improved my coordination.
-- **When was the last time you danced?** The last time was at a friend's wedding last month, where we all joined in traditional folk dances—it was energetic and memorable.
-- **What kinds of dancing are popular in your country?** In my country, Bollywood-style dancing is hugely popular, especially at festivals, along with classical forms like Bharatanatyam.
-- **Do you think children should learn to dance?** Definitely, as it promotes physical fitness and creativity, plus it's a great way to build confidence.
+**Do you have many relatives?**  
+Yes, a large extended family we meet at gatherings like weddings or festivals. These reunions strengthen our bonds and create lasting memories. Growing up with so many relatives has given me a strong support system.
 
-#### Dictionary
-Focuses on usage and preferences.
+**How often do you see your relatives?**  
+Monthly, for dinners or events that keep us connected despite busy schedules. These meetings allow us to catch up on each other's lives and share advice. It's a tradition that brings joy and a sense of belonging.
 
-- **How often do you use a dictionary?** I use an online dictionary almost daily, especially when reading articles or learning new words for work.
-- **What kind of dictionaries do you use?** I prefer digital ones like Oxford or Google Translate for quick lookups, but I own a physical bilingual dictionary for deeper study.
-- **Did you use dictionaries as a child?** Yes, in school we used simple picture dictionaries to build vocabulary, which made learning fun.
-- **Do you think dictionaries are useful for learning a language?** Absolutely, they provide accurate meanings and examples, helping avoid misunderstandings in communication.
-- **What is the best dictionary you've used?** The Cambridge Advanced Learner's Dictionary is my favorite for its clear explanations and audio pronunciations.
+**Who is your closest relative?**  
+My cousin, like a sibling to me, with whom I share secrets and adventures. We've grown up together, supporting each other through ups and downs. Our close relationship adds fun and comfort to family interactions.
 
-#### Dreams
-About sleep dreams or ambitions.
+**Do you prefer spending time with relatives or friends?**  
+Both, but relatives for deeper bonds built on shared history and unconditional love. Friends offer fresh perspectives and excitement in activities. Balancing time with both enriches my social life overall.
 
-- **Do you often remember your dreams?** Sometimes, especially vivid ones, but most fade quickly after waking up.
-- **Do you think dreams have special meanings?** I'm not sure, but some people believe they reflect subconscious thoughts—I find them more random.
-- **Have you ever had a bad dream?** Yes, I once dreamed of being lost in a maze, which left me feeling anxious when I woke up.
-- **Do you like hearing about other people's dreams?** Not really, as they can be confusing, but if it's a funny one, it's entertaining.
-- **What was the most interesting dream you've had?** I dreamed of flying over my city, which felt freeing and inspired me to travel more.
+**What do you do with your relatives?**  
+Share meals and stories from the past that evoke laughter and nostalgia. We also play games or plan outings to create new memories. These activities foster unity and pass down family traditions.
 
-#### Drinks
-Preferences and habits.
+### Shoes
+#### Preferences and shopping.
 
-- **What is your favourite drink?** Coffee is my go-to, especially a strong espresso in the morning to kickstart my day.
-- **Is it common for people to drink tea and coffee in your country?** Yes, tea is a staple, often shared during breaks, while coffee is gaining popularity in urban areas.
-- **Did you prefer different drinks as a child?** As a kid, I loved sugary sodas, but now I opt for healthier options like herbal teas.
-- **Do you think it is important to drink lots of water?** Definitely, it keeps you hydrated and healthy, especially in hot climates like mine.
-- **What is a traditional drink in your country for celebrating?** During festivals, we drink lassi, a yogurt-based beverage that's refreshing and symbolic.
+**Do you like buying shoes?**  
+Yes, especially comfortable sneakers for daily wear that match my active lifestyle. Shopping for them is exciting as I look for styles that combine fashion and function. Finding the perfect pair always feels like a small victory.
 
-#### Evenings
-Daily habits after work/school.
+**How often do you buy shoes?**  
+A few times a year, when needed or when I spot a good deal. This prevents unnecessary spending while keeping my wardrobe updated. I prioritize quality over quantity to ensure longevity.
 
-- **What do you often do in the evenings?** I usually unwind by reading or watching a series, sometimes cooking a light meal.
-- **Do you do the same thing every evening?** No, it varies—weekdays are quieter, while weekends might involve meeting friends.
-- **Do you prefer to spend your evenings with family or friends?** With family for comfort, but friends for fun outings.
-- **Do you ever work or study in the evenings?** Occasionally, if there's a deadline, but I try to keep evenings for relaxation.
-- **What is a popular activity for young people in your country in the evenings?** Hanging out at cafes or street food stalls is common among youth.
+**What kind of shoes do you prefer?**  
+Casual and durable ones over fancy heels, as they suit my everyday needs. They provide comfort during long walks or errands. Opting for versatile designs allows me to mix and match with outfits easily.
 
-#### Going Out
-Social activities.
+**Do you have a favourite pair of shoes?**  
+My running shoes—they're versatile and comfy for both exercise and casual outings. They've accompanied me on many runs and travels without wearing out. Their reliability makes them indispensable in my collection.
 
-- **Do you often go out in the evenings?** Not every day, but a couple of times a week for dinner or events.
-- **What do you like to do when you go out?** I enjoy exploring new restaurants or catching a movie—it's a break from routine.
-- **Do you prefer going out on your own or with friends?** With friends, as it makes experiences more enjoyable and shared.
-- **How often do you go out in a week?** About 2-3 times, balancing it with rest.
-- **Where do most young people like to go out in your country?** Malls or parks for casual meetups, or clubs for nightlife.
+**Is buying shoes expensive in your country?**  
+It varies, but branded ones can be pricey due to import costs. Local options are more affordable and often just as good. Sales and online shopping help make quality shoes accessible to everyone.
 
-#### Happiness
-Personal feelings and influences.
+### Teachers
+#### Experiences and views.
 
-- **Are you a happy person?** Overall, yes—I focus on positives like family and achievements.
-- **What usually makes you happy or unhappy?** Spending time with loved ones makes me happy; traffic jams make me unhappy.
-- **Does the weather ever affect how you feel?** Yes, sunny days energize me, while rainy ones make me reflective.
-- **What makes you smile?** Small things like a good joke or a kind gesture from a stranger.
-- **Do you think people in your country are generally happy?** Mostly, due to strong community ties, though urban stress affects some.
+**Do you remember your teachers from school?**  
+Yes, especially my math teacher who made it fun with games and real-life examples. Their enthusiasm turned a challenging subject into an enjoyable one. Those lessons still influence how I approach problems today.
 
-#### Internet
-Usage and impact.
+**Did you have a favourite teacher?**  
+My English teacher, who encouraged reading and sparked my love for literature. She assigned captivating books and discussed them in engaging ways. Her passion inspired me to pursue writing as a hobby.
 
-- **How often do you use the internet?** Daily, for work, social media, and news—it's integral to my routine.
-- **What do you use the internet for?** Researching, connecting with friends, and online shopping.
-- **Did you use the internet much when you were younger?** Not as much; it was slower and less accessible back then.
-- **Do you think the internet is important?** Essential for information and global connections, but it can be addictive.
-- **What are the advantages of the internet?** Instant access to knowledge and easy communication worldwide.
+**What makes a good teacher?**  
+Patience, knowledge, and inspiring students to reach their potential. A good teacher adapts to different learning styles for better understanding. Building a positive classroom environment fosters curiosity and growth.
 
-#### Marriage
-Views on weddings and relationships.
+**Do you think teachers should be strict?**  
+Somewhat, to maintain discipline but not overly to avoid discouraging students. Strictness ensures focus and respect in class. Balancing it with empathy creates a supportive learning atmosphere.
 
-- **At what age do people usually get married in your country?** Around 25-30, though it's later in cities due to careers.
-- **Do you think people should get married young?** Not necessarily; it's better when emotionally and financially ready.
-- **What kind of weddings are popular in your country?** Lavish ones with traditions, food, and dances.
-- **Have you attended many weddings?** Yes, several family ones, which are always festive.
-- **Is marriage important in your culture?** Very, as it symbolizes family unity and stability.
+**Would you like to be a teacher?**  
+Maybe, if it involves creative subjects like art or literature where I can innovate. The opportunity to shape young minds is appealing. However, the responsibility requires dedication and continuous learning.
 
-#### Mobile Phones
-Daily use and features.
+### Television
+#### Watching habits.
 
-- **Do you have a mobile phone?** Yes, a smartphone that's always with me.
-- **How often do you use your mobile phone?** Constantly, for calls, apps, and browsing.
-- **What do you use your mobile phone for?** Communication, navigation, and entertainment like music.
-- **Do you think mobile phones are important?** Crucial for staying connected, but they can distract from real life.
-- **Should children have mobile phones?** Only older kids, with limits to avoid overuse.
+**How often do you watch television?**  
+A few times a week, mainly news or series to stay informed and entertained. It fits into my evenings as a way to relax. Streaming services make it easy to choose what I want.
 
-#### Music
-Preferences and experiences.
+**What kinds of programs do you like?**  
+Documentaries and comedies for variety in learning and laughter. Documentaries expand my knowledge on topics like nature or history. Comedies provide light-hearted relief from daily stress.
 
-- **Do you like music?** Yes, it's a big part of my relaxation routine.
-- **What kind of music do you like?** Pop and indie, for their catchy tunes and lyrics.
-- **Do you play any musical instruments?** I play guitar casually, learned in school.
-- **Did you learn music at school?** Yes, basic classes that introduced rhythms and songs.
-- **Is music important in your country?** Very, with festivals and films centered around it.
+**Did you watch much TV as a child?**  
+Yes, cartoons after school that sparked my imagination and creativity. They were a fun reward after homework. Family viewing time made it a shared experience.
 
-#### Newspapers & Magazines
-Reading habits.
+**Do you think television is educational?**  
+It can be, with channels on history or science offering valuable insights. Programs like these make learning accessible and engaging. However, choosing quality content is key to its benefits.
 
-- **Do you often read newspapers?** Not print ones, but online news daily.
-- **Which newspapers are popular in your country?** National dailies like The Times for current affairs.
-- **Do you prefer newspapers or magazines?** Magazines for in-depth features on hobbies.
-- **Did you read newspapers as a child?** Occasionally, mainly comics sections.
-- **Do you think newspapers will be replaced by the internet?** Partly, but print has a tactile appeal.
+**What is a popular TV show in your country?**  
+Reality shows like talent competitions that showcase skills and stories. They draw large audiences with drama and inspiration. Voting elements make viewers feel involved in the outcome.
 
-#### Public Transport
-Usage and opinions.
+### Vegetables & Fruits
+#### Eating habits.
 
-- **How often do you use public transport?** Daily for commuting to work—it's efficient.
-- **What kinds of public transport are available in your city?** Buses, trains, and metros.
-- **Do you think public transport is important?** Yes, it reduces traffic and pollution.
-- **What improvements could be made to public transport in your country?** More frequent services and better cleanliness.
-- **Do you prefer public transport or driving?** Public for convenience in busy areas.
+**Do you like eating vegetables?**  
+Yes, they're essential for a balanced diet that keeps me healthy and energized. I incorporate them into most meals, like salads or stir-fries, for their nutrients. Eating veggies has become a habit that I genuinely enjoy for its fresh flavors.
 
-#### Relatives
-Family connections.
+**What is your favourite vegetable?**  
+Broccoli, for its versatility in cooking from steaming to roasting. It's packed with vitamins and adds a nice crunch to dishes. I often use it in soups or as a side to make meals more nutritious.
 
-- **Do you have many relatives?** Yes, a large extended family we meet at gatherings.
-- **How often do you see your relatives?** Monthly, for dinners or events.
-- **Who is your closest relative?** My cousin, like a sibling to me.
-- **Do you prefer spending time with relatives or friends?** Both, but relatives for deeper bonds.
-- **What do you do with your relatives?** Share meals and stories from the past.
+**Did you eat many vegetables as a child?**  
+Not always, but my parents encouraged it by making fun recipes to appeal to kids. Over time, I grew to appreciate their taste and benefits. Now, I make sure to include them regularly in my diet.
 
-#### Shoes
-Preferences and shopping.
+**Are vegetables expensive in your country?**  
+Seasonal ones are affordable and widely available at local markets. Imports can be less so due to transportation costs, making them a luxury. Overall, focusing on local produce keeps costs down and supports farmers.
 
-- **Do you like buying shoes?** Yes, especially comfortable sneakers for daily wear.
-- **How often do you buy shoes?** A few times a year, when needed.
-- **What kind of shoes do you prefer?** Casual and durable ones over fancy heels.
-- **Do you have a favourite pair of shoes?** My running shoes—they're versatile and comfy.
-- **Is buying shoes expensive in your country?** It varies, but branded ones can be pricey.
-
-#### Teachers
-Experiences and views.
-
-- **Do you remember your teachers from school?** Yes, especially my math teacher who made it fun.
-- **Did you have a favourite teacher?** My English teacher, who encouraged reading.
-- **What makes a good teacher?** Patience, knowledge, and inspiring students.
-- **Do you think teachers should be strict?** Somewhat, to maintain discipline but not overly.
-- **Would you like to be a teacher?** Maybe, if it involves creative subjects.
-
-#### Television
-Watching habits.
-
-- **How often do you watch television?** A few times a week, mainly news or series.
-- **What kinds of programs do you like?** Documentaries and comedies for variety.
-- **Did you watch much TV as a child?** Yes, cartoons after school.
-- **Do you think television is educational?** It can be, with channels on history or science.
-- **What is a popular TV show in your country?** Reality shows like talent competitions.
-
-#### Vegetables & Fruits
-Eating habits.
-
-- **Do you like eating vegetables?** Yes, they're essential for a balanced diet.
-- **What is your favourite vegetable?** Broccoli, for its versatility in cooking.
-- **Did you eat many vegetables as a child?** Not always, but my parents encouraged it.
-- **Are vegetables expensive in your country?** Seasonal ones are affordable, imports less so.
-- **Do you think people should eat more vegetables?** Definitely, for health benefits like vitamins.
-
+**Do you think people should eat more vegetables?**  
+Definitely, for health benefits like vitamins that boost immunity and prevent diseases. In a fast-food culture, veggies provide natural alternatives to processed items. Encouraging more consumption could lead to better public health outcomes.
