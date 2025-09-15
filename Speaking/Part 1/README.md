@@ -366,10 +366,10 @@ Yes, especially during national holidays with parades and flags. These events br
 #### Preferences and habits.
 
 **What genre of movies is your favourite?**  
-I love sci-fi for its imaginative stories and special effects. These films transport me to futuristic worlds and spark my curiosity about technology. The visual spectacle often leaves me pondering real-world possibilities long after the credits roll.
+I enjoy family dramas that focus on self-development because they provide inspiring stories that are relevant with real-life challenges. These films often explore personal growth, motivating viewers to reflect on their own journeys. The emotional depth and relatable characters make this genre particularly inspiring for me.
 
 **Which is your favourite movie?**  
-"Inception" is my favourite for its mind-bending plot. The layers of dreams and reality keep the audience engaged throughout. Christopher Nolan's direction masterfully combines action with philosophical questions about the subconscious.
+My favourite movie is "The Wealth Blueprint" by the renowned director Jhonson Clark. It is a self development family drama movie. This movie completely changed my outlook about money and finance. It depicts the financial philosophies of two figures in the protagonist’s life—his biological father, whom he calls his "Poor Dad," and the father of his best friend, his "Rich Dad." The book emphasizes the importance of financial literacy, investing in assets, and shifting the mindset from working for money to having money work for you. The movie is inspired from the book "Rich Dad, Poor Dad" by Robert Kiosaki. I will definitely recommend the movie to those who want to improve their financial understanding and take control of their economic future.
 
 **How much time do you spend watching movies?**  
 About once a week, usually streaming at home. This habit allows me to relax after a busy schedule without committing too much time. I enjoy discussing the films with friends afterward to share different interpretations.
