@@ -1,3 +1,12 @@
+### Sentence Structure for speaking
+1. Rephrase the question
+2. Start next sentence with word + ing
+3. Give example. For instance...
+
+Example: Yes, I used to watch cartoons in my childhood after school. Watching them sparked my imagination and creativity.
+
+
+### Helps to relax
 1. It offers me a break to refresh my mind and relax.
 2. It gives me the opportunity to destress and recharge.
 3. It serves as a way for me to unwind and relax after a busy day or week.
@@ -6,12 +15,10 @@
 6. It lets me forget about my worries for a while.
 7. It helps me disconnect from everything and reconnect with myself in a peaceful manner.
 
-### Sentence Structure for speaking
-1. Rephrase the question
-2. Start next sentence with word + ing
-3. Give example. For instance...
- Example: Yes, I used to watch cartoons in my childhood after school. Watching them sparked my imagination and creativity.
+### Health
+1. Definitely, eating vegitables have health benefits like they provide vitamins that boost immunity and prevent diseases.
 
+--- 
 
 9. **Well, I have never given much thought to this topic, but from my perspective, I believe** the government should take appropriate steps to remove illegal shops from pedestrian walkways and ensure they are not resettled there again.
 10. However, discipline **shouldn’t be overly rigid or punitive, as this could** affect creativity or make school feel oppressive.
