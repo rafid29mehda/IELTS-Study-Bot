@@ -427,10 +427,10 @@ No, it aligns with my career goals perfectly, as I aim to work in the tech indus
 #### Preferences and impacts.
 
 **How is the weather in your country?**  
-It's varied, with hot summers and mild winters in most regions. Coastal areas experience more humidity, while inland spots can have extreme temperatures. This diversity influences everything from agriculture to tourism throughout the year.
+The weather in Bangladesh is usually hot and humid, especially during the summer. Monsoon season brings heavy rain and occasional flooding from June to September. In winter, it’s relatively cool and pleasant, though mornings can be quite foggy. This diversity influences everything from agriculture to tourism throughout the year.
 
 **What is your favourite weather?**  
-I love rainy days for the cozy feeling indoors with a hot cup of tea. The sound of rain pattering on the window helps me relax and focus on reading or hobbies. It also freshens the air and makes the outdoors lush and green afterward.
+I love rainy days for the peaceful atmosphere and cozy feeling indoors with a hot cup of tea. The sound of rain feels serene and tranquil(calming) which helps me relax and focus on reading books. It also freshens the air and brings an earthy smell after the rain.
 
 **Does the weather in your nation affect daily life?**  
 Yes, heavy rains can cause traffic delays and disrupt commutes in urban areas. During hot summers, people adjust schedules to avoid peak heat hours for outdoor activities. Extreme weather events sometimes lead to school closures or changes in work routines.
