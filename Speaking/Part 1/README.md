@@ -401,23 +401,26 @@ Noise or parking issues, but communication solves most. Crowded living spaces ca
 ### Study
 #### Education and subjects.
 
+### Study
+
 **What do you study?**  
-I'm studying computer science at university, focusing on programming. The curriculum covers everything from basic coding to advanced AI concepts. This field excites me because of its rapid evolution and practical applications.
+I study Information and Communication Engineering (ICE) at ABC University, which combines core courses from Computer Science Engineering (CSE) and Electrical and Electronics Engineering (EEE). This blend allows me to explore both hardware and software aspects of technology. I enjoy it particularly because of the programming elements and signal processing, which challenge me creatively.
 
 **Why did you choose that subject?**  
-I chose it for the job prospects and my interest in technology. The tech industry offers diverse career paths with good salaries. My passion for problem-solving through code made it a natural fit.
+I always wanted to learn programming, as it fascinated me with its problem-solving potential. Additionally, I had a strong interest in signal processing, which deals with how information is transmitted and analyzed. Choosing this subject aligned perfectly with my passions and opened up exciting career opportunities in tech.
 
 **Is it a popular subject in your country?**  
-Yes, with many tech companies, it's in high demand. Students flock to it for the promise of innovation and global opportunities. Government initiatives also promote STEM education to boost the economy.
+Yes, with many tech companies thriving here, it's in high demand among students aspiring for innovative roles. The field offers excellent job prospects in areas like telecommunications and software development. Moreover, it's great for higher studies, with numerous universities providing advanced programs in related disciplines.
 
 **Do you like your subject?**  
-Absolutely, the challenges keep me engaged. Each project pushes me to think creatively and learn new skills. The satisfaction of debugging and seeing code work is incredibly rewarding.
+Absolutely, the challenges keep me engaged and motivated to push my limits. Each project encourages me to think creatively and acquire new skills that are practical and applicable. Overall, it fuels my curiosity and prepares me well for future endeavors in technology.
 
 **What are the main aspects of your subject?**  
-Coding, algorithms, and software development are key. These elements form the foundation for building efficient applications. Understanding data structures enhances problem-solving in real-world scenarios.
+Coding is a fundamental part, teaching us how to develop efficient algorithms and programs. Electric circuits form another key area, focusing on the design and analysis of electronic systems. Software development ties it all together, emphasizing the creation of applications that integrate hardware and communication technologies.
 
 **If you had the chance, would you change subject?**  
-No, it aligns with my career goals perfectly. Switching now would delay my progress in a field I enjoy. Plus, the versatility of computer science opens doors to various industries.
+No, it aligns with my career goals perfectly, as I aim to work in the tech industry. Switching now would delay my progress in a field I truly enjoy and am passionate about. Plus, the versatility of this subject opens doors to various industries, from telecommunications to AI.
+
 
 
 ### Weather
