@@ -16,7 +16,7 @@ Example: Yes, I used to watch cartoons in my childhood after school. Watching th
 7. It helps me disconnect from everything and reconnect with myself in a peaceful manner.
 
 ### Health
-1. Definitely, eating vegitables have health benefits like they provide vitamins that boost immunity and prevent diseases.
+1. Definitely, eating vegitables has health benefits like they provide vitamins that boost immunity and prevent diseases.
 
 --- 
 
