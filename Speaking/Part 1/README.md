@@ -7,6 +7,10 @@ For each topic, questions can cover:
 * Your habits and routines (e.g., "How often do you...?").
 * Comparisons or opinions (e.g., "How is it different from...?").
 
+
+**Where are you from?**
+I am from Chittagong, Dhaka. However, I was born and brought up here in Dhaka, Bangladesh. My ancestors are from Chittagong.
+
 #### Accommodation/Home
 Common questions focus on your living situation and preferences.
 
