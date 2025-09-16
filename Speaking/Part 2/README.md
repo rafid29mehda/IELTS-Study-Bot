@@ -204,6 +204,20 @@ The peaceful atmosphere, along with the amazing views, made this trip truly unfo
 
 (Word count: 164; Speaking time: ~1.5 minutes)
 
+##### Garden
+It features a beautiful garden full of vibrant flowers. The moment I stepped into the garden, I was immediately captivated by the sight of colorful blossoms in every corner. The air was fresh, and the atmosphere was so peaceful that it felt like time slowed down. 
+
+One of the highlights of my visit was the dedicated sunflower garden, which was an absolute visual delight. The sunflowers were in full bloom, their golden faces were turned toward the sky, creating a warm, inviting atmosphere. 
+
+It was such a peaceful and calming experience to walk through the garden, surrounded by the fragrance of flowers and the soothing sound of the nature. I spent a good amount of time just sitting and enjoying the serenity of the place. It was an experience of tranquility and connection with nature that I won’t forget anytime soon.
+
+##### Park
+It features a beautiful park. The park had a wide variety of rides, from thrilling roller coasters to slides and swings.
+
+I had a wonderful time there, especially because of the great atmosphere. The park was surrounded by lush greenery and stunning views of the endless hills. The fresh mountain air added to the overall charm of the park. It was fascinating to see families, couples, and solo travelers all enjoying their time together in such a well-maintained place.
+
+For children, there were playful rides like mini trains, while adults could enjoy the roller coasters. It was a truly lively and enjoyable experience. The park was not just a place of entertainment but also a great spot to relax and enjoy nature, making it a memorable part of my trip to Nilgiri.
+
 #### 7. Describe an Advertisement You Remember
 Frequently appearing in Preptical and LeapScholar for 2025, often linked to media or consumer experiences.
 
