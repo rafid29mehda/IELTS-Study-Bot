@@ -6,13 +6,13 @@
 
 I usually start my day early in the morning around 6:30 a.m. by waking up and doing some light excercise. After that, I take a quick shower and have a healthy breakfast, usually consisting of fruits, eggs, and tea. (Currently, I have started doing an internship during my weekends to earn my pocket money, as on weekdays I need to attend my university. So, once I’m ready,)
 
-Once I’m ready, I leave for my internship at the IT company where I work as a DevOps engineer. My work during the day mainly involves setting up deployment pipelines and collaborating with developers, but I also attend meetings to discuss project progress and plan tasks.
+After having my breakfast, I get ready to leave for my internship at the IT company where I work as a DevOps engineer. My work during the day mainly involves setting up deployment pipelines and collaborating with developers, but I also attend meetings to discuss project progress and plan tasks.
 
 In between work, during lunch, I usually eat with my colleagues in the office cafeteria. After work, I return home and spend some time with my family members. Then, we have our dinner. 
 
 In the evening, I dedicate a little time on my research which involves analyzing academic articles, processing data, and writing codes. Besides that, I often relax by reading books, watching a series, or chatting with friends online before going to sleep.
 
-Overall, my daily routine is quite busy but balanced, including work, study, exercise, and time with loved ones, which keeps me productive and motivated throughout the day.
+Overall, my daily routine is quite busy but balanced, including work, study, exercise, and time with loved ones It keeps me productive and motivated throughout the day.
 
 #### 1. Describe a traditional dish from your country. You should say:
 
