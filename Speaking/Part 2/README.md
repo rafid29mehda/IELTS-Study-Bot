@@ -228,8 +228,17 @@ You should say:
 - What it showed  
 - And explain why you remember it  
 
-**Sample Answer:**  
+**Sample Answer: 1**  
 An advertisement that sticks in my mind is one for a popular eco-friendly water bottle brand, promoting sustainability and reusable products. I first saw it on a billboard while commuting to work in the city center about a year ago, and later encountered it on social media feeds. It showed vibrant images of people hiking in forests, sipping from colorful bottles made from recycled materials, with slogans emphasizing reducing plastic waste and protecting oceans, accompanied by uplifting music. I remember it vividly because of its powerful message on environmental responsibility, which aligned with my own values and prompted me to switch from single-use plastics. The creative visuals, like before-and-after shots of polluted vs. clean beaches, made it impactful and memorable in a sea of commercial ads. In the end, it not only influenced my buying habits but also raised awareness about global issues, proving how advertising can drive positive change.
+
+**Sample Answer: 2**
+I would like to talk about an advertisement by Grameenphone, a well-known telecommunications company in Bangladesh. The advertisement was focused on promoting their Eid Offer bundles, including call rate and data packages, during the festive season. The central element of the ad was a song titled "Shopno Jabe Bari Amar," which became quite popular during that time. I first saw this ad probably around 2015 on television, but it also appeared on social media platforms and billboards.
+
+The advertisement was very emotional and relatable, especially for working-class people. It depicted the journey of individuals from various parts of Bangladesh who come to the capital Dhaka for work or studies. As the Eid holidays approach, they eagerly prepare to go back home to reunite with their families. The ad shows people shopping gifts for their loved ones, and the most touching part is when they arrive home and embrace their families in tight, emotional hugs. The song "Shopno Jabe Bari Amar" played in the background, was soothing as well.
+
+I remember it so well because it resonates deeply with my personal life. My father, being in the army, was posted in different regions, so Eid was one of the rare times we'd see him. The feeling of reunion with him was very similar to what was portrayed in the advertisement. Overall, this ad left a lasting impression on me. I really enjoyed this ad because it beautifully captured the emotions.
+
+
 
 (Word count: 155; Speaking time: ~1.4 minutes)
 
