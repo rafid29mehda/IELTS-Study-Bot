@@ -12,17 +12,19 @@
 
 
 ## Overall Paragraph
-1. Overall, the total number of hours spent on leisure activities **experienced a substantial upward trend throughout the period**, rising from 25 hours per week in 2005 to 40 hours per week by 2015, driven primarily by increases in both sports and television-watching hours, though the latter activity saw more fluctuations before stabilizing.
+1. **Bar Chart:** Overall, the total number of hours spent on leisure activities **experienced a substantial upward trend throughout the period**, rising from 25 hours per week in 2005 to 40 hours per week by 2015, driven primarily by increases in both sports and television-watching hours, though the latter activity saw more fluctuations before stabilizing.
 
 ---
 
-2. Overall, the unemployment rates **showed a downward trend across most countries,** decreasing from 10% in 2010 to 6% in 2020. However, Country A experienced more fluctuations before stabilizing, while Country B saw a steady decline throughout the period.
+2. **Table:** Overall, the unemployment rates **showed a downward trend across most countries,** decreasing from 10% in 2010 to 6% in 2020. However, Country A experienced more fluctuations before stabilizing, while Country B saw a steady decline throughout the period.
 
 ---
 
-3. 
+3. **Process Diagram:** Overall, the process of producing coffee involves several key stages, beginning with the harvesting of coffee beans and ending with the packaging of the roasted product. It is a multi-step process that includes drying, roasting, and grinding.
 
+---
 
+4. **Map:** Overall, the town centre has experienced significant growth, with the addition of many new facilities and commercial establishments. What was once a small shopping district has now transformed into a bustling urban centre with a wide variety of services and entertainment options.
 
 
 
@@ -36,6 +38,10 @@
 **In 2000,** company A produced 12 tonnes of waste, **while companies B and C** produced around 8 tonnes and 4 tonnes of waste material respectively. **Over the following 5 years,** the waste output of companies B and C rose by around 2 tonnes, but the figure for company A fell by approximately 1 tonne.
 
 **From 2005 to 2015,** company A cut waste production by roughly 3 tonnes, and company B reduced its waste by around 7 tonnes. **In contrast,** company C saw an increase in waste production of approximately 4 tonnes over the same 10-year period. **By 2015,** company C’s waste output had risen to 10 tonnes, **while the** respective amounts of waste from companies A and B had dropped to 8 tonnes and only 3 tonnes.
+
+**In comparison,** cruise ship visitors **experienced initial gradual growth** to about 0.5 million by 2012, **followed by minor fluctuations before accelerating sharply from** 2015 **onward**, **overtaking** island stays **in** 2016 **and** **reaching** 2 million **by the end of the period.**
+
+
 
 ---
 
