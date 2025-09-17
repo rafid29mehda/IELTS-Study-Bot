@@ -11,6 +11,26 @@
 10. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
 
 
+## Overall Paragraph
+1. Overall, the total number of hours spent on leisure activities **experienced a substantial upward trend throughout the period**, rising from 25 hours per week in 2005 to 40 hours per week by 2015, driven primarily by increases in both sports and television-watching hours, though the latter activity saw more fluctuations before stabilizing.
+
+---
+
+2. Overall, the unemployment rates **showed a downward trend across most countries,** decreasing from 10% in 2010 to 6% in 2020. However, Country A experienced more fluctuations before stabilizing, while Country B saw a steady decline throughout the period.
+
+---
+
+3. 
+
+
+
+
+
+
+
+
+
+
 
 ## Common Paragraphs 
 **In 2000,** company A produced 12 tonnes of waste, **while companies B and C** produced around 8 tonnes and 4 tonnes of waste material respectively. **Over the following 5 years,** the waste output of companies B and C rose by around 2 tonnes, but the figure for company A fell by approximately 1 tonne.
