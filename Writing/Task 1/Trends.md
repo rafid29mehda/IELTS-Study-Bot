@@ -24,7 +24,7 @@
 
 ---
 
-4. **Map:** Overall, the town centre has experienced significant growth, with the addition of many new facilities and commercial establishments. What was once a small shopping district has now transformed into a bustling urban centre with a wide variety of services and entertainment options.
+4. **Map:** Overall, the town centre has experienced significant growth, with the addition of many new facilities(amenities) and commercial establishments. What was once a small shopping district has now transformed into a bustling urban centre with a wide variety of services and entertainment options.
 
 
 
