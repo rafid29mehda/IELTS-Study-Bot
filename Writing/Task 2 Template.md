@@ -1,3 +1,6 @@
+1. Point out all factors of both perspectives
+2. Keyword synonyms
+   
 It enables
 - offers
 - promotes
