@@ -73,77 +73,77 @@ It enables
 
 
 ## Template 1
-One of the main arguments in favor of ........ is that ......... .
+**One of the main arguments in favor of ........ is that ......... .**
 
 **Example 1:** One of the main arguments in favor of mandatory community service is that it instils a sense of responsibility in young people.
 
 **Example 2:** One of the main arguments in favor of electric cars is that they significantly reduce greenhouse gas emissions.
 
 ## Template 2
-The primary advantage of .......... is that it allows for .......... , thereby .......... and contributing to .......... .
+**The primary advantage of .......... is that it allows for .......... , thereby .......... and contributing to .......... .**
 
 **Example 1:** The primary advantage of online shopping is that it allows for convenience, thereby saving time and contributing to a more efficient lifestyle.
 
 **Example 2:** The primary advantage of bilingual education is that it allows for cultural integration, thereby enhancing communication and contributing to social harmony.
 
 ## Template 3
-In contrast to .......... , which often results in .......... , adopting .......... can lead to more positive outcomes such as .......... .
+**In contrast to .......... , which often results in .......... , adopting .......... can lead to more positive outcomes such as .......... .**
 
 **Example 1:** In contrast to conventional energy sources, which often results in pollution, adopting solar power can lead to more positive outcomes such as cleaner air and energy independence.
 
 **Example 2:** In contrast to rote learning, which often results in short-term retention, adopting interactive methods can lead to more positive outcomes such as deeper understanding and creativity.
 
 ## Template 4
-It is undeniable that .......... plays a crucial role in .......... , as it not only .......... but also .......... .
+**It is undeniable that .......... plays a crucial role in .......... , as it not only .......... but also .......... .**
 
 **Example 1:** It is undeniable that exercise plays a crucial role in maintaining health, as it not only strengthens the body but also improves mental well-being.
 
 **Example 2:** It is undeniable that innovation plays a crucial role in business success, as it not only attracts customers but also ensures competitiveness.
 
 ## Template 5
-One significant drawback of .......... is .......... , potentially causing .......... and .......... .
+**One significant drawback of .......... is .......... , potentially causing .......... and .......... .**
 
 **Example 1:** One significant drawback of overpopulation is resource scarcity, potentially causing food shortages and environmental degradation.
 
 **Example 2:** One significant drawback of excessive gaming is addiction, potentially causing social isolation and academic decline.
 
 ## Template 6
-By integrating .......... into .......... , society can achieve .......... , fostering .......... and .......... .
+**By integrating .......... into .......... , society can achieve .......... , fostering .......... and .......... .**
 
 **Example 1:** By integrating green spaces into urban planning, society can achieve better air quality, fostering health and community interaction.
 
 **Example 2:** By integrating technology into healthcare, society can achieve accurate diagnoses, fostering efficiency and patient satisfaction.
 
 ## Template 7
-Despite the fact that .......... , it is important to consider .......... in order to .......... .
+**Despite the fact that .......... , it is important to consider .......... in order to .......... .**
 
 **Example 1:** Despite the fact that tourism boosts economies, it is important to consider cultural erosion in order to preserve heritage.
 
 **Example 2:** Despite the fact that smartphones aid productivity, it is important to consider distraction in order to maintain focus.
 
 ## Template 8
-Enhancing .......... through .......... can result in .......... , benefiting .......... overall.
+**Enhancing .......... through .......... can result in .......... , benefiting .......... overall.**
 
 **Example 1:** Enhancing literacy through libraries can result in informed citizens, benefiting democracy overall.
 
 **Example 2:** Enhancing security through surveillance can result in safer streets, benefiting communities overall.
 
 ## Template 9
-By providing / removing / offering ....... , ......... can ensure that .................. , which ultimately leads to a ............ and ........... .
+**By providing / removing / offering ....... , ......... can ensure that .................. , which ultimately leads to a ............ and ........... .**
 
 **Example 1:** By providing scholarships, universities can ensure that talented students attend, which ultimately leads to a diverse campus and innovative research.
 
 **Example 2:** By removing tariffs, governments can ensure that trade flourishes, which ultimately leads to a stronger economy and better consumer choices.
 
 ## Template 10
-Another aspect contributing to .......... is .......... , which can be mitigated by .......... to achieve .......... .
+**Another aspect contributing to .......... is .......... , which can be mitigated by .......... to achieve .......... .**
 
 **Example 1:** Another aspect contributing to pollution is vehicle emissions, which can be mitigated by promoting public transport to achieve cleaner cities.
 
 **Example 2:** Another aspect contributing to dropout rates is financial hardship, which can be mitigated by offering subsidies to achieve higher graduation rates.
 
 ## Template 11
-In order to tackle the problem of .......... , it is essential that .......... , as this would .......... .
+**In order to tackle the problem of .......... , it is essential that .......... , as this would .......... .**
 
 **Example 1:** In order to tackle the problem of cyberbullying, it is essential that schools educate students, as this would foster safer online environments.
 
@@ -152,7 +152,7 @@ In order to tackle the problem of .......... , it is essential that .......... ,
 
 ## Template 12
 
-The role of .......... is often underestimated, yet it plays a vital part in .......... .
+**The role of .......... is often underestimated, yet it plays a vital part in .......... .**
 
 **Example 1:** The role of nutrition is often underestimated, yet it plays a vital part in maintaining physical health and preventing diseases.
 
@@ -160,7 +160,7 @@ The role of .......... is often underestimated, yet it plays a vital part in ...
 
 ## Template 13
 
-A key benefit of .......... is that it encourages .......... , which can lead to .......... .
+**A key benefit of .......... is that it encourages .......... , which can lead to .......... .**
 
 **Example 1:** A key benefit of volunteering is that it encourages social responsibility, which can lead to stronger community ties and personal growth.
 
