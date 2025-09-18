@@ -1,3 +1,10 @@
+It enables
+- offers
+- promotes
+- emphasizes
+- highlights
+- contributes
+
 # Introduction Paragraph Templates
 
 ## Template 1
