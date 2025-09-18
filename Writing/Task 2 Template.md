@@ -43,7 +43,7 @@ It enables
 **Example 2:** This essay will discuss both sides of the argument and provide my own view that stricter immigration policies are necessary for national security.
 
 ## Template 6
-**Proponents of ........ claim that it leads to ........ , while critics argue that ........ . / whereas critics highlight its potential to .......... .**
+**Proponents of ........ claim that it leads to ........ , while critics argue that ........ . / whereas critics highlight how it .......... .**
 
 **Example 1:** Supporters of censorship claim that it leads to societal protection, while opponents argue that it restricts freedom of speech.
 
