@@ -9,6 +9,8 @@
 8. increased by 8% / increased from 2% to 10%
 9. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
 10. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
+11. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
+12. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
 
 
 ## Overall Paragraph
