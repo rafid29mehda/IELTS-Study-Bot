@@ -46,6 +46,11 @@
 
 **In comparison,** cruise ship visitors **experienced initial gradual growth** to about 0.5 million by 2012, **followed by minor fluctuations before accelerating sharply from** 2015 **onward**, **overtaking** island stays **in** 2016 **and** **reaching** 2 million **by the end of the period.**
 
+**In 1900, around** 500km³ of water was used by the agriculture sector worldwide. **The figures
+for** industrial **and** domestic water consumption stood at around one fifth of that amount. B**y
+2000,** global water use for agriculture had increased to around 3000km³, industrial water use
+had risen to just under half that amount, and domestic consumption had reached
+approximately 500km³
 
 
 ---
