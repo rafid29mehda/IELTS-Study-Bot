@@ -1,3 +1,6 @@
+1. considerable increase
+2. Substantial drop 
+
 ## Common Trends
 1. **A significant proportion of** the budget was allocated to education in 2020.
 2. **The highest point was recorded / peak was observed** in 2019, with sales reaching $5 million.
