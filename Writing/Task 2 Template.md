@@ -3,6 +3,7 @@
    
 It enables
 - offers
+- fosters
 - promotes
 - emphasizes
 - highlights
