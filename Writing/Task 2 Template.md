@@ -20,6 +20,8 @@ It enables
 ## Template 2
 **The debate surrounding .......... continues to divide opinions, with some claiming .......... while others believe .......... .**
 
+**The debate / concern / inquiry surrounding ..........has sparked many discussions in recent years.**
+
 **Example 1:** The debate surrounding animal testing continues to divide opinions, with some claiming it advances medicine while others believe it is inhumane.
 
 **Example 2:** The debate surrounding nuclear energy continues to divide opinions, with some claiming it is efficient while others believe it poses safety risks.
