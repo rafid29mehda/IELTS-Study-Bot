@@ -7,7 +7,7 @@
 3. The table **shows the proportions / percentages of** students attending
 4. Between 2015 and 2018, the population remained relatively **stable / constant / steady** at 1 million.
 5. Overall, global temperatures **exhibited a steady upward trend** over the years.
-6. Overall, it can be seen that ... / it is clear that ....
+6. Overall, it can be seen that ... / it is clear that ... / it is evident that ...
 7. The most **rapid / steep increases occurred in the latter half,** particularly in urban areas.
 8. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
 9. between 2010 **and** 2025 / from 2010 **to** 2025
