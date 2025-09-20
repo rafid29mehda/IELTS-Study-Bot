@@ -12,10 +12,11 @@
 8. increased by 8% / increased from 2% to 10%
 9. A motorway was built **to the east** of the village (Map)
 10. **the largest proportion of** consumer spending
-11. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
-12. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
-13. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
-14. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
+11. **Out of the five countries**, consumer spending on food **was noticeably higher** in Turkey,**at just above 32%**, and Ireland, at nearly 29%.
+12. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
+13. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
+14. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
+15. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
 
 
 ## Overall Paragraph
