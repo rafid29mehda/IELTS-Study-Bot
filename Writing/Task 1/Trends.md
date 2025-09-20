@@ -19,6 +19,7 @@
 15. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
 16. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
 17. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
+18. Housing is the largest expenditure item for France, Germany and the UK, with all of them spending around one third of their income on this, at 30%, 33% and 37%, respectively. In contrast, ....
 
 
 ## Overall Paragraph
