@@ -10,10 +10,12 @@
 6. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
 7. between 2010 **and** 2025 / from 2010 **to** 2025
 8. increased by 8% / increased from 2% to 10%
-9. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
-10. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
-11. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
-12. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
+9. A motorway was built **to the east** of the village (Map)
+10. **the largest proportion of** consumer spending
+11. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
+12. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
+13. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
+14. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
 
 
 ## Overall Paragraph
