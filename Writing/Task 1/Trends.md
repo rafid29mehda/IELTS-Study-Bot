@@ -6,17 +6,18 @@
 2. **The highest point was recorded / peak was observed** in 2019, with sales reaching $5 million.
 3. Between 2015 and 2018, the population remained relatively **stable / constant / steady** at 1 million.
 4. Overall, global temperatures **exhibited a steady upward trend** over the years.
-5. The most **rapid / steep increases occurred in the latter half,** particularly in urban areas.
-6. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
-7. between 2010 **and** 2025 / from 2010 **to** 2025
-8. increased by 8% / increased from 2% to 10%
-9. A motorway was built **to the east** of the village (Map)
-10. **the largest proportion of** consumer spending
-11. **Out of the five countries**, consumer spending on food **was noticeably higher** in Turkey,**at just above 32%**, and Ireland, at nearly 29%.
-12. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
-13. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
-14. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
-15. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
+5. Overall, it can be seen that ... / it is clear that ....
+6. The most **rapid / steep increases occurred in the latter half,** particularly in urban areas.
+7. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
+8. between 2010 **and** 2025 / from 2010 **to** 2025
+9. increased by 8% / increased from 2% to 10%
+10. A motorway was built **to the east** of the village (Map)
+11. **the largest proportion of** consumer spending
+12. **Out of the five countries**, consumer spending on food **was noticeably higher** in Turkey,**at just above 32%**, and Ireland, at nearly 29%.
+13. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
+14. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
+15. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
+16. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
 
 
 ## Overall Paragraph
