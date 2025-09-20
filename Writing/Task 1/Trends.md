@@ -55,6 +55,11 @@ for** industrial **and** domestic water consumption stood at around one fifth of
 had risen to just under half that amount, and domestic consumption had reached
 approximately 500km³
 
+**The proportion of spending on** leisure and education **was the highest** in Turkey, at 4.35%,**while** expenditure on clothing and footwear was significantly higher in Italy, at 9%, **than in any of the other countries / years.** 
+
+
+
+
 
 ---
 
