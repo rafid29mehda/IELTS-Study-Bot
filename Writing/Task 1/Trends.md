@@ -59,6 +59,8 @@ approximately 500km³
 
 **The proportion of spending on** leisure and education **was the highest** in Turkey, at 4.35%,**while** expenditure on clothing and footwear was significantly higher in Italy, at 9%, **than in any of the other countries / years.** 
 
+**However, while the other** three types of school **declined** in importance, **the opposite was true in the case of** community schools. **In fact, whereas only** a small minority of 12% were educated in these schools in 2000, **this figure increased to** well over half of all pupils during the following nine years.
+
 
 
 
