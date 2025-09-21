@@ -12,14 +12,16 @@
 8. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
 9. between 2010 **and** 2025 / from 2010 **to** 2025
 10. increased by 8% / increased from 2% to 10%
-11. A motorway was built **to the east** of the village (Map)
-12. **the largest proportion of** consumer spending
-13. **Out of the five countries**, consumer spending on food **was noticeably higher** in Turkey,**at just above 32%**, and Ireland, at nearly 29%.
-14. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
-15. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
-16. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
-17. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
-18. Housing is the largest expenditure item for France, Germany and the UK, with all of them spending around one third of their income on this, at 30%, 33% and 37%, respectively. In contrast, ....
+11. The price of gas **stood at** $2.75 per gallon.
+12. In 2005, the sugar export **accounted for** about 10% of total exports.
+13. A motorway was built **to the east** of the village (Map)
+14. **the largest proportion of** consumer spending
+15. **Out of the five countries**, consumer spending on food **was noticeably higher** in Turkey,**at just above 32%**, and Ireland, at nearly 29%.
+16. Over the following four years both prices remained relatively stable, before rising steadily between 2004 and 2007.
+17. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased considerably.
+18. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
+19. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
+20. Housing is the largest expenditure item for France, Germany and the UK, with all of them spending around one third of their income on this, at 30%, 33% and 37%, respectively. In contrast, ....
 
 
 ## Overall Paragraph
