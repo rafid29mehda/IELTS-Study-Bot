@@ -10,7 +10,7 @@
 6. Overall, it can be seen that ... / it is clear that ... / it is evident that ...
 7. The most **rapid / steep increases occurred in the latter half,** particularly in urban areas.
 8. In contrast, rural regions **demonstrated more moderate fluctuations**, indicating uneven climate impacts.
-9. between 2010 **and** 2025 / from 2010 **to** 2025
+9. between 2010 **and** 2025 / from 2010 **to** 2025 / over a period of 15 years
 10. increased by 8% / increased from 2% to 10%
 11. The price of gas **stood at** $2.75 per gallon.
 12. In 2005, the sugar export **accounted for** about 10% of total exports.
