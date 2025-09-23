@@ -39,7 +39,21 @@ Common questions focus on your living situation and preferences.
   In my country, many people in rural areas live in houses, but in cities, flats are more common due to space constraints. It depends on the region and economic factors.
 
 #### Animals
-Questions explore your views on pets and wildlife.
+
+
+###### Positives of keeping animals in zoos:
+
+**1. Environmental perspective:** Zoos play an important role in wildlife conservation. They help to protect endangered species. They allow scientists to study animal behaviour.
+
+**2. Economic perspective:** Zoos employ large numbers of people. They provide job opportunities and income for the local area. The money raised can be used for conservation projects.
+
+**3. Personal perspective:** Zoos are interesting, educational and fun. They make a great day out for families. Children learn to appreciate wildlife and nature.
+
+###### Negatives of zoos:
+
+**1. Environmental perspective:** Zoos are artificial environments. Animals lose their instinct to hunt for food. It would be better to save endangered species by protecting their natural habitats.
+
+**2. Moral perspective:** Keeping animals in cages is unethical. We have no right to use animals for entertainment. Zoos exhibit animals with the aim of making a profit.
 
 - **Do you like animals?**  
   Yes, I adore animals because they bring joy and comfort into life. For example, I enjoy watching birds near my home and sometimes even feed stray cats in the neighborhood. I think animals bring a sense of warmth to people’s lives. Although I don’t currently have a pet, I would love to keep one in the future, probably a cat or a dog, because they make great companions.
