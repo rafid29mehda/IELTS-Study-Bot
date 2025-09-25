@@ -8,6 +8,9 @@
 2. **Overall, the percentage of** commuters who used cars **rose steadily over the period**, **while the proportion of** people who travelled by other means of transport **fell.**
 3. **However, in 1980,** travelling by bus was **by far the most popular transport mode**, **accounting for** over 25% of total travellers, **whereas** only 17% of people travelled on foot.
 
+<img width="1214" height="292" alt="image" src="https://github.com/user-attachments/assets/00e580a8-57e6-45a5-b0c6-a7a78470fed9" />
+
+
 
 
 
