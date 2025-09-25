@@ -1,11 +1,21 @@
 ## Line Graph
 <img width="1246" height="118" alt="image" src="https://github.com/user-attachments/assets/9e65d7bc-d4f6-4686-8427-81ce2ae5fc16" />
+
 ## Bar Chart
+
 <img width="1266" height="158" alt="image" src="https://github.com/user-attachments/assets/9db559c0-1c7a-4df6-994a-d0442b165b6f" />
+
 ## Table
+
 <img width="1214" height="292" alt="image" src="https://github.com/user-attachments/assets/00e580a8-57e6-45a5-b0c6-a7a78470fed9" />
+
 ## Pie Chart
+
 <img width="1272" height="326" alt="image" src="https://github.com/user-attachments/assets/0d41902e-d388-4928-ae45-bbdd3e90e0f0" />
+
+## Map
+
+<img width="1288" height="244" alt="image" src="https://github.com/user-attachments/assets/f5365363-1c12-4649-9b2a-b2fa7362159c" />
 
 
 1. **Regarding** the full-time employed, men **had** slightly more leisure time than women, **with** approximately 45 hours of free time per week, **compared to** around 38 hours **for** women.
