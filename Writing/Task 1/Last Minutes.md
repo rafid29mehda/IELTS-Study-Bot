@@ -17,6 +17,10 @@
 
 <img width="1288" height="244" alt="image" src="https://github.com/user-attachments/assets/f5365363-1c12-4649-9b2a-b2fa7362159c" />
 
+## Process
+
+<img width="1548" height="354" alt="image" src="https://github.com/user-attachments/assets/fa0b3d74-5323-4f96-af1c-9457eed69353" />
+
 
 1. **Regarding** the full-time employed, men **had** slightly more leisure time than women, **with** approximately 45 hours of free time per week, **compared to** around 38 hours **for** women.
 
