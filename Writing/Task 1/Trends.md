@@ -29,6 +29,7 @@
 18. The situation was very different in France, where hydroelectric **made up 80.5% of** renewable electricity, with biomass, wind and solar **making up the remaining 20%.**
 19. Community contributions, which were the second largest revenue source, **brought in 10.4% of overall** income, and this was **followed by** program revenue **, at 2.2%.**
 20. Housing is the largest expenditure item for France, Germany and the UK, with all of them spending around one third of their income on this, at 30%, 33% and 37%, respectively. In contrast, ....
+21. while the figure for transport **represented** 10%.
 
 
 ## Overall Paragraph
