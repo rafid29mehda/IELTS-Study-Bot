@@ -3,6 +3,7 @@
 3. subsequently
 4. In the following years
 5. account for / responsible for
+6. spent **the largest proportion of** their budget on
 
 ## Common Trends
 1. **A significant proportion of** the budget was allocated to education in 2020.
