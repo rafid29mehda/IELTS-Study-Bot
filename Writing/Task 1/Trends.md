@@ -2,7 +2,7 @@
 2. Substantial drop
 3. subsequently
 4. In the following three years
-5. accounted for / responsible for ... of total ...
+5. accounted for / responsible for ... of the total ...
 6. spent **the largest proportion of** their budget on
 7. in terms of / regarding
 8. was **double the figure** of
