@@ -12,6 +12,7 @@
 4. In country A, the total spending of students is highest, at 5000$ per year, **compared to** $4500 **and** $1500 for students in countries B and C 
 **respectively.**
 5. Accommodation **accounts for** 45% of the total expenditure of students in country A, **while** the proportions were lower for students in country B **at** 35%, and country C, at only 30%.
+6. **In terms of food,** students in country C spend the largest percentage of their money on it **, accounting for** 36%. 
 
 
 
