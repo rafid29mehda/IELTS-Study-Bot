@@ -5,7 +5,8 @@
 
 1. **Regarding** the full-time employed, men **had** slightly more leisure time than women, **with** approximately 45 hours of free time per week, **compared to** around 38 hours **for** women.
 
-2. **Overall, the percentage of** commuters who used cars **rose steadily over the period**, **while the proportion of** people who travelled by other means of transport **fell.** 
+2. **Overall, the percentage of** commuters who used cars **rose steadily over the period**, **while the proportion of** people who travelled by other means of transport **fell.**
+3. **However, in 1980,** travelling by bus was **by far the most popular transport mode**, **accounting for** over 25% of total travellers, **whereas** only 17% of people travelled on foot.
 
 
 
