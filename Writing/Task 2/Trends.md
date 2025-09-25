@@ -1,26 +1,27 @@
 ## Common Sentences
 1. **Whether** women should be allowed to serve in the military **has become a subject of debate in recent years.**
 2. **In today's rapidly evolving world**, the question of whether / **The advent of digital technology** raises the question of whether
-3. **There is a growing concern / debate / issue about** whether capital punishment should be abolished or retained for the most serious crimes, which has sparked many discussions in recent years.
-4. **While there are valid reasons in favor of banning** single-use plastics, **there are also** several counterpoints / counterarguments to consider. **In this essay, I will examine** both sides of the argument before offering my own opinion.
-5. There is a growing **concern about the rising levels of crime and whether strict** punishment is an effective solution, which has sparked many discussions in recent years. While there are **Justifiable / logical / credible / legitimate / reasonable grounds** behind the increase in crime rates, there are also several solutions to consider. In this essay, **I will examine the causes and propose potential measures before offering my own opinion.**
-6. There is an ongoing discussion about whether learning additional languages brings more benefits than drawbacks, which has sparked many debates in recent years. While the merits can be significant, there are also notable demerits to consider. In this essay, I will outline the main advantages and disadvantages before offering my opinion.
-7. **There is a growing inquiry about what** shapes human happiness and whether it can be measured with accuracy, which has drawn widespread interest in recent years. **While various determinants have been proposed, doubts remain about** quantifying such a subjective state. In this essay, I will answer the specific questions and then offer my perspective.
-8. There is a growing debate about whether **social media’s influence on** communication and society **is broadly beneficial or harmful**, which has sparked much discussion in recent years.
-9. 
-10. **One of the main arguments in favor of using** public transportation is that (its proponents believe it is an) it helps reduce traffic congestion.
-11. **Furthermore,** globalization **not only fosters** cultural exchange **but also promotes** economic interdependence among nations.
-12. On the other hand, the advocates of public transportation **emphasize** how it helps reduce traffic congestion. / **highlight** its role in reducing traffic congestion.
-13. **In contrast,** traditional methods of education **prioritize** face-to-face interaction, **which fosters** deeper understanding and collaboration among students.
-14. **One significant factor contributing to the rise in unemployment rates is** the rapid advancement of technology, **which has led to** job automation in many industries.
-15. **Another key factor to consider** is the role of education in addressing social inequalities, **as it** empowers individuals with the knowledge and skills needed to succeed.
-16. **Evidence from recent studies indicates that** excessive screen time contributes to mental health issues, **particularly** among adolescents.
-17. **In addition,** excessive TV viewing **can result in** obesity **as** kids are inactive **and** tend to eat junk food **while** watching TV.
-18. **From my perspective, although there are valid concerns regarding** the environmental costs of urbanization, **the benefits far outweigh the drawbacks in terms of** economic growth and improved living standards.
-19. **In conclusion, while there are valid arguments on both sides,** it is clear that the advantages of adopting renewable energy sources **outweigh** the potential drawbacks.
-20. The **governments should take proactive steps to address** climate change **in order to** safeguard future generations.
-21. **It is essential for designated / responsible / accountable authorities / policymakers to enforce strict regulations** on deforestation to preserve ....
-22. **By implementing these measures,** society can **pave the way for** a more equitable and prosperous future.
+3. **Recently, there has been a growing concern / debate / issue / discussion about homework and how / whether** ...., which has sparked many discussions in recent years.
+4. **There has been a growing concern / debate / issue about** whether capital punishment should be abolished or retained for the most serious crimes, which has sparked many discussions in recent years.
+5. **While there are valid reasons in favor of banning** single-use plastics, **there are also** several counterpoints / counterarguments to consider. **In this essay, I will examine** both sides of the argument before offering my own opinion.
+6. There is a growing **concern about the rising levels of crime and whether strict** punishment is an effective solution, which has sparked many discussions in recent years. While there are **Justifiable / logical / credible / legitimate / reasonable grounds** behind the increase in crime rates, there are also several solutions to consider. In this essay, **I will examine the causes and propose potential measures before offering my own opinion.**
+7. There is an ongoing discussion about whether learning additional languages brings more benefits than drawbacks, which has sparked many debates in recent years. While the merits can be significant, there are also notable demerits to consider. In this essay, I will outline the main advantages and disadvantages before offering my opinion.
+8. **There is a growing inquiry about what** shapes human happiness and whether it can be measured with accuracy, which has drawn widespread interest in recent years. **While various determinants have been proposed, doubts remain about** quantifying such a subjective state. In this essay, I will answer the specific questions and then offer my perspective.
+9. There is a growing debate about whether **social media’s influence on** communication and society **is broadly beneficial or harmful**, which has sparked much discussion in recent years.
+10. 
+11. **One of the main arguments in favor of using** public transportation is that (its proponents believe it is an) it helps reduce traffic congestion.
+12. **Furthermore,** globalization **not only fosters** cultural exchange **but also promotes** economic interdependence among nations.
+13. On the other hand, the advocates of public transportation **emphasize** how it helps reduce traffic congestion. / **highlight** its role in reducing traffic congestion.
+14. **In contrast,** traditional methods of education **prioritize** face-to-face interaction, **which fosters** deeper understanding and collaboration among students.
+15. **One significant factor contributing to the rise in unemployment rates is** the rapid advancement of technology, **which has led to** job automation in many industries.
+16. **Another key factor to consider** is the role of education in addressing social inequalities, **as it** empowers individuals with the knowledge and skills needed to succeed.
+17. **Evidence from recent studies indicates that** excessive screen time contributes to mental health issues, **particularly** among adolescents.
+18. **In addition,** excessive TV viewing **can result in** obesity **as** kids are inactive **and** tend to eat junk food **while** watching TV.
+19. **From my perspective, although there are valid concerns regarding** the environmental costs of urbanization, **the benefits far outweigh the drawbacks in terms of** economic growth and improved living standards.
+20. **In conclusion, while there are valid arguments on both sides,** it is clear that the advantages of adopting renewable energy sources **outweigh** the potential drawbacks.
+21. The **governments should take proactive steps to address** climate change **in order to** safeguard future generations.
+22. **It is essential for designated / responsible / accountable authorities / policymakers to enforce strict regulations** on deforestation to preserve ....
+23. **By implementing these measures,** society can **pave the way for** a more equitable and prosperous future.
 
 
 
