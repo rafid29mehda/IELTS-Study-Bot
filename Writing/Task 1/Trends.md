@@ -1,9 +1,10 @@
 1. considerable increase
 2. Substantial drop
 3. subsequently
-4. In the following years
+4. In the following three years
 5. account for / responsible for
 6. spent **the largest proportion of** their budget on
+7. in terms of / regarding
 
 ## Common Trends
 1. **A significant proportion of** the budget was allocated to education in 2020.
