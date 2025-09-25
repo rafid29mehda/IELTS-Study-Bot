@@ -5,6 +5,8 @@
 5. account for / responsible for
 6. spent **the largest proportion of** their budget on
 7. in terms of / regarding
+8. was **double the figure** of
+9. Meanwhile, the rate of spending on
 
 ## Common Trends
 1. **A significant proportion of** the budget was allocated to education in 2020.
