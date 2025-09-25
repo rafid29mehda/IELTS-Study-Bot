@@ -1,3 +1,16 @@
+1. In the north / southeast (location)
+2. To the north (comparison)
+3. On the west side of the river / map
+4. on the opposite side
+5. next to
+6. along the
+7. demolished / constructed / replaced / expanded / reduced / unchanged / tranformed / developed / built /
+8. was demolished and replaced by a 
+9. Area/zone//complex: urban, rural, industrial, residential, recreational, entertainment
+10. 
+
+
+
 Here are some possible introduction lines for describing maps in IELTS Writing Task 1:
 
 1. **The map illustrates the layout of...**
