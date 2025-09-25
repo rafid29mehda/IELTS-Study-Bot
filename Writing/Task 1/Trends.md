@@ -1,12 +1,13 @@
 1. considerable increase
 2. Substantial drop
 3. subsequently
-4. In the following three years
-5. accounted for / responsible for ... of the total ...
-6. spent **the largest proportion of** their budget on
-7. in terms of / regarding
-8. was **double the figure** of
-9. Meanwhile, the rate of spending on
+4. followed by
+5. In the following three years
+6. accounted for / responsible for ... of the total ...
+7. spent **the largest proportion of** their budget on
+8. in terms of / regarding
+9. was **double the figure** of
+10. Meanwhile, the rate of spending on
 
 ## Common Trends
 1. **A significant proportion of** the budget was allocated to education in 2020.
