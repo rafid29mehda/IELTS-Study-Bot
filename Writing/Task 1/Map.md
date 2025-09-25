@@ -4,10 +4,12 @@
 4. on the opposite side
 5. next to
 6. along the
-7. demolished / constructed / replaced / expanded / reduced / unchanged / tranformed / developed / built /
-8. was demolished and replaced by a 
-9. Area/zone//complex: urban, rural, industrial, residential, recreational, entertainment
-10. 
+7. around the
+8. demolished / constructed / replaced / expanded / reduced / unchanged / tranformed / developed / built /
+9. was demolished and replaced by a 
+10. Area/zone//complex: urban, rural, industrial, residential, recreational, entertainment
+11. Building: skyscraper,
+12. 
 
 
 
