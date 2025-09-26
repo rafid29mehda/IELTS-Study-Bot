@@ -5,9 +5,12 @@
 #### Man-made Process
 - The diagram **illustrates the process of** manufacturing ethanol, which is a biofuel.
 - The provided diagram **outlines the process by which** plastic bottles are recycled.
+- - The diagram illustrates the process of using silkworm cocoons to produce silk cloth.
 #### Natural Process
 - The provided diagram **outlines the key stages involved in the** life cycle of a plant.
 - The provided diagram **outlines the continuous process of** water movement in the water cycle.
+- The diagram **displays how** silkworm cocoons a**re used to make** silk cloth.
+
 
 ### OVERALL Paragraph
 
