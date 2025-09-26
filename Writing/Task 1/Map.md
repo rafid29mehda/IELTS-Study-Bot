@@ -18,9 +18,9 @@
 
 **The maps compare the layout of the village of Pebbleton 20 years ago with its present form.**
 
-**Looking from an overall perspective, it is readily apparent that** the town has become more residential and recreational. In addition, it offers better access for pedestrians.
+**Looking from an overall perspective, it is readily apparent that** the town has undergone considerable transformation, becoming more residential and recreational. Additionally, it now provides better access to pedestrians.
 
-**The most noteworthy / notable changes to the town relate to the expansion of** housing. On the northern end of the town, there are now additional houses and the old fort **has been replaced with** a children’s playground (adjacent to a new community centre), though the lighthouse **remains unchanged**. 
+**The most noteworthy / notable changes to the town relate to the expansion of** housing. On the northern end of the town, there are now additional houses and the old fort **has been replaced with** a children’s playground, which is adjacent to a new community centre, though the lighthouse **remains unchanged**. 
 
 **South of the** community centre, newly constructed tennis courts **connect to** a footpath and Lighthouse Lane. A footbridge then **links** these courts to the school, which is **located across a** small river **along** Coast Road.
 
