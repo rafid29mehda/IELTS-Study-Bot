@@ -16,9 +16,9 @@
 
 ## Paragraphs
 
-1. **The maps compare the layout of the village of Pebbleton 20 years ago with its present form.**
+**The maps compare the layout of the village of Pebbleton 20 years ago with its present form.**
 
-   **Looking from an overall perspective, it is readily apparent that** the town has become more residential and recreational. In addition, it offers better access for pedestrians.
+**Looking from an overall perspective, it is readily apparent that** the town has become more residential and recreational. In addition, it offers better access for pedestrians.
 
 **The most noteworthy / notable changes to the town relate to the expansion of** housing. On the northern end of the town, there are now additional houses and the old fort **has been replaced with** a children’s playground (adjacent to a new community centre), though the lighthouse **remains unchanged**. 
 
