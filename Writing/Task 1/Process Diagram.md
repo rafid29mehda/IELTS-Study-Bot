@@ -20,10 +20,14 @@
 ## Animal life cycle
 Overall, we can see a circular progression **illustrating the metamorphosis of the silkworm** in four major stages: egg, larva, cocoon, and adult moth. The life cycle begins with the egg stage and ends with the emergence of the adult moth, after which the cycle can begin again with egg laying.
 
+Overall, salmon **have an average lifespan of** nine years and their **life cycle consists of four main stages**: egg, fry, smolt, and adult. While the first three stages occur in freshwater, the last one takes place in salt water. 
+
 ### Production
 Overall, it is clear that there are six **distinct stages illustrated in the process, commencing with** producing eggs in the water and **ending with** the development of a mature frog. 
 
 Overall, **there are four main steps** in the manufacture of cement: crushing the raw materials and mixing them, heating them, and then grinding the result into a fine powder. To make concrete, cement is mixed proportionally with other ingredients.
+
+Overall, the station **produces electricity in five main steps**: pumping cold water underground, heating it, pumping heated water to the surface, converting it into steam, and using the steam to turn the turbine to create electricity.
 
 
 ## Body Paragraph
@@ -36,7 +40,7 @@ Overall, **there are four main steps** in the manufacture of cement: crushing th
 
 ### Words
 
-1. Animal life cycle: mating, egg, lay(laid), hatch, emerge, predators, parasites, environmental hazards
+1. Animal life cycle: mating, egg, lay(laid), hatch, emerge, feed, predators, parasites, environmental hazards
 
 
 
