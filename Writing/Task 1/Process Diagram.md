@@ -23,6 +23,8 @@ Overall, we can see a circular progression **illustrating the metamorphosis of t
 ### Production
 Overall, it is clear that there are six **distinct stages illustrated in the process, commencing with** producing eggs in the water and **ending with** the development of a mature frog. 
 
+Overall, **there are four main steps** in the manufacture of cement: crushing the raw materials and mixing them, heating them, and then grinding the result into a fine powder. To make concrete, cement is mixed proportionally with other ingredients.
+
 
 ## Body Paragraph
 - The process / production / manufacturing begins when
