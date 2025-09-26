@@ -1,15 +1,16 @@
 1. In the north / southeast (location)
 2. To the north (comparison)
-3. On the west side of the river / map ....... / On the northern end of the road
+3. On the west side of the river, / map, ....... / On the northern end of the road, ....
 4. on the opposite side
-5. next to
-6. along the
-7. around the
-8. demolished / constructed / replaced / expanded / reduced / unchanged / tranformed / developed / built /
-9. was demolished and replaced by a 
-10. Area/zone//complex: urban, rural, industrial, residential, recreational, entertainment
-11. Building: skyscraper,
-12. 
+5. South of the community centre, ....
+6. next to
+7. along the
+8. around the
+9. demolished / constructed / replaced / expanded / reduced / unchanged / tranformed / developed / built /
+10. was demolished and replaced by a 
+11. Area/zone//complex: urban, rural, industrial, residential, recreational, entertainment
+12. Building: skyscraper,
+13. 
 
 
 
@@ -17,8 +18,11 @@
 
 1. **The maps compare the layout of the village of Pebbleton 20 years ago with its present form.**
 
-   Looking from an overall perspective, it is readily apparent that the town has become more residential and recreational. In addition, it offers more access for pedestrians.
+   **Looking from an overall perspective, it is readily apparent that** the town has become more residential and recreational. In addition, it offers better access for pedestrians.
 
+**The most noteworthy / notable changes to the town relate to the expansion of** housing. On the northern end of the town, there are now additional houses and the old fort **has been replaced with** a children’s playground (adjacent to a new community centre), though the lighthouse **remains unchanged**. 
+
+**South of the** community centre, newly constructed tennis courts **connect to** a footpath and Lighthouse Lane. A footbridge then **links** these courts to the school, which is **located across a** small river **along** Coast Road.
 
 
 
