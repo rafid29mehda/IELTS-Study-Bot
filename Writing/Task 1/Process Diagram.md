@@ -31,6 +31,8 @@ Overall, **there are four main steps** in the manufacture of cement: crushing th
 - The life cycle begins when
 - At the beginning of the process,
 - The ___ **undergoes dramatic physiological changes to become** an adult moth
+- The crushed powders are then **ground to** create a uniform raw mix.
+- The crushed powders are then **ground in** a grinder.
 
 ### Words
 
