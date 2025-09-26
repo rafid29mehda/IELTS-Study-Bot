@@ -12,12 +12,26 @@
 - The diagram **displays how** silkworm cocoons a**re used to make** silk cloth.
 
 
-### OVERALL Paragraph
+## OVERALL Paragraph
 
 ### Cycle
 **Overall, the production of** ethanol is a **cyclical process that consists of** harvesting plants, extracting cellulose, converting it into sugars, adding microbes to create ethanol, and carbon dioxide produced when the ethanol is burned cycling back to plants during photosynthesis.
 
+## Animal life cycle
+Overall, we can see a circular progression **illustrating the metamorphosis of the silkworm** in four major stages: egg, larva, cocoon, and adult moth. The life cycle begins with the egg stage and ends with the emergence of the adult moth, after which the cycle can begin again with egg laying.
+
 ### Production
 Overall, it is clear that there are six **distinct stages illustrated in the process, commencing with** producing eggs in the water and **ending with** the development of a mature frog. 
+
+
+## Body Paragraph
+- The process / production / manufacturing begins when
+- The life cycle begins when
+- At the beginning of the process,
+- The ___ **undergoes dramatic physiological changes to become** an adult moth
+
+### Words
+
+1. Animal life cycle: egg, lay, hatch, emerge, predators, parasites, environmental hazards
 
 
