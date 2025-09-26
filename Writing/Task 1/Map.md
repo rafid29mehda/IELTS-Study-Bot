@@ -14,13 +14,20 @@
 
 
 
-## Paragraphs
+## Intro Paragraphs
 
 **The maps compare the layout of the village of Pebbleton 20 years ago with its present form.**
 
+## Overall Paragraph
+
 **Looking from an overall perspective, it is readily apparent that** the town has undergone considerable transformation, becoming more residential and recreational. Additionally, it now provides better access to pedestrians.
 
-**Looking from an overall perspective, it is readily apparent that** the town has undergone considerable transformation, in terms of transportation and recreational facilities.
+Looking from an overall perspective, it is readily apparent that the town **has undergone considerable transformation**, **in terms of** transportation and recreational facilities.
+
+**Overall,** the Sydney International Airport **has witnessed a major development over a period of** 85 years.
+
+
+## Body Paragraph
 
 **The most noteworthy / notable changes to the town relate to the expansion of** housing. On the northern end of the town, there are now additional houses and the old fort **has been replaced with** a children’s playground, which is adjacent to a new community centre, though the lighthouse **remains unchanged**. 
 
