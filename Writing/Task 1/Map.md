@@ -1,6 +1,6 @@
 1. In the north / southeast (location)
 2. To the north (comparison)
-3. On the west side of the river / map
+3. On the west side of the river / map ....... / On the northern end of the road
 4. on the opposite side
 5. next to
 6. along the
@@ -13,24 +13,35 @@
 
 
 
-Here are some possible introduction lines for describing maps in IELTS Writing Task 1:
+## Paragraphs
 
 1. **The maps compare the layout of the village of Pebbleton 20 years ago with its present form.**
-2. **The map illustrates the layout of...**
-3. **The map provides a comparison of the changes in...**
-4. **The map shows the transformation of...**
-5. **The map outlines the development of...**
-6. **The map displays the differences in the layout of...**
-7. **The map depicts the changes that have occurred in...**
-8. **The map highlights the geographical changes in...**
-9. **The map compares the structure and layout of...**
-10. **The map demonstrates how\... has changed over time.**
-11. **The map outlines the progression of the area from... to...**
-12. **The map gives an overview of the development in...**
-13. **The map shows the contrasting features of... before and after...**
-14. **The map compares the area at two different points in time:...**
-15. **The map illustrates the modification in the landscape of...**
-16. **The map presents a visual representation of the area's evolution.**
+
+   Looking from an overall perspective, it is readily apparent that the town has become more residential and recreational. In addition, it offers more access for pedestrians.
+
+
+
+
+
+---
+
+Here are some possible introduction lines for describing maps in IELTS Writing Task 1:
+
+3. **The map illustrates the layout of...**
+4. **The map provides a comparison of the changes in...**
+5. **The map shows the transformation of...**
+6. **The map outlines the development of...**
+7. **The map displays the differences in the layout of...**
+8. **The map depicts the changes that have occurred in...**
+9. **The map highlights the geographical changes in...**
+10. **The map compares the structure and layout of...**
+11. **The map demonstrates how\... has changed over time.**
+12. **The map outlines the progression of the area from... to...**
+13. **The map gives an overview of the development in...**
+14. **The map shows the contrasting features of... before and after...**
+15. **The map compares the area at two different points in time:...**
+16. **The map illustrates the modification in the landscape of...**
+17. **The map presents a visual representation of the area's evolution.**
 
 
 
