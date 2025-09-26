@@ -15,21 +15,22 @@
 
 Here are some possible introduction lines for describing maps in IELTS Writing Task 1:
 
-1. **The map illustrates the layout of...**
-2. **The map provides a comparison of the changes in...**
-3. **The map shows the transformation of...**
-4. **The map outlines the development of...**
-5. **The map displays the differences in the layout of...**
-6. **The map depicts the changes that have occurred in...**
-7. **The map highlights the geographical changes in...**
-8. **The map compares the structure and layout of...**
-9. **The map demonstrates how\... has changed over time.**
-10. **The map outlines the progression of the area from... to...**
-11. **The map gives an overview of the development in...**
-12. **The map shows the contrasting features of... before and after...**
-13. **The map compares the area at two different points in time:...**
-14. **The map illustrates the modification in the landscape of...**
-15. **The map presents a visual representation of the area's evolution.**
+1. **The maps compare the layout of the village of Pebbleton 20 years ago with its present form.**
+2. **The map illustrates the layout of...**
+3. **The map provides a comparison of the changes in...**
+4. **The map shows the transformation of...**
+5. **The map outlines the development of...**
+6. **The map displays the differences in the layout of...**
+7. **The map depicts the changes that have occurred in...**
+8. **The map highlights the geographical changes in...**
+9. **The map compares the structure and layout of...**
+10. **The map demonstrates how\... has changed over time.**
+11. **The map outlines the progression of the area from... to...**
+12. **The map gives an overview of the development in...**
+13. **The map shows the contrasting features of... before and after...**
+14. **The map compares the area at two different points in time:...**
+15. **The map illustrates the modification in the landscape of...**
+16. **The map presents a visual representation of the area's evolution.**
 
 
 
