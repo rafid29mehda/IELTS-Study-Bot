@@ -1,5 +1,8 @@
 ### 15 Most Common IELTS Speaking Part 2 Cue Cards with Sample Answers
 
+#### Helpful Person
+Last year, I was going through a tough time after losing my job. I felt stressed and didn't have enough money for rent or food. That's when my neighbor, Mrs. Lee, stepped in. She's an elderly woman who lives alone, but she's incredibly kind. She noticed I looked down and invited me to her home for dinner. She cooked a delicious homemade meal—rice, vegetables, and chicken soup—which really comforted me. Not only that, but she offered me a place to stay for a few nights until I sorted things out. To top it off, she even lent me some cash to cover my immediate expenses, saying it was no big deal. Her generosity not only helped me practically but also boosted my morale, and we've been good friends ever since.
+
 #### 0. Describe your daily routine
 
 **Sample Answer**
