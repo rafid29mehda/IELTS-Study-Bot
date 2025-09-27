@@ -8,6 +8,7 @@
 8. in terms of / regarding
 9. was **double the figure** of
 10. Meanwhile, the rate of spending on
+11. Despite the sharp hike in prices of tickets, ...
 
 ## Common Trends
 1. **A significant proportion of** the budget was allocated to education in 2020.
