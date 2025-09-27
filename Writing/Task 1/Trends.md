@@ -32,6 +32,9 @@
 20. Housing is the largest expenditure item for France, Germany and the UK, with all of them spending around one third of their income on this, at 30%, 33% and 37%, respectively. In contrast, ....
 21. while the figure for transport **represented** 10%.
 
+#### Process
+- **On clearing** the written test the person is .... / **After completing** ......
+
 
 ## Overall Paragraph
 1. **Bar Chart:** Overall, the total number of hours spent on leisure activities **experienced a substantial upward trend throughout the period**, rising from 25 hours per week in 2005 to 40 hours per week by 2015, driven primarily by increases in both sports and television-watching hours, though the latter activity saw more fluctuations before stabilizing.
