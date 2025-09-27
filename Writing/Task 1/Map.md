@@ -37,6 +37,7 @@ Looking from an overall perspective, it is readily apparent that the town **has 
 
 The cafe has been moved a little **southwards**.
 
+On the second floor a self-service café was opened **towards the eastern side of the lift above the** reading room. 
 
 
 
