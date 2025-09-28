@@ -9,29 +9,29 @@ For each topic, questions can cover:
 
 
 **Where are you from?**
-
 I am from Chittagong, Dhaka. However, I was born and brought up here in Dhaka, Bangladesh. My ancestors are from Chittagong.
 
 #### Plants
 
 - **1. Do you keep plants?**
 
-Yes, I do. I keep a few indoor plants in my apartment, such as a money plant and a small cactus. They make my room look fresh and lively, and I enjoy taking care of them.
+  Yes, I do. I keep a few indoor plants in my apartment, such as a money plant and a small cactus. They make my room look fresh and lively, and I enjoy taking care of them.
 
 - **2. Have you ever had a plant?**
-Yes, I’ve had several plants over the years. Some were given to me as gifts, and others I bought myself because I like the idea of having greenery around me.
+
+  Yes, I’ve had several plants over the years. Some were given to me as gifts, and others I bought myself because I like the idea of having greenery around me.
 
 - **3. Do you know anything about growing a plant?**
 
-I know some basic things about it, like plants need proper sunlight, water, and good soil. They also require regular care, such as removing dry leaves or repotting when they outgrow their pots.
+  I know some basic things about it, like plants need proper sunlight, water, and good soil. They also require regular care, such as removing dry leaves or repotting when they outgrow their pots.
 
 - **4. What plants did you grow when you were younger?**
 
-When I was younger, I grew a small tomato plant in my backyard. I also tried growing coriander and mint because my family used them often in cooking, and it felt rewarding to eat something I had grown myself.
+  When I was younger, I grew a small tomato plant in my backyard. I also tried growing coriander and mint because my family used them often in cooking, and it felt rewarding to eat something I had grown myself.
 
 - **5. Do people in your country send plants as gifts?**
 
-Yes, in my country, people sometimes send small plants as gifts, especially for housewarming parties or special occasions. It’s considered a thoughtful gesture because plants symbolize growth, positivity, and good luck.
+  Yes, in my country, people sometimes send small plants as gifts, especially for housewarming parties or special occasions. It’s considered a thoughtful gesture because plants symbolize growth, positivity, and good luck.
 
 
 #### Accommodation/Home
