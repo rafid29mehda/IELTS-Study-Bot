@@ -4,9 +4,9 @@
 #### A Law
 One law that I think is very good is the Social Welfare Act for Disabled Citizens. This law was introduced in 2001. It is designed to protect the rights and dignity of persons with disabilities in Bangladesh. It ensures that disabled people have equal opportunities in society, including free education up to 18 years of age, medical assistance, vocational training, and reserved quotas in government jobs.
 
-It benefits physically or mentally disabled citizens of Bangladesh directly by offering support that helps them lead more independent and dignified lives. Schools provide special educational materials, and the government helps with healthcare and job opportunities to improve their lives.
+It offers blind, deaf and other physically or mentally disabled citizens to lead more independent and dignified lives. Because of the law, public schools provide special educational materials, and the government helps with healthcare and job opportunities.
 
-I think this law is good because it promotes social inclusion. Before this law, disabled individuals often faced a lot of barriers and discrimination. Now, they can participate more fully in education, work, and social activities. Overall, this law shows a commitment to treating people with disabilities fairly and improving their quality of life.
+I really admire this law as it promotes social inclusion. Before this law, disabled individuals often faced a lot of barriers and discrimination. Now, they can participate more fully in education, work, and social activities. Overall, this law shows a commitment to treating people with disabilities fairly and improving their quality of life.
 
 
 #### Helpful Person
