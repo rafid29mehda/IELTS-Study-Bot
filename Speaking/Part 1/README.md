@@ -439,6 +439,34 @@ A few times a week, mostly in passing. These brief encounters often turn into qu
 **What problems can people have with their neighbours in a big city?**  
 Noise or parking issues, but communication solves most. Crowded living spaces can amplify small annoyances into bigger disputes. Establishing clear boundaries early on helps maintain harmony.
 
+## Amenity
+
+**1. What amenities are available in the place where you live?**
+
+Sample Answer:
+"The place where I live has a variety of amenities. There's a local supermarket, a gym, and a few coffee shops nearby. We also have a park for outdoor activities and a public library, which I use often for reading. The transport system is quite convenient, with a bus stop just a short walk from my house."
+
+**2. Are there any new amenities in your local area?**
+
+Sample Answer:
+"Yes, recently a new shopping mall has opened not far from my place. It has a cinema, several new restaurants, and a large grocery store. It's been really convenient as it offers a lot of services under one roof, and it's become a popular spot for both locals and visitors."
+
+**3. What kind of amenities do you think are essential in a modern home?**
+
+Sample Answer:
+"In my opinion, essential amenities for a modern home include a reliable internet connection, a washing machine, and air conditioning, especially during hot weather. I also think a well-equipped kitchen is important, along with a comfortable living area for relaxation."
+
+
+**4. What amenities do you usually use in your neighborhood?**
+
+Sample Answer:
+"In my neighborhood, I often use the local park for jogging and relaxing. There’s also a coffee shop where I sometimes meet friends or work on my laptop. The supermarket is another essential I frequent for grocery shopping, and I also use the nearby bus stop for traveling around the city."
+
+**5. Have you ever been dissatisfied with the amenities provided in your city or town?**
+
+Sample Answer:
+"Yes, I have been dissatisfied with the public transport system in my city. Although there are bus routes, they are not very frequent, and sometimes they don’t arrive on time. This can be frustrating, especially during rush hour. I hope the city will improve the frequency and reliability of the buses in the future."
+
 ### Study
 #### Education and subjects.
 
