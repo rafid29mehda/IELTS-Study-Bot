@@ -1,5 +1,14 @@
 ### 15 Most Common IELTS Speaking Part 2 Cue Cards with Sample Answers
 
+
+#### A Law
+One law that I think is very good is the Social Welfare Act for Disabled Citizens. This law was introduced in 2001. It is designed to protect the rights and dignity of persons with disabilities in Bangladesh. It ensures that disabled people have equal opportunities in society, including free education up to 18 years of age, medical assistance, vocational training, and reserved quotas in government jobs.
+
+This law affects a broad group of people—namely, those who are physically or mentally disabled. It benefits them directly by offering support that helps them lead more independent and dignified lives. Schools provide special educational materials, and the government helps with healthcare and job opportunities to improve their lives.
+
+I think this law is good because it promotes social inclusion. Before this law, disabled individuals often faced a lot of barriers and discrimination. Now, they can participate more fully in education, work, and social activities. Overall, this law shows a commitment to treating people with disabilities fairly and improving their quality of life.
+
+
 #### Helpful Person
 Last year, I was going through a tough time after losing my job. I was struggling and didn't have enough money for rent or food. That's when my neighbour, Mrs Lee, stepped in. She's an elderly woman who lives alone, but she's genuinely kind. She noticed I was stressed and invited me to her home for dinner. She cooked a delicious homemade meal—rice, vegetables, and chicken soup—which really comforted me. Not only that, but she offered me a place to stay for a few nights until I sorted things out. To top it off, she even lent me some cash to cover my immediate expenses, saying it was no big deal. Her generosity not only helped me practically but also boosted my morale, and we've been good friends ever since. It was memorable because it came at a time when I was struggling. It made me feel supported and grateful.
 
