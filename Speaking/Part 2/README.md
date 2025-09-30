@@ -1,5 +1,16 @@
 ### 15 Most Common IELTS Speaking Part 2 Cue Cards with Sample Answers
 
+#### Traditional Object
+A traditional object that is deeply significant in Bangladesh is the Rickshaw. It is a human-powered vehicle used as a mode of transportation, commonly found on the streets of Dhaka and other cities.
+
+A rikshaw consists of two wheels made of metal frame. The frame is attached to a seat for passengers, and it is usually pulled by cycling. The rickshaw itself is often decorated with bright, colorful artwork, featuring motifs like flowers, birds, and scenes from Bengali life. The colorful decorations make it stand out as a unique aspect of Bangladesh’s streetart.
+
+The rikshaw is a very popular form of transportation in Bangladesh, especially in urban areas. It is primarily used for short trips within cities, and passengers can hire it to travel from one location to another. It’s an affordable mode of transport.
+
+The rikshaw is important to Bangladesh because it is an integral part of the country’s daily life and economy. It serves as a major source of income for many families, particularly in cities where many people work as rickshaw pullers. The rikshaw also plays a significant role in the country's cultural identity. The artwork and vibrant colors on the rickshaws have become a symbol of the lively and creative spirit of Bangladesh. Moreover, rickshaws are often used during cultural celebrations, parades, and festivals, making them a part of the cultural fabric of the country.
+
+The rikshaw is special to me because it reminds me of my time in Dhaka, where I grew up. I have fond memories of riding in rickshaws with my family to explore different parts of the city. The rickshaw represents a connection to the local community and is a symbol of hard work of the people in Bangladesh.
+
 
 #### A Law
 One law that I think is very good is the Social Welfare Act for Disabled Citizens. This law was introduced in 2001. It is designed to protect the rights and dignity of persons with disabilities in Bangladesh. It ensures that disabled people have equal opportunities in society, including free education up to 18 years of age, medical assistance, vocational training, and reserved quotas in government jobs.
