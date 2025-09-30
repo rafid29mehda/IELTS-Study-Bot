@@ -1,4 +1,5 @@
-Here are sample answers for the IELTS Speaking Part 3 questions on **Health**:
+- Poor diet, unhealthy lifestyle, lack of exercise, smoking, and alcohol consumption
+- chronic illness like obesity, health diseases, mental breakdown (anxiety, depression)
 
 ---
 
