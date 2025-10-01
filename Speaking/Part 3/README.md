@@ -72,7 +72,9 @@ By adopting eco-friendly habits such as reducing waste, preserving water, using 
 
 #### Paragraph 6 – Government and Corporate Responsibilities
 Both governments and corporations have a major role to play in ensuring a sustainable future.
-Governments must implement policies and regulations that promote environmental protection, such as carbon taxes and renewable energy incentives. On the other hand, corporations have the responsibility to adopt sustainable practices in their operations, such as reducing emissions and prioritizing eco-friendly production.
+Governments must implement policies and regulations that promote environmental protection, such as carbon taxes and renewable energy incentives.
+Implementing recycling incentives would not only reduce waste but also contribute to resource conservation efforts, paving the way for a sustainable environment.
+On the other hand, corporations have the responsibility to adopt sustainable practices in their operations, such as reducing emissions and prioritizing eco-friendly production.
 
 ---
 
