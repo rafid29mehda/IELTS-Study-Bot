@@ -8,6 +8,9 @@ It enables
 - emphasizes
 - highlights
 - contributes
+- causes
+- encourages
+- mitigates
 
 # Introduction Paragraph Templates
 
