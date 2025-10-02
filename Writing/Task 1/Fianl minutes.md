@@ -32,4 +32,4 @@ Overall, it is evident that the park has undergone considerable transformation, 
 ### Overall
 
 - Overall, **it is evident that there are six distinct stages outlined in the process, commencing with** producing eggs in the water and **ending with** the development of a mature frog.
-- Overall, **the production of** ethanol **is a cyclical process (multi-stage process) that consists of** harvesting plants, extracting cellulose, converting it into sugars, adding microbes to create ethanol, and carbon dioxide produced when the ethanol is burned cycling back to plants during photosynthesis.”
+- Overall, **the production of** ethanol **is a cyclical process (multi-stage process) that consists of** harvesting plants, extracting cellulose, converting it into sugars, adding microbes to create ethanol, and carbon dioxide produced when the ethanol is burned **cycling back** to plants during photosynthesis.”
