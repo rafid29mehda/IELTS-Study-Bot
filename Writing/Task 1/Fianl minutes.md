@@ -21,3 +21,15 @@ Overall, it is evident that the park has undergone considerable transformation, 
 - Transport facilities
 - Entertainment facilities
 - Public services (school, hospital)
+
+## Diagram
+
+### Introduction
+
+- The flow chart illustrates the development of a frog from an egg during its life cycle.
+- The diagram illustrates the process by which plastic bottles are recycled (manufactured).
+
+### Overall
+
+- Overall, **it is evident that there are six distinct stages illustrated in the process, commencing with** producing eggs in the water and **ending with** the development of a mature frog.
+- Overall, **the production of** ethanol **is a cyclical process (multi-stage process) that consists of** harvesting plants, extracting cellulose, converting it into sugars, adding microbes to create ethanol, and carbon dioxide produced when the ethanol is burned cycling back to plants during photosynthesis.”
