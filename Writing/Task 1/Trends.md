@@ -61,17 +61,16 @@
 
 
 ## Common Paragraphs 
+
+- **In 2002,** adult fiction **was on top with a sale of** 45 million dollars, **followed by** children’s books **at** 33 million dollars **and** educational books **at** 25 million dollars. **After** a few fluctuations, the sale of adult fiction declined to 30 million dollars **by 2006.** **In contrast,** educational books **were the least sold in 2002.** **After that their sale showed an opposing trend** to that of adult fiction **and reached** $32 million** by 2006.**
+
 **In 2000,** company A produced 12 tonnes of waste, **while companies B and C** produced around 8 tonnes and 4 tonnes of waste material respectively. **Over the following 5 years,** the waste output of companies B and C rose by around 2 tonnes, but the figure for company A fell by approximately 1 tonne.
 
 **From 2005 to 2015,** company A cut waste production by roughly 3 tonnes, and company B reduced its waste by around 7 tonnes. **In contrast,** company C saw an increase in waste production of approximately 4 tonnes over the same 10-year period. **By 2015,** company C’s waste output had risen to 10 tonnes, **while the** respective amounts of waste from companies A and B had dropped to 8 tonnes and only 3 tonnes.
 
-**In comparison,** cruise ship visitors **experienced initial gradual growth** to about 0.5 million by 2012, **followed by minor fluctuations before accelerating sharply from** 2015 **onward**, **overtaking** island stays **in** 2016 **and** **reaching** 2 million **by the end of the period.**
+**In comparison,** cruise ship visitors **experienced initial gradual growth** to about 0.5 million by 2012, **followed by a minor fluctuation before accelerating sharply from** 2015 **onward**, **overtaking** island stays **in** 2016 **and** **reaching** 2 million **by the end of the period.**
 
-**In 1900, around** 500km³ of water was used by the agriculture sector worldwide. **The figures
-for** industrial **and** domestic water consumption stood at around one fifth of that amount. B**y
-2000,** global water use for agriculture had increased to around 3000km³, industrial water use
-had risen to just under half that amount, and domestic consumption had reached
-approximately 500km³
+**In 1900, around** 500km³ of water was used by the agriculture sector worldwide. **The figures for** industrial **and** domestic water consumption stood at around one-fifths of that amount. **By 2000,** global water use for agriculture had increased to around 3000km³, industrial water use had risen to just under half that amount, and domestic consumption had reached approximately 500km³.
 
 **The proportion of spending on** leisure and education **was the highest** in Turkey, at 4.35%,**while** expenditure on clothing and footwear was significantly higher in Italy, at 9%, **than in any of the other countries / years.** 
 
