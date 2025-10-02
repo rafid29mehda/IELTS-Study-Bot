@@ -6,7 +6,7 @@ The maps illustrate the bookstore's layout as it was in 2000 compared to its pre
 
 #### Overall
 
-Overall, it is evident that the park has undergone considerable transformation, as very few areas have remained the same. The layout has been modernised (renovated) and made more visitor-friendly, with the addition of multiple outdoor facilities (interior amenities) to enhance the visitors' experience.
+Overall, it is evident that the park has undergone considerable transformation, as very few areas have remained the same. The layout has been modernised (renovated / expanded) and made more visitor-friendly, with the addition of multiple outdoor facilities (interior amenities) to enhance the visitors' experience.
 
 ##### In place of "visitor-friendly"
 - Connectivity and accessibility have been improved
