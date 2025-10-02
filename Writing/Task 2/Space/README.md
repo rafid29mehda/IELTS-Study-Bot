@@ -9,11 +9,11 @@ Space exploration, particularly the moment when the first man walked on the moon
 
 **Body Paragraph 1:**
 
-On one hand, those who believe that space exploration has made only a minimal change to our lives argue that its direct influence on individuals is limited. While events like the Apollo 11 moon landing were inspiring, they may not have tangibly improved daily activities or significantly changed the world for most people. The technologies used in space exploration often remain confined to scientific fields, and the general public may not see a direct benefit from these ventures.
+On one hand, those who believe that space exploration has made only a minimal change to our lives argue that its **direct influence on individuals is limited**. While events like the Apollo 11 moon landing were inspiring, they **may not have tangibly improved daily activities or significantly changed the world for most people.** The technologies used in space exploration often remain confined to scientific fields, and the general public may not see a direct benefit from these ventures.
 
 **Body Paragraph 2:**
 
-However, the advancements made in space exploration have had a profound impact on humanity in various other ways. For example, technologies initially developed for space missions, such as satellite communication and GPS, are integral parts of modern life. The global positioning systems used in navigation devices and even the weather forecasting we rely on have roots in space exploration. Additionally, space research has led to advances in medical fields, such as the development of improved imaging technologies and life-saving equipment, all of which have ultimately enhanced the quality of life.
+However, the advancements made in space exploration have had a profound impact on humanity in various other ways. For example, technologies initially developed for space missions, such as **satellite communication and GPS, are integral parts of modern life.** The global positioning systems used in navigation devices and even the **weather forecasting** we rely on have roots in space exploration. Additionally, s**pace research has led to advances in medical fields, such as the development of improved imaging technologies and life-saving equipment,** all of which have ultimately enhanced the quality of life.
 
 **Conclusion:**
 
