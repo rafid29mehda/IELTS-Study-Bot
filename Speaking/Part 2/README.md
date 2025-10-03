@@ -1,7 +1,8 @@
 ### 15 Most Common IELTS Speaking Part 2 Cue Cards with Sample Answers
 
 #### Traditional Object
-- A traditional object that is deeply significant in Bangladesh is the Rickshaw.
+- A traditional object of Bangladesh that I would like to talk about is the Rickshaw.
+- It is deeply rooted in our Bengali culture.
 - It is a human-powered vehicle used as a mode of transportation,
 - commonly found on the streets of Dhaka and other cities.
 - A rikshaw consists of two wheels made of metal frame.
