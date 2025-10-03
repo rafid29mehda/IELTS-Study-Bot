@@ -11,7 +11,7 @@
 - The rikshaw is a very popular form of transportation in Bangladesh, especially in urban areas.
 - It is primarily used for short trips within cities
 - It’s an affordable mode of transport.
-- The rikshaw is important to Bangladesh because it plays a significant role in the country's cultural identity.
+- I admire the rickshaw because it plays a significant role in the country's cultural identity.
 - It serves as a major source of income for many families, particularly in cities where many people work as rickshaw pullers.
   
 The rikshaw is special to me because it reminds me of my time in Dhaka, where I grew up. I have fond memories of riding in rickshaws with my family to explore different parts of the city. The rickshaw represents a connection to the local community and is a symbol of hard work of the people in Bangladesh.
