@@ -13,7 +13,8 @@
 - One of the primary drivers behind the trend of .... is the increasing
 - Another aspect contributing to .......... is .......... ,
 - Another significant factor to consider is ...
-- Evidence from recent studies indicates that
+- For instance, (Body 1)
+- Evidence from recent studies indicates that (Body 2)
 
 
 ## Conclusion Paragraph
