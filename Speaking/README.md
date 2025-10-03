@@ -17,6 +17,21 @@ Example: Yes, I used to watch cartoons in my childhood after school. Watching th
 
 ### Health
 1. Definitely, eating vegitables has health benefits like they provide vitamins that boost immunity and prevent diseases.
+2. Regular exercise strengthens muscles and bones.
+3. Staying hydrated supports digestion,
+- improves cardiovascular health.
+- reduces the risk of chronic conditions like diabetes
+- regulates body temperature, and keeps skin healthy.
+- helps maintain blood sugar levels.
+- can lower blood pressure
+- improve mental well-being.
+- reduces the risk of obesity
+
+### Clean
+- prevent the spread of infections and germs in the body
+- promotes overall hygiene.
+- reduces dust,
+- prevent allergies
 
 --- 
 
