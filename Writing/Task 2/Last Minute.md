@@ -3,7 +3,7 @@
 - With the rapid development of ....., the question of whether ....
 - There has been a growing (ongoing) concern / debate / issue about whether ..... or ....., which has sparked many discussions in recent years.
 - Proponents of ........ claim that it leads to ........ , while critics argue that ......... . In this essay, I will examine both sides of the argument before offering my own opinion.
-- **(Problem based)**: It is essential to address its root causes and explore potential solutions. This essay will analyze the leading causes of this problem and suggest practical measures that could be taken to mitigate its effects.
+- **(Problem based)**: It is essential to address its root causes and explore potential(feasible) solutions. This essay will analyze(examine) the leading causes of this problem and suggest practical(constructive) measures(steps) that could be taken to mitigate(overcome) its effects.
 - **(positive negative)**: While it brings numerous advantages, it also raises certain concerns. This essay will examine both the positive and negative aspects of [topic] before drawing a conclusion.
 
 
