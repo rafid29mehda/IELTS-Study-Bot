@@ -33,6 +33,38 @@ I am from Chittagong, Dhaka. However, I was born and brought up here in Dhaka, B
 
   Yes, in my country, people sometimes send small plants as gifts, especially for housewarming parties or special occasions. It’s considered a thoughtful gesture because plants symbolize growth, positivity, and good luck.
 
+#### Star and Space
+
+1. **Do you like to look at the stars?**
+
+   * **Sample Answer:** Yes, I really enjoy looking at the stars. It’s fascinating to see the sky filled with them, especially on a clear night. Sometimes, I like to go out of the city to escape the light pollution and enjoy a better view of the stars. It's very calming and makes me feel connected to the universe.
+
+2. **Have you ever seen a shooting star?**
+
+   * **Sample Answer:** Yes, I have seen a shooting star once during a camping trip. It was a magical moment because it appeared so suddenly and bright. I made a wish, like most people do, but I’m not sure if it really works! Nonetheless, it was a special experience.
+
+3. **Do you think people will ever live on other planets?**
+
+   * **Sample Answer:** I think it’s possible, although it may take a long time. With advancements in technology and space exploration, it seems like living on another planet could become a reality in the future. However, there are many challenges, like sustaining life in such harsh environments, that we would need to overcome first.
+
+4. **What do you know about the solar system?**
+
+   * **Sample Answer:** I know that our solar system consists of the Sun and eight planets, including Earth. The planets orbit around the Sun, and there are also moons, asteroids, and comets. It’s fascinating to think about how everything is so interconnected, and how Earth is the only planet known to support life.
+
+5. **Would you like to be an astronaut?**
+
+   * **Sample Answer:** Being an astronaut sounds exciting, but it’s also a very tough and risky job. I admire astronauts for their courage and determination. I would love to visit space one day, but I think the amount of training required and the physical and mental challenges would be hard for me.
+
+6. **Do you follow news about space exploration?**
+
+   * **Sample Answer:** Yes, I try to keep up with news about space exploration. I find it quite inspiring and exciting to hear about new missions, especially those aiming to send humans to Mars or discover more about distant galaxies. The progress we’re making in space technology is truly remarkable.
+
+7. **Do you think it’s important for countries to invest in space exploration?**
+
+   * **Sample Answer:** Yes, I believe it is important. Space exploration pushes the boundaries of what we know about the universe and can lead to innovations that benefit us on Earth. It also inspires future generations to think bigger and pursue careers in science and technology.
+
+
+
 
 #### Accommodation/Home
 Common questions focus on your living situation and preferences.
