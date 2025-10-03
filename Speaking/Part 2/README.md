@@ -20,7 +20,7 @@ The rikshaw is special to me because it reminds me of my time in Dhaka, where I 
 
 #### A Law
 - One law that I think is very good is the Social Welfare Act for Disabled Citizens.
-- This law was introduced in the Bangladesh Parliament in 2001.
+- This law was introduced in the Parliament Bangladesh in 2001.
 - It is designed to protect the rights and dignity of persons with disabilities in Bangladesh.
 - It ensures that disabled people have equal opportunities in society, including free education up to 18 years of age, medical assistance, vocational training, and reserved quotas in government jobs.
 - It offers blind, deaf and other physically or mentally disabled citizens to lead more independent and dignified lives.
