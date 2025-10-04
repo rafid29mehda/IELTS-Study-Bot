@@ -2,6 +2,7 @@
 
 #### An Injury
 - I tried to grab the thief’s arm to stop him, but ended up losing my balance and fall down.
+- As a result, I twisted my ankle badly.
 - Luckily a few shopkeepers noticed it and grabbed the thief's arm before he could escape.
 - I was more concerned about the elderly woman’s safety than my own injury.
 - At that time, I felt a mixture of emotions. On one hand, I was glad I managed to help the woman, but on the other hand, I was quite frustrated because I was injured and was in pain.
