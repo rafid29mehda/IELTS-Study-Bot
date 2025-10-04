@@ -1,16 +1,17 @@
-1. considerable increase
-2. Substantial drop
-3. subsequently
-4. followed by
-5. In the following three years
-6. accounted for / responsible for ... of the total ...
-7. spent **the largest proportion of** their budget on
-8. in terms of / regarding
-9. was **double the figure** of
-10. Meanwhile, the rate of spending on
-11. Despite the sharp hike in prices of tickets, ...
-12. Regarding the...
-13. In terms of food, ...
+1. the opposite was true in the case of
+2. considerable increase
+3. Substantial drop
+4. subsequently
+5. followed by
+6. In the following three years
+7. accounted for / responsible for ... of the total ...
+8. spent **the largest proportion of** their budget on
+9. in terms of / regarding
+10. was **double the figure** of
+11. Meanwhile, the rate of spending on
+12. Despite the sharp hike in prices of tickets, ...
+13. Regarding the...
+14. In terms of food, ...
 
 ## Common Trends
 1. **A significant proportion of** the budget was allocated to education in 2020.
