@@ -1,5 +1,16 @@
 ### 15 Most Common IELTS Speaking Part 2 Cue Cards with Sample Answers
 
+#### An Injury
+- I tried to grab the thief’s arm to stop him, but ended up losing my balance and fall down.
+- Luckily a few shopkeepers noticed it and grabbed the thief's arm before he could escape.
+- I was more concerned about the elderly woman’s safety than my own injury.
+- At that time, I felt a mixture of emotions. On one hand, I was glad I managed to help the woman, but on the other hand, I was quite frustrated because I was injured and was in pain.
+- I went to a nearby clinic to check my injury.
+- A doctor examined my ankle. Fortunately, it wasn’t a fracture,
+- I was advised to rest my ankle for few weeks.
+- Thankfully, my injury wasn’t too serious, and I was back to normal soon after.
+- Although it was painful incident, I was glad that the elderly woman got her purse back, and I felt proud of myself for trying to help.
+
 #### A company
 - One of the biggest companies in the world today is Microsoft.
 - It is a multinational technology company
