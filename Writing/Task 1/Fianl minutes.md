@@ -1,5 +1,6 @@
 - road that run from north to west / stretching from Dhaka to Sylhet
 - There is a road along the hospital, running from Dhaka to Sylhet.
+- Both supermarket sites are close to the railway **that runs through** from Hindon to Cransdon.
 
 ## Map
 
