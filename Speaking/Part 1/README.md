@@ -11,6 +11,10 @@ For each topic, questions can cover:
 **Where are you from?**
 I was born in Chittagong, which is one of the southern divisons of Bangladesh. However, I was brought up here in the capital of Bangladesh, Dhaka. My ancestors are from Dhaka as well.
 
+**Do you like your subject?**
+Yes, I enjoy my subject because I have always aspired to become a software engineer, and to become software engineer, programming and data structures are essential skills. This subject provides me with the opportunity to learn these skills, which makes it exciting for me.
+
+
 #### Plants
 
 - **1. Do you keep plants?**
