@@ -1,5 +1,21 @@
 ### 15 Most Common IELTS Speaking Part 2 Cue Cards with Sample Answers
 
+#### A company
+- One of the biggest companies in the world today is Microsoft.
+- It is a multinational technology company
+- its primary focus is on software, hardware, and cloud computing services.
+- It’s widely known for its flagship product, the Windows operating system, which is used by millions of people around the world.
+- In addition to that, Microsoft also produces a range of products, including Microsoft Office, Surface laptops, and Xbox gaming consoles.
+- I first learned about Microsoft during my school years when I was introduced to Microsoft Word and Excel for the first time.
+- These tools have been an integral part of my daily life and have helped me with everything from writing essays to organizing my personal finances.
+- Microsoft is considered a big company for several reasons. First, its products and services are used globally, making it a household name.
+- Second, its market capitalization and revenue are among the highest in the world, and it has a significant impact on the tech industry.
+- Microsoft also employs tens of thousands of people worldwide and
+- It continues to innovate in fields such as artificial intelligence and cloud computing, which keeps it at the forefront of the industry.
+- In my opinion, Microsoft has played an essential role in shaping the digital world.
+- Its products have made tasks like communication, data processing, and entertainment much more accessible to people around the globe.
+- The company has also been successful at adapting to technological advancements, such as shifting towards cloud computing with its Azure platform, which has further expanded its reach.
+
 #### Traditional Object
 - A traditional object of Bangladesh that I would like to talk about is the Rickshaw.
 - It is deeply rooted in our Bengali culture.
