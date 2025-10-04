@@ -9,7 +9,7 @@ For each topic, questions can cover:
 
 
 **Where are you from?**
-I am from Chittagong, Dhaka. However, I was born and brought up here in Dhaka, Bangladesh. My ancestors are from Chittagong.
+I was born in Chittagong, which is one of the southern divisons of Bangladesh. However, I was brought up here in the capital of Bangladesh, Dhaka. My ancestors are from Dhaka as well.
 
 #### Plants
 
