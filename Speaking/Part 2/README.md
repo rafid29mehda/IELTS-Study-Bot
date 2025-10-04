@@ -42,6 +42,7 @@
 - It’s an affordable mode of transport.
 - I admire the rickshaw because it plays a significant role in the country's cultural identity.
 - It serves as a major source of income for many families, particularly in cities where many people work as rickshaw pullers.
+- Overall, Rickshaw is not only a traditional object but also a sybmol of Bangladesh's rich history.
   
 The rikshaw is special to me because it reminds me of my time in Dhaka, where I grew up. I have fond memories of riding in rickshaws with my family to explore different parts of the city. The rickshaw represents a connection to the local community and is a symbol of hard work of the people in Bangladesh.
 
